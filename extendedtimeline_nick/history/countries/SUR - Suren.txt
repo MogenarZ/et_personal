@@ -1,0 +1,46 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = afghani
+religion = zoroastrian
+technology_group = middle_eastern
+capital = 435	# Sistan
+
+125.1.1 = {
+	monarch = {
+		name = "Pacores I"
+		dynasty = "Suren"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}
+
+135.1.1 = {
+	monarch = {
+		name = "Sanabares I"
+		dynasty = "Suren"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+160.1.1 = {
+	monarch = {
+		name = "Sanabares II"
+		dynasty = "Suren"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+220.1.1 = {
+	monarch = {
+		name = "Ardashir I"
+		dynasty = "Sakanshah"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}

@@ -1,0 +1,60 @@
+#Finland
+19   = "Pohjanmaa"
+27   = "Varsinais-Suomi"
+28   = "Uusimaa"
+29   = "Häme"
+30   = "Viipuri"
+31   = "Savo"
+1930 = "Ahvenanmaa"
+2005 = "Rovaniemi"
+4263 = "Pirkanmaa"
+4264 = "Karjala"
+4282 = "Inari"
+4283 = "Kainuu"
+#Russia
+34   = "Inkeri"
+274  = "Pihkova"
+295  = "Moskova"
+309  = "Aunus"
+310  = "Suur-Novgorod"
+313  = "Arkangeli"
+1776 = "Vienan Karjala"
+1777 = "Kuola"
+1955 = "Holmogory"
+1961 = "Laatokka"
+#Scandinavia
+1    = "Tukholma"
+2    = "Itä-Götanmaa"
+5    = "Värmlanti"
+6    = "Skoone"
+7    = "Länsi-Götanmaa"
+8    = "Taalainmaa"
+9    = "Helsinglanti"
+10   = "Jämtlanti"
+11   = "Länsipohja"
+12   = "Sjellanti"
+15   = "Keski-Jyllanti"
+18   = "Lappi"
+25   = "Gotlanti"
+26   = "Hallanti"
+315  = "Ruija"
+1984 = "Pohjois-Jyllanti"
+#Germany
+50   = "Berliini"
+61 = "Saksi"				#Dresden
+68 = "Svaabia"				#Schwaben
+#Poland
+47 = "Pommeri"				#Vorpommern
+#Benelux
+97 = "Hollanti"				#Holland
+#Baltics
+35   = "Saarenmaa"
+36   = "Tallinna"
+37   = "Liivinmaa"
+38   = "Riika"
+39   = "Kuurinmaa"
+273  = "Latgallia"
+1834 = "Tartto"
+#Italy
+112  = "Venetsia"
+118  = "Rooma"

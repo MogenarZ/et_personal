@@ -1,0 +1,16 @@
+103 = "Piemont"			#Piedmont
+175 = "Armanhac"		#Armagnac
+194 = "Brageirac"		#Bergerac
+195 = "Lemosin"			#Limousin
+196 = "Tolosa"			#Toulouse
+198 = "Roergue"			#Rouergue
+199 = "Auvèrnhe"		#Auvergne
+200 = "Lengadòc"		#languedoc
+201 = "Provença"		#Provence
+211 = "Pirenèus"		#Pironeo
+2598 = "Narbona"		#Narbonne
+3135 = "Draguinhan"		#Draguignan
+4245 = "Caors"			#Cahors
+4510 = "Engolaeme"		#Angoulême
+4514 = "Vivarés"		#Vivarais
+

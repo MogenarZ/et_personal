@@ -1,0 +1,60 @@
+#France
+88   = "Artez"			#Artois
+89   = "Pikardi"		#Picardie
+168  = "Normandi"		#Normandie
+169  = "Arvor"                  #Armor
+170  = "Penn-ar-Bed"		#Finistere
+171  = "Mor-Bihan"              #Morbihan
+172  = "Naoned"                 #Nantes
+173  = "Lapurdi"		#Labourd
+174  = "Gwaskogn"		#Gascogne
+175  = "Armanhac"		#Armagnac
+176  = "Bearn"			#Bearn
+178  = "Anjev"			#Anjou	
+180  = "Poatev"			#Poitou
+183  = "Enez-Frañs"		#Ile-de-France
+186  = "Champagn"		#Champagne
+189  = "Loren"			#Lothringen
+192  = "Bourgogn"		#Bourgogne
+193  = "Frankkontelezh"		#Franche-Comte
+195  = "Lemojez"		#Limousin
+196  = "Toloza"			#Toulouse
+198  = "Roergue"		#Rouergue
+199  = "Arvern"			#Auvergne
+200  = "Lengadok"		#Languedoc
+201  = "Provañs"		#Provence
+202  = "Avinhon"		#Avignon
+204  = "Daofinez"		#Dauphine
+205  = "Savoia"			#Savoie
+2753 = "Narbona"		#Narbonne
+4507 = "Roazhon"		#Rennes
+#Italy
+102  = "Nisa"			#Nice
+120  = "Abruz"			#Abbruzzi
+2976 = "Ombria"			#Umbria
+#Germany
+75   = "Elzas"			#Elsass
+#Benelux
+90   = "Flandrez"		#Vlaanderen
+94   = "Luksembourg"		#Luxemburg
+100  = "Friz"			#Friesland
+#Britain
+233  = "Kernev-Veur"		#Cornwall
+236  = "Londrez"		#London
+241  = "Morgannwg"		#Glamorgan
+372  = "Tír Eoghain"		#Tyrone
+373  = "An Mhí"			#Meath
+374  = "Laighean"		#Leinster
+375  = "Luimneach"		#Limerick
+376  = "Chonnacht"		#Connaught
+4118 = "Korkig"			#Cork
+4119 = "Sligeach"		#Sligo
+4120 = "Cill Dara"		#Kildare
+#Russia
+295  = "Moskov"			#Moskva
+#Iberia
+206  = "Galiza"			#Galicia
+207  = "Asturiez"		#Asturias
+211  = "Pireneoù"		#Pirineo
+333  = "Balearez"		#The Baleares
+1745 = "Kantabria"		#Cantabria

@@ -1,0 +1,12 @@
+#Baltics
+37 = "Vidzeme"              	#Livland
+39 = "Kuldiga"              	#Kurland
+110 = "Dienvidtirole"	      	#Trent
+273 = "Latgale"              	#Latgalia
+379 = "Jeruzaleme"		#Judea
+457 = "Taskenta"		#Tashkent
+1074 = "Tobolska"	     	#Sibir
+1834 = "Tartu"                	#Dorpat
+1935 = "Jelgava"              	#Semigallia
+2008 = "Singapura"		#Singapore
+4365 = "Cesis"			#Wenden

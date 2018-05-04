@@ -1,0 +1,26 @@
+government = iqta
+primary_culture = persian
+religion = sunni
+technology_group = muslim
+capital = 446	# Herat
+religious_school = hanafi_school
+
+1335.1.1 = {
+	monarch = {
+		name = "Mu'izzu'd-Din"
+		dynasty = "Kartid"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1370.1.1 = {
+	monarch = {
+		name = "Ghiyas al-Din Pir 'Ali"
+		dynasty = "Kartid"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}

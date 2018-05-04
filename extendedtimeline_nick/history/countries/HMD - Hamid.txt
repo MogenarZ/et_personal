@@ -1,0 +1,57 @@
+government = despotic_monarchy
+government_rank = 1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 1848	# Hamid
+religious_school = hanafi_school
+
+1240.1.1 = {
+	monarch = {
+		name = "Hamit Bey"
+		dynasty = "Hamidoglu"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1280.1.1 = {
+	monarch = {
+		name = "Ilyas Bey"
+		dynasty = "Hamidoglu"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1316.1.1 = {
+	monarch = {
+		name = "Dündar Bey"
+		dynasty = "Hamidoglu"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1324.1.1 = {
+	monarch = {
+		name = "Mahmut"
+		dynasty = "Hamidoglu"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+1402.1.1 = {
+	monarch = {
+		name = "Mahmut"
+		dynasty = "Hamidoglu"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}

@@ -1,0 +1,26 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = aztek
+religion = nahuatl
+technology_group = mesoamerican
+capital = 852	# Teotihuacan
+
+364.1.1 = {
+	monarch = {
+		name = "Atlatl Cauac"
+		dynasty = "Teotihuacan"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+439.1.1 = {
+	monarch = {
+		name = "(unknown)"
+		adm = 1
+		dip = 1
+		mil = 1
+		regent = yes
+	}
+}

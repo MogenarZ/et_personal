@@ -1,0 +1,6 @@
+282 = "Özü"
+318 = "Aydin"
+326 = "Ankarah"			#Ankara
+360 = "Circe"
+2368 = "Urfa"
+4435 = "Cengiri"		#Kangiri

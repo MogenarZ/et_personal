@@ -1,0 +1,3 @@
+382 = "Dimishi"			#Damascus
+695 = "Zhili"			#Hebei
+1821 = "Nanjing"		#Nanjing

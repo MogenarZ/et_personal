@@ -1,0 +1,10 @@
+64 = "Radasbona"		#Regensburg
+133 = "Lentos"			#Linz
+134 = "Vedunia"			#Vienna
+180 = "Piktavia"		#Poitou
+206 = "Gallaecia"		#Galicia
+236 = "Lowonidonjon"		#London
+1869 = "Turos"			#Zürich
+2121 = "Navissos"		#Nis
+2603 = "Dunonija"		#Vidin
+2763 = "Vareia"			#La Rioja

@@ -1,0 +1,12 @@
+government = tribal_despotism
+mercantilism = 0.1
+technology_group = early_chinese
+religion = animism
+primary_culture = shan
+capital = 583
+
+650.1.1 = { capital = 587 }
+
+750.1.1 = { technology_group = chinese }
+
+800.1.1 = { government = tribal_kingdom }

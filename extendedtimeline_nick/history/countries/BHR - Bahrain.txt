@@ -1,0 +1,110 @@
+government = tribal_federation
+mercantilism = 0.1
+primary_culture = gulf_arabic
+religion = shiite
+technology_group = muslim
+capital = 396	# Manama
+religious_school = jafari_school
+
+1783.1.1 = {
+	government = iqta
+	monarch = {
+		name = "Ahmed"
+		dynasty = "Al Khalifa"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1796.1.1 = {
+	monarch = {
+		name = "Abdullah"
+		dynasty = "Al Khalifa"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+1843.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Al Khalifa"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1868.1.1 = {
+	monarch = {
+		name = "Ali"
+		dynasty = "Al Khalifa"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+
+1869.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Al Khalifa"
+		adm = 4
+		dip = 5
+		mil = 1
+	}
+}
+
+1869.12.1 = {
+	monarch = {
+		name = "Isa"
+		dynasty = "Al Khalifa"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1932.12.10 = {
+	monarch = {
+		name = "Hamad"
+		dynasty = "Al Khalifa"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1942.2.20 = {
+	monarch = {
+		name = "Salman"
+		dynasty = "Al Khalifa"
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1961.11.2 = {
+	monarch = {
+		name = "Isa"
+		dynasty = "Al Khalifa"
+		adm = 2
+		dip = 6
+		mil = 4
+	}
+}
+
+1999.3.6 = {
+	monarch = {
+		name = "Hamad"
+		dynasty = "Al Khalifa"
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+
+2002.2.14 = { government = constitutional_monarchy }

@@ -1,0 +1,976 @@
+#
+# remember to add graphics for relevant ones when you add to this
+#
+# if a modifier is scaled, its multiplied with development in the province.
+
+#######################################
+# Imperialism
+#######################################
+imperialism = {
+	penalty = 0.5
+
+	bonus = {
+		core_creation = -0.20
+	}
+	
+	historical_start_date = 1750.1.1
+	historical_start_province = 236 #London
+
+	history = {
+		OR = {
+			AND = {
+				is_year = 1750
+				continent = europe
+				owner = { num_of_provinces = 50 }
+			}
+			AND = {
+				is_year = 1800
+				owner = { technology_group = western }
+			}
+			AND = {
+				is_year = 1850
+				owner = { capital_scope = { continent = europe } }
+			}
+			AND = {
+				is_year = 1900
+				culture = japanese
+			}
+			AND = {
+				is_year = 1945
+				always = yes
+			}
+		}
+	}
+	
+	can_start = {
+		is_year = 1750
+		
+		is_island = no
+		is_capital = yes
+		owner = { 
+			num_of_cities = 50
+			any_owned_province = { continent = europe }
+		}
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	on_start = et_institutions.1
+	
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+		modifier = {
+			factor = 0.1
+			scale = yes
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_imperialism
+				any_friendly_coast_border_province = {
+					enlightenment = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.1
+			scale = yes
+			
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_neighbor_has_embraced_imperialism
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+					enlightenment = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			continent = europe
+			is_capital = yes
+			owner = { any_owned_province = { NOT = { continent = europe } } }
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			custom_trigger_tooltip = {
+				tooltip = tooltip_full_expansion_and_influence
+				is_capital = yes
+				owner = {
+					full_idea_group = expansion_ideas
+					full_idea_group = influence_ideas
+				}
+			}
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			potential = {
+				owner = {
+					is_colonial_nation = yes
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_colonial_overlord_imperialism
+				OR = {
+					has_port = yes
+					is_capital = yes
+				}
+				owner = {
+					is_colonial_nation = yes
+					overlord = { has_institution = imperialism }
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			scale = yes
+			potential = {
+				owner = {
+					has_institution = imperialism
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_imperialism_embraced
+				owner = {
+					has_institution = imperialism
+				}
+			}
+		}
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Industrialization
+#######################################
+industrialization = {
+	penalty = 0.5
+
+	bonus = {
+		global_trade_goods_size_modifier = 0.2
+	}
+	
+	historical_start_date = 1800.1.1
+	historical_start_province = 240 #Birmingham
+
+	history = {
+		OR = {
+			AND = {
+				is_year = 1820
+				owner = { technology_group = western }
+				development = 30
+			}
+			AND = {
+				is_year = 1850
+				owner = { technology_group = western }
+				development = 20
+			}
+			AND = {
+				is_year = 1900
+				development = 30
+			}
+			AND = {
+				is_year = 1950
+				OR = {
+					development = 20
+					continent = europe
+					owner = { technology_group = western }
+				}
+			}
+			AND = {
+				is_year = 1980
+				development = 12
+			}
+			is_year = 2000
+		}
+	}
+	
+	can_start = {
+		is_year = 1800
+		
+		is_island = no
+		is_state = yes
+		owner = { has_institution = manufactories }
+		OR = {
+			has_building = factory
+			has_building = wharf
+			has_building = weapons
+			has_building = textile
+		}
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	on_start = et_institutions.2
+	
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+		modifier = {
+			factor = 0.1
+			scale = yes
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_industrialization
+				any_friendly_coast_border_province = {
+					industrialization = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.1
+			scale = yes
+			
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_neighbor_has_embraced_industrialization
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+					industrialization = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			has_building = factory
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			OR = {
+				has_building = wharf
+				has_building = weapons
+				has_building = textile
+			}
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			potential = {
+				owner = {
+					is_colonial_nation = yes
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_colonial_overlord_industrialization
+				OR = {
+					has_port = yes
+					is_capital = yes
+				}
+				owner = {
+					is_colonial_nation = yes
+					overlord = { has_institution = industrialization }
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			scale = yes
+			potential = {
+				owner = {
+					has_institution = industrialization
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_industrialization_embraced
+				owner = {
+					has_institution = industrialization
+				}
+			}
+		}
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+
+#######################################
+# Nationalism
+#######################################
+nationalism_institution = {
+	penalty = 0.5
+
+	bonus = {
+		land_morale = 0.1
+		years_of_nationalism = 5
+	}
+	
+	historical_start_date = 1850.1.1
+	historical_start_province = 236 #London
+
+	history = {
+		OR = {
+			AND = {
+				is_year = 1850
+				continent = europe
+				is_capital = yes
+			}
+			AND = {
+				is_year = 1880
+				owner = { technology_group = western }
+				owner = { primary_culture = ROOT }
+				development = 20
+			}
+			AND = {
+				is_year = 1900
+				owner = { technology_group = western }
+			}
+			is_year = 1960
+		}
+	}
+	
+	can_start = {
+		is_year = 1850
+		
+		is_island = no
+		is_in_capital_area = yes
+		owner = { 
+			has_institution = imperialism 
+			any_owned_province = { NOT = { culture = PREV } }
+		}
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	on_start = et_institutions.3
+	
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+		modifier = {
+			factor = 0.1
+			scale = yes
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_nationalism
+				any_friendly_coast_border_province = {
+					nationalism_institution = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.1
+			scale = yes
+			
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_neighbor_has_embraced_nationalism
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+					nationalism_institution = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			nationalism = 1
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			owner = {
+				has_institution = imperialism 
+				is_at_war = yes
+				NOT = { war_score = 0 }
+			}
+		}
+		modifier = {
+			factor = 2
+			scale = yes
+			is_capital = yes
+			continent = europe
+			development = 40
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			potential = {
+				owner = {
+					is_colonial_nation = yes
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_overlord_nationalism
+				OR = {
+					has_port = yes
+					is_capital = yes
+				}
+				owner = {
+					overlord = { has_institution = nationalism_institution }
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			scale = yes
+			potential = {
+				owner = {
+					has_institution = nationalism_institution
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_nationalism_embraced
+				owner = {
+					has_institution = nationalism_institution
+				}
+			}
+		}
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+#######################################
+# Electrification
+#######################################
+electrification = {
+	penalty = 0.5
+
+	bonus = {
+		development_cost = -0.2
+	}
+	
+	historical_start_date = 1900.1.1
+	historical_start_province = 236 #London
+
+	history = {
+		OR = {
+			AND = {
+				is_year = 1900
+				owner = { technology_group = western }
+				development = 40
+			}
+			AND = {
+				is_year = 1940
+				development = 30
+			}
+			AND = {
+				is_year = 1980
+				OR = {
+					continent = europe
+					development = 15
+				}
+			}
+		}
+	}
+	
+	can_start = {
+		is_year = 1900
+		
+		is_island = no
+		is_state = yes
+		is_in_capital_area = yes
+		OR = {
+			is_capital = yes
+			has_building = factory
+			has_building = wharf
+			has_building = weapons
+			has_building = textile
+			development = 50
+		}
+		owner = { has_institution = industrialization }
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	on_start = et_institutions.4
+	
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+		modifier = {
+			factor = 0.1
+			scale = yes
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_electrification
+				any_friendly_coast_border_province = {
+					electrification = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.1
+			scale = yes
+			
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_neighbor_has_embraced_electrification
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+					electrification = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 1
+			scale = yes
+			development = 40
+			owner = { adm_tech = 82 }
+		}
+		modifier = {
+			factor = 1
+			scale = yes
+			development = 20
+			owner = { adm_tech = 85 }
+		}
+		modifier = {
+			factor = 2
+			scale = yes
+			has_building = factory
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			potential = {
+				owner = {
+					is_colonial_nation = yes
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_colonial_overlord_electrification
+				OR = {
+					has_port = yes
+					is_capital = yes
+				}
+				owner = {
+					is_colonial_nation = yes
+					overlord = { has_institution = electrification }
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			scale = yes
+			potential = {
+				owner = {
+					has_institution = electrification
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_electrification_embraced
+				owner = {
+					has_institution = electrification
+				}
+			}
+		}
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+
+#######################################
+# Globalization
+#######################################
+globalization = {
+	penalty = 0.5
+
+	bonus = {
+		global_foreign_trade_power = 0.2
+	}
+	
+	historical_start_date = 1950.1.1
+	historical_start_province = 965 #New York
+
+	history = {
+		OR = {
+			AND = {
+				is_year = 1950
+				OR = {
+					continent = europe
+					owner = { tag = USA }
+				}
+				owner = { technology_group = western }
+			}
+			AND = {
+				is_year = 1970
+				owner = { technology_group = western }
+			}
+			AND = {
+				is_year = 2000
+				development = 20
+			}
+		}
+	}
+	
+	can_start = {
+		is_year = 1950
+		
+		is_island = no
+		is_state = yes
+		development = 40
+		OR = {
+			is_capital = yes
+			has_port = yes
+		}
+		owner = { adm_tech = 86 }
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	on_start = et_institutions.5
+	
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+		modifier = {
+			factor = 0.1
+			scale = yes
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_globalization
+				any_friendly_coast_border_province = {
+					globalization = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.1
+			scale = yes
+			
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_neighbor_has_embraced_globalization
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+					globalization = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.5
+			scale = yes
+			has_province_modifier = inland_center_of_trade_modifier
+		}
+		modifier = {
+			factor = 0.5
+			scale = yes
+			has_province_modifier = center_of_trade_modifier
+		}
+		modifier = {
+			factor = 1
+			scale = yes
+			development = 50
+			owner = { adm_tech = 86 }
+		}
+		modifier = {
+			factor = 1
+			scale = yes
+			has_building = stock_exchange
+			owner = { dip_tech = 86 }
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			potential = {
+				owner = {
+					is_colonial_nation = yes
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_colonial_overlord_globalization
+				OR = {
+					has_port = yes
+					is_capital = yes
+				}
+				owner = {
+					is_colonial_nation = yes
+					overlord = { has_institution = globalization }
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			scale = yes
+			potential = {
+				owner = {
+					has_institution = globalization
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_globalization_embraced
+				owner = {
+					has_institution = globalization
+				}
+			}
+		}
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}
+
+
+#######################################
+# The Internet
+#######################################
+internet = {
+	penalty = 0.5
+
+	bonus = {
+		global_tax_modifier = 0.1
+	}
+	
+	historical_start_date = 2000.1.1
+	historical_start_province = 1867 #CERN
+
+	history = {
+		is_year = 2000
+		owner = { has_institution = electrification }
+		OR = {
+			development = 6
+			continent = europe
+		}
+	}
+	
+	can_start = {
+		is_year = 2000
+		
+		is_island = no
+		is_state = yes
+		owner = { 
+			adm_tech = 90 
+			has_institution = electrification
+		}
+		development = 40
+	}
+	start_chance = 10		#in 100 for when a province can_start
+	
+	
+	on_start = et_institutions.6
+	
+	
+	can_embrace = {
+		always = yes
+	}
+
+	
+	embracement_speed = {
+		modifier = {
+			factor = 0.1
+			scale = yes
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_friendly_coast_border_province_has_embraced_internet
+				any_friendly_coast_border_province = {
+					internet = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 0.1
+			scale = yes
+			
+			custom_trigger_tooltip = {
+				tooltip = tooltip_any_neighbor_has_embraced_internet
+				any_neighbor_province = {
+					NOT = { owned_by = ROOT }
+					internet = 100
+				}
+			}
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			is_capital = yes
+			owner = { adm_tech = 90 }
+		}
+		modifier = {
+			factor = 1
+			scale = yes
+			owner = { 
+				dip_tech = 90 
+				has_institution = electrification
+			}
+		}
+		modifier = {
+			factor = 5
+			scale = yes
+			potential = {
+				owner = {
+					is_colonial_nation = yes
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_colonial_overlord_internet
+				OR = {
+					has_port = yes
+					is_capital = yes
+				}
+				owner = {
+					is_colonial_nation = yes
+					overlord = { has_institution = internet }
+				}
+			}
+		}
+		modifier = {
+			factor = 2
+			scale = yes
+			potential = {
+				owner = {
+					has_institution = internet
+				}
+			}
+			custom_trigger_tooltip = {
+				tooltip = tooltip_internet_embraced
+				owner = {
+					has_institution = internet
+				}
+			}
+		}
+	}
+	
+	ai_will_do = { #Cost of embracing institution must be lower than this factor * last month's regular income, and higher if loans are needed. (Or it has a more than long term goal...)
+		factor = 24
+		
+		modifier = {
+			factor = 0.25
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.1
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.2
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.3
+		}
+		modifier = {
+			factor = 2
+			neighbors_tech_discount = 0.4
+		}
+	}
+}

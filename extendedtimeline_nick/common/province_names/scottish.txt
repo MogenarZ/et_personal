@@ -1,0 +1,10 @@
+#Britain
+236  = "Lunnon"       	 #London
+248  = "Lowden"       	 #Lothian
+249  = "Ayr"          	 #Ayrshire
+251  = "Aiberdeen"    	 #Aberdeen
+252  = "Innerness"    	 #Inverness
+253  = "Wastren Isles"	 #Western Isles
+1978 = "Zetland"	 #Shetlands
+#France
+1247 = "Corsicae"     	 #Corsica

@@ -1,0 +1,53 @@
+government = constitutional_republic
+primary_culture = fulani
+religion = sunni
+technology_group = muslim
+capital = 2313
+religious_school = maliki_school
+
+1910.1.1 = { religion = secularism }
+
+1958.10.2 = {
+	monarch = {
+		name = "Ahmed Sékou Touré"
+		adm = 3
+		mil = 3
+		dip = 4
+	}
+}
+
+1984.4.3 = {
+	monarch = {
+		name = "Lansana Conté"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+
+2008.12.23 = {
+	monarch = {
+		name = "Moussa Dadis Camara"
+		adm = 3
+		mil = 4
+		dip = 2
+	}
+}
+
+2009.12.3 = {
+	monarch = {
+		name = "Sékouba Konaté"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+2010.12.21 = {
+	monarch = {
+		name = "Alpha Condé"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}

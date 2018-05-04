@@ -1,0 +1,2 @@
+14 = "Fjón"			#Fyn
+379 = "Jórsalir"		#Judea

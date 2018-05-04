@@ -1,0 +1,2 @@
+712 = "Gumo"			#Aksu
+1821 = "Nanjing"		#Nanjing

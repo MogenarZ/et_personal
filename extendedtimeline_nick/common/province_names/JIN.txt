@@ -1,0 +1,8 @@
+669 = "Jin'an"		#Fuzhou
+683 = "Xunyang"		#Nanchang
+684 = "Qiantang"	#Hangzhou
+691 = "Jinan Fu"	#Jinan
+697 = "Xijing"		#Datong
+1016 = "Jiuzhen"	#Nghe An
+1821 = "Jiankang"	#Nanjing
+2498 = "Xuzhou"		#Yangzhou

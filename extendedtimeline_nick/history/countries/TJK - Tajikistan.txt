@@ -1,0 +1,61 @@
+government = iqta
+mercantilism = 0.1
+technology_group = muslim
+religion = sunni
+primary_culture = tajik
+capital = 1968	# Dushanbe
+religious_school = hanafi_school
+
+1910.1.1 = { religion = secularism }
+
+1950.1.1 = { government = constitutional_republic }
+
+1991.9.9 = {
+	monarch = {
+		name = "Rahmon Nabiyev"
+		adm = 4
+		dip = 3
+		mil = 3
+		religion = sunni
+	}
+}
+
+1991.10.6 = {
+	monarch = {
+		name = "Akbarsho Iskandrov"
+		adm = 2
+		dip = 3
+		mil = 2
+		religion = sunni
+	}
+}
+
+1991.12.2 = {
+	monarch = {
+		name = "Rahmon Nabiyev"
+		adm = 4
+		dip = 3
+		mil = 3
+		religion = sunni
+	}
+}
+
+1992.9.7 = {
+	monarch = {
+		name = "Akbarsho Iskandrov"
+		adm = 2
+		dip = 3
+		mil = 2
+		religion = sunni
+	}
+}
+
+1992.11.20 = {
+	monarch = {
+		name = "Emomali Rahmon"
+		adm = 4
+		dip = 2
+		mil = 4
+		religion = sunni
+	}
+}

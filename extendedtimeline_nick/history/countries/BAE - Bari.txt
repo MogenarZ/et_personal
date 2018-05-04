@@ -1,0 +1,40 @@
+government = iqta
+government_rank = 1
+mercantilism = 0.1
+primary_culture = al_misr_arabic
+religion = sunni
+technology_group = muslim
+capital = 122	# Bari
+religious_school = maliki_school
+
+847.1.1 = {
+	monarch = {
+		name = "Kalfün"
+		dynasty = "Bari"
+		adm = 4
+		dip = 6
+		mil = 6
+	}
+}
+
+855.1.1 = {
+	monarch = {
+		name = "Mufarrag ibn Sallam"
+		dynasty = "Bari"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+857.1.1 = {
+	monarch = {
+		name = "Sawdan"
+		dynasty = "Bari"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+

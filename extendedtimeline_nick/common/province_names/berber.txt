@@ -1,0 +1,11 @@
+#Algiers
+336 = "Tala Imsan"                      #Tlemcen
+#Tunis
+339 = "Tamurt Leqbayel"                 #Bejaia
+354 = "Trables"                         #Tripolitania/Tripoli
+337 = "Wehran"                          #Oran
+#Morocco 
+334 = "Tin Iggi"                        #Tangiers
+
+#Added vanilla names
+

@@ -1,0 +1,2 @@
+621 = "Bangka Hulu"		#Bengulen
+2413 = "Hujung Galuh"		#Surabaya

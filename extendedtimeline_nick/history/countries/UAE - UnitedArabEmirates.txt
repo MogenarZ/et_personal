@@ -1,0 +1,27 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = gulf_arabic
+religion = sunni
+technology_group = muslim
+capital = 2543	# Abu Dhabi
+religious_school = hanbali_school
+
+1950.1.1 = { government = constitutional_republic }
+
+1971.12.1 = {
+	monarch = {
+		name = "Zayed bin Sultan Al Nahyan"
+		adm = 4
+		dip = 4
+		mil = 1
+	}
+}
+
+2004.11.3 = {
+	monarch = {
+		name = "Khalifa bin Zayed Al Nahyan"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}

@@ -1,0 +1,119 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 681	#Jingzhou
+
+750.1.1 = { technology_group = chinese }
+
+924.4.14 = {
+	monarch = {
+		name = "Jixing"
+		dynasty = "Gao"
+		birth_date = 858.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+924.4.14 = {
+	heir = {
+		name = "Conghui"
+		monarch_name = "Conghui"
+		dynasty = "Gao"
+		birth_date = 891.1.1
+		death_date = 948.12.1
+		claim = 95
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+}
+
+928.1.28 = {
+	monarch = {
+		name = "Conghui"
+		dynasty = "Gao"
+		birth_date = 891.1.1
+		adm = 0
+		dip = 3
+		mil = 4
+	}
+}
+
+928.1.28 = {
+	heir = {
+		name = "Baorong"
+		monarch_name = "Baorong"
+		dynasty = "Gao"
+		birth_date = 918.1.1
+		death_date = 960.1.1
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+948.12.1 = {
+	monarch = {
+		name = "Baorong"
+		dynasty = "Gao"
+		birth_date = 918.1.1
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+948.12.1 = {
+	heir = {
+		name = "Baoxu"
+		monarch_name = "Baoxu"
+		dynasty = "Gao"
+		birth_date = 930.1.1
+		death_date = 962.1.1
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+960.1.1 = {
+	monarch = {
+		name = "Baoxu"
+		dynasty = "Gao"
+		birth_date = 930.1.1
+		adm = 4
+		dip = 5
+		mil = 3
+	}
+}
+
+960.1.1 = {
+	heir = {
+		name = "Jichong"
+		monarch_name = "Jichong"
+		dynasty = "Gao"
+		birth_date = 930.1.1
+		death_date = 963.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+}
+
+962.1.1 = {
+	monarch = {
+		name = "Jichong"
+		dynasty = "Gao"
+		birth_date = 930.1.1
+		adm = 0
+		dip = 2
+		mil = 4
+	}
+}

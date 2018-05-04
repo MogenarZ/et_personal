@@ -1,0 +1,2 @@
+6 = "Sconaowe"			#Skåne
+168 = "Normanz"			#Normandie	

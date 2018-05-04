@@ -1,0 +1,21 @@
+#Caucasia
+423 = "Qartli"
+420 = "Hereti"
+462 = "Samegrelo"
+463 = "Oseti"
+1856 = "Abkhazeti"
+2124 = "Jiqeti"
+2264 = "Durdzuketi"
+2267 = "Klarjeti"
+330 = "Trapizoni"
+331 = "Tao"
+419 = "Somkheti"
+2260 = "Cherqezeti"
+#Persia
+416 = "Adurbadagani"
+424 = "Artabili"
+2283 = "Zenjani"
+2280 = "Qurtistani"
+#Anatolia
+331 = "Erzrumi"
+2268 = "Erzinjani"

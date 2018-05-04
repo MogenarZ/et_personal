@@ -1,0 +1,72 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = early_chinese
+religion = tengri_pagan_reformed
+secondary_religion = mahayana
+primary_culture = tocharian
+capital = 739	# Kashgar
+
+2.1.1 = {
+	monarch = {
+		name = "Cheng"
+		dynasty = "Shule"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+73.1.1 = {
+	monarch = {
+		name = "Douti"
+		dynasty = "Shule"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+110.1.1 = {
+	monarch = {
+		name = "Zhong"
+		dynasty = "Shule"
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+140.1.1 = {
+	monarch = {
+		name = "Chenpan"
+		dynasty = "Shule"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+168.1.1 = {
+	monarch = {
+		name = "Hede"
+		dynasty = "Shule"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+180.1.1 = { religion = mahayana }
+
+250.1.1 = {
+	monarch = {
+		name = "(unknown)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+720.1.1 = { primary_culture = uyghur }
+750.1.1 = { technology_group = chinese }

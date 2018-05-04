@@ -1,0 +1,30 @@
+#Britain
+236  = "Lunnainn"			#London
+245  = "Eabhraig"			#Yorkshire
+248  = "Lodainn"			#Lothian
+249  = "Inbhir Air"			#Ayrshire
+250  = "Fiobha"				#Fife
+251  = "Obar Dheathain"			#Aberdeen
+252  = "Inbhir Nis"			#Inverness
+253  = "Na h-Eileanan Siar"		#Western Isles
+369  = "Arcaibh"			#Orkney
+376  = "Coigeamh Chonnacht"		#Connaught
+1978 = "Sealtainn"			#Shetlands
+4121 = "Coigeamh Uladh"			#Ulster
+4242 = "Cataibh"			#Sutherland
+4487 = "Dun Phris"			#Dumfries
+4488 = "Earra-Ghaidheal"		#Argyll
+4498  = "A'Chorn"			#Cornwall
+#France
+168  = "Normandaidh"			#Normandie
+170  = "Penn-ar-Bed"			#Finistere
+#Italy
+118  = "An Roimh"			#Roma
+#Germany
+134  = "Vienna"				#Wien
+165  = "Berne"				#Bern
+#Czechia
+265  = "Morabhia"			#Moravia
+266  = "Prag"				#Prague
+#Russia
+295  = "Mosgo"				#Moskva

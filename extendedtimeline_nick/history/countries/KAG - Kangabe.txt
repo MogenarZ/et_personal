@@ -1,0 +1,8 @@
+government = tribal_despotism
+primary_culture = mali
+religion = shamanism
+technology_group = sub_saharan
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+capital = 2316	# Kangabe

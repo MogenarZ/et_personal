@@ -1,0 +1,235 @@
+government = despotic_monarchy
+government_rank = 3
+mercantilism = 0.1
+primary_culture = roman
+add_accepted_culture = greek
+add_accepted_culture = old_egyptian
+religion = chalcedonism
+technology_group = roman_group
+historical_friend = ROW
+historical_rival = PRT
+historical_rival = SAS
+capital = 151	# Constantinople
+fixed_capital = 151
+
+
+395.1.17 = {
+	monarch = {
+		name = "Arcadius"
+		dynasty = "Theodosian"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+401.4.10 = {
+	heir = {
+		name = "Theodosius"
+		monarch_name = "Theodosius II"
+		dynasty = "Theodosian"
+		birth_date = 401.4.10
+		death_date = 450.7.28
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+408.5.1 = {
+	monarch = {
+		name = "Theodosius II"
+		dynasty = "Theodosian"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+450.7.28 = {
+	monarch = {
+		name = "Marcian"
+		dynasty = "Theodosian"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+457.2.7 = {
+	monarch = {
+		name = "Leo I"
+		dynasty = "Leonid"
+		adm = 6
+		dip = 3
+		mil = 4
+	}
+}
+
+467.1.1 = {
+	heir = {
+		name = "Leo"
+		monarch_name = "Leo II"
+		dynasty = "Leonid"
+		birth_date = 467.1.1
+		death_date = 474.11.17
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+474.1.18 = {
+	monarch = {
+		name = "Leo II"
+		dynasty = "Leonid"
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+474.11.17 = {
+	monarch = {
+		name = "Zeno"
+		dynasty = "Leonid"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+475.1.9 = {
+	monarch = {
+		name = "Basiliscus"
+		dynasty = "Leonid"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+476.9.1 = {
+	monarch = {
+		name = "Zeno"
+		dynasty = "Leonid"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+491.4.11 = {
+	monarch = {
+		name = "Anastasius I"
+		dynasty = "Leonid"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+518.7.9 = {
+	monarch = {
+		name = "Justin I"
+		dynasty = "Justinian"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+518.7.9 = {
+	heir = {
+		name = "Justinian"
+		monarch_name = "Justinian I"
+		dynasty = "Justinian"
+		birth_date = 482.1.1
+		death_date = 565.11.14
+		claim = 95
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+}
+
+527.8.1 = {
+	monarch = {
+		name = "Justinian I"
+		dynasty = "Justinian"
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+}
+
+527.8.1 = { leader = {	name = "Belisarius"	type = general	rank = 1	fire = 2	shock = 6	manuever = 4	siege = 2	death_date = 565.1.1 } }
+
+527.8.1 = {
+	heir = {
+		name = "Justin"
+		monarch_name = "Justin II"
+		dynasty = "Justinian"
+		birth_date = 520.1.1
+		death_date = 578.10.5
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+565.11.14 = {
+	monarch = {
+		name = "Justin II"
+		dynasty = "Justinian"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+565.11.14 = {
+	heir = {
+		name = "Tiberius Constantine"
+		monarch_name = "Tiberius II Constantine"
+		dynasty = "Justinian"
+		birth_date = 520.1.1
+		death_date = 582.8.14
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+578.10.5 = {
+	monarch = {
+		name = "Tiberius II Constantine"
+		dynasty = "Justinian"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+582.8.14 = {
+	monarch = {
+		name = "Maurice"
+		dynasty = "Justinian"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+602.11.23 = {
+	monarch = {
+		name = "Phocas"
+		dynasty = "Phocian"
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}

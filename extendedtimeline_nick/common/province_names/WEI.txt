@@ -1,0 +1,3 @@
+699 = "Weizhou"			#Lanzhou
+707 = "Huiji"			#Yumen
+1821 = "Yecheng"		#Nanjing

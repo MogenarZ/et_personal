@@ -1,0 +1,63 @@
+#654 - Visayas
+
+latent_trade_goods = {
+	coal
+}
+
+culture = filipino
+religion = animism
+capital = "Cebu"
+trade_goods = unknown
+hre = no
+discovered_by = chinese
+discovered_by = asian
+discovered_by = early_chinese
+base_tax = 2
+base_production = 2
+base_manpower = 2
+native_size = 10
+native_ferocity = 4
+native_hostileness = 5
+
+1200.1.1 = {
+	owner = CEB
+	controller = CEB
+	add_core = CEB
+	is_city = yes
+	religion = hinduism
+	trade_goods = gems #Pearls
+}
+
+1521.1.1 = { discovered_by = SPA } # Ferdinand Magellan
+1565.6.4 = {
+	owner = SPA
+	controller = SPA
+	add_core = SPA 
+	religion = catholic
+}
+1762.10.6 = {
+	controller = GBR
+	unrest = 6
+} # Captured by the British East India Company. Diego Silang rebellion
+1763.2.10 = { controller = SPA } # Spain regained control
+1763.9.10 = { unrest = 0 } # The revolts are defeated
+
+1750.1.1 = { base_tax = 4 base_production = 4 }
+1775.1.1 = { base_tax = 5 base_production = 6 base_manpower = 2 }
+1800.1.1 = { base_production = 8 base_manpower = 4 }
+1825.1.1 = { base_tax = 7 base_production = 10 }
+1851.1.1 = { base_tax = 8 base_production = 12 base_manpower = 5 }
+1872.1.1   = { add_core = PHI }
+1875.1.1 = { base_production = 15 base_manpower = 6 }
+1898.8.12  = { owner = USA controller = USA add_core = USA remove_core = SPA }
+1901.1.1 = { base_tax = 10 base_production = 16 base_manpower = 7 }
+1925.1.1 = { base_tax = 12 base_production = 17 base_manpower = 8 }
+1942.1.2   = { controller = JAP }
+1945.3.1   = { controller = USA }
+1946.7.4   = { owner = PHI controller = PHI remove_core = USA }
+1951.1.1 = { base_tax = 13 base_production = 18 base_manpower = 10 }
+1975.1.1 = { base_tax = 14 base_manpower = 13 }
+2000.1.1 = { base_tax = 18 base_manpower = 17 }
+
+
+

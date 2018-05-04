@@ -1,0 +1,45 @@
+government = iqta
+mercantilism = 0.1
+primary_culture = mongol
+religion = shiite
+technology_group = muslim
+capital = 427	# Astarabad
+religious_school = hanafi_school
+
+1335.1.1 = {
+	monarch = {
+		name = "Togha Temür"
+		dynasty = "Borjigin"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1335.1.1 = {
+	heir = {
+		name = "Luqman"
+		monarch_name = "Luqman"
+		dynasty = "Borjigin"
+		birth_date = 1320.1.1
+		death_date = 1380.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1353.12.1 = {
+	primary_culture = mazandarani
+	monarch = {
+		name = "Amir Vali"
+		dynasty = "Astarabadi"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1367.1.1 = { capital = 2286 } #Semnan
+1374.1.1 = { capital = 427 } #Astarabad

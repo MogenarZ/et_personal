@@ -1,0 +1,43 @@
+government = despotic_monarchy
+government_rank = 1
+mercantilism = 0.1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 322 # Kütahya
+religious_school = hanafi_school
+
+1300.1.1 = {
+	monarch = {
+		name = "Yakub I"
+		dynasty = "Germiyanid"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}
+
+1388.1.1 = {
+	monarch = {
+		name = "Yakub II"
+		dynasty = "Germiyanid"
+		birth_date = 1352.1.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1402.8.1 = {
+	monarch = {
+		name = "Yakub II"
+		dynasty = Germiyan
+		birth_date = 1352.1.1
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+	add_piety = 0.25
+}
+
+# Annexed by the Ottoman Empire

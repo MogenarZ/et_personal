@@ -1,0 +1,7 @@
+379 = "Quddus"			#Judea
+438 = "Qoraqum"			#Karakum
+441 = "Xiva"			#Khiva
+454 = "Samarqand"		#Samarkand
+1075 = "Chimgi-Tura"
+1973 = "Urganch"		#Urgench
+

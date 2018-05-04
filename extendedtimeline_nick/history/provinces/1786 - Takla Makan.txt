@@ -1,0 +1,44 @@
+#1786 - Takla Makan
+
+culture = tocharian
+religion = tengri_pagan_reformed
+capital = "Taklamakan"
+trade_goods = unknown
+hre = no
+discovered_by = nomad_group
+discovered_by = eastern_nomad_group
+discovered_by = western_nomad_group
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 30
+native_ferocity = 4
+native_hostileness = 9
+
+add_permanent_province_modifier = {
+	name = hard_to_colonize
+	duration = -1
+}
+
+680.1.1 = { culture = uyghur }
+
+1280.1.1 = { religion = vajrayana }
+1850.1.1   = { 	owner = QNG 
+		controller = QNG
+		add_core = QNG
+		trade_goods = grain
+		capital = "Yuli"
+		is_city = yes
+		}
+1862.4.1   = { revolt = { type = nationalist_rebels size = 2 } controller = REB } #Dungan Revolt
+1877.5.30  = { revolt = {} controller = QNG }
+1890.1.1   = { discovered_by = western }
+1912.2.12  = { owner = CHN controller = CHN add_core = CHN remove_core = QNG }
+1940.1.1   = {  discovered_by = eastern
+		discovered_by = muslim
+		discovered_by = ottoman
+		discovered_by = asian
+	     }
+
+
+

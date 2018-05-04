@@ -1,0 +1,5 @@
+123 = "Calabro"			#Calabria
+124 = "Missina"			#Messina
+125 = "Palermu"			#Palermo
+133 = "Sarausa"			#Syracuse
+377 = "Aleppu"			#Aleppo

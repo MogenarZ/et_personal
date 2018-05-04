@@ -1,0 +1,402 @@
+government = celestial_empire
+government_rank = 3
+mercantilism = 0.1
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 700	# Chang'an
+
+2.1.1 = {
+ 	monarch = {
+		name = "Ping"
+		dynasty = "Han"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+6.2.3 = {
+ 	monarch = {
+		name = "Ruzi"
+		dynasty = "Han"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+9.1.1 = {
+ 	monarch = {
+		name = "Wang Mang"
+		dynasty = "Xin"
+		adm = 3
+		dip = 3
+		mil = 6
+	}
+}
+
+23.10.6 = {
+ 	monarch = {
+		name = "Gengshi"
+		dynasty = "Han"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+
+25.1.1 = { capital = 2492 } #Luoyang
+
+25.8.5 = {
+ 	monarch={
+		name= "Guangwu"
+		dynasty= "Han"
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+}
+
+57.3.29 = {
+ 	monarch={
+		name= "Ming"
+		dynasty= "Han"
+		adm = 6
+		dip = 4
+		mil = 3
+	}
+}
+
+75.1.1 = {
+ 	monarch={
+		name= "Zhang"
+		dynasty= "Han"
+		adm = 6
+		dip = 4
+		mil = 4
+	}
+}
+
+88.1.1 = {
+ 	monarch={
+		name= "He"
+		dynasty= "Han"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+105.2.13 = {
+ 	monarch={
+		name= "(regency council)"
+		regent = yes
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+106.9.1 = {
+ 	monarch={
+		name= "An"
+		dynasty= "Han"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+125.1.1 = {
+ 	monarch={
+		name= "Shun"
+		dynasty= "Han"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+144.1.1 = {
+	monarch = {
+		name = "(regency council)"
+		regent = yes
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+145.1.1 = {
+	monarch = {
+		name = "Zhi"
+		dynasty = "Han"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+146.1.1 = {
+	monarch = {
+		name = "Huan"
+		dynasty = "Han"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+168.1.1 = {
+	monarch = {
+		name = "Ling"
+		dynasty = "Han"
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+189.5.13 = {
+	monarch = {
+		name = "Lingsi"
+		dynasty = "Han"
+		adm = 3
+		dip = 4
+		mil = 2
+		female = yes
+	}
+}
+
+189.9.28 = {
+	monarch = {
+		name = "Xian"
+		dynasty = "Han"
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+190.1.1 = { capital = 700 } #Chang'an
+250.1.1 = { government = despotic_monarchy }
+300.1.1 = { primary_culture = sichuanese capital = 679 }
+
+338.1.1 = {
+	monarch = {
+		name = "Shou"
+		dynasty = "Li"
+		birth_date = 300.1.1
+		adm = 2
+		dip = 0
+		mil = 4
+	}
+}
+
+338.1.1 = {
+	heir = {
+		name = "Shi"
+		monarch_name = "Shi"
+		dynasty = "Li"
+		birth_date = 320.1.1
+		death_date = 361.1.1
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+343.1.1 = {
+	monarch = {
+		name = "Shi"
+		dynasty = "Li"
+		birth_date = 320.1.1
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+350.1.1 = { primary_culture = chihan capital = 700 }
+750.1.1 = { technology_group = chinese }
+947.3.10 = { government = celestial_empire }
+
+947.3.10 = {
+	capital = 688 #Kaifeng
+	monarch = {
+		name = "Zhiyuan"
+		dynasty = "Liu"
+		birth_date = 895.3.4
+		adm = 5
+		dip = 1
+		mil = 5
+	}
+}
+
+947.3.10 = {
+	heir = {
+		name = "Chengyou"
+		monarch_name = "Chengyou"
+		dynasty = "Liu"
+		birth_date = 931.3.28
+		death_date = 951.1.2
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+948.3.10 = {
+	monarch = {
+		name = "Chengyou"
+		dynasty = "Liu"
+		birth_date = 931.3.28
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+948.3.10 = {
+	heir = {
+		name = "Min"
+		monarch_name = "Min"
+		dynasty = "Liu"
+		birth_date = 896.1.1
+		death_date = 954.1.1
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+}
+
+951.1.2 = {
+	capital = 2505 #Taiyuan
+	monarch = {
+		name = "Min"
+		dynasty = "Liu"
+		birth_date = 896.1.1
+		adm = 5
+		dip = 4
+		mil = 0
+	}
+}
+
+951.1.2 = {
+	heir = {
+		name = "Jun"
+		monarch_name = "Jun"
+		dynasty = "Liu"
+		birth_date = 924.1.1
+		death_date = 968.1.1
+		claim = 95
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+951.2.13 = { government = despotic_monarchy }
+
+954.1.1 = {
+	monarch = {
+		name = "Jun"
+		dynasty = "Liu"
+		birth_date = 924.1.1
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+
+954.1.1 = {
+	heir = {
+		name = "Ji'en"
+		monarch_name = "Ji'en"
+		dynasty = "Liu"
+		birth_date = 938.1.1
+		death_date = 968.6.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+968.1.1 = {
+	monarch = {
+		name = "Ji'en"
+		dynasty = "Liu"
+		birth_date = 938.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+968.1.1 = {
+	heir = {
+		name = "Jiyuan"
+		monarch_name = "Jiyuan"
+		dynasty = "Liu"
+		birth_date = 940.1.1
+		death_date = 992.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+968.6.1 = {
+	monarch = {
+		name = "Jiyuan"
+		dynasty = "Liu"
+		birth_date = 940.1.1
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1350.1.1 = { capital = 682 }
+
+1360.1.1 = {
+	monarch = {
+		name = "Youliang"
+		dynasty = "Chen"
+		birth_date = 1320.1.1
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1360.1.1 = {
+	heir = {
+		name = "Li"
+		monarch_name = "Li"
+		dynasty = "Chen"
+		birth_date = 1340.1.1
+		death_date = 1404.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1363.8.23 = {
+	monarch = {
+		name = "Li"
+		dynasty = "Chen"
+		birth_date = 1340.1.1
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}

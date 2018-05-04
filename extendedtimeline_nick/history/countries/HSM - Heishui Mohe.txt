@@ -1,0 +1,58 @@
+government = steppe_horde
+mercantilism = 0.1
+technology_group = eastern_nomad_group
+primary_culture = manchu
+religion = tengri_pagan_reformed
+capital = 2562
+
+720.1.1 = {
+	monarch = {
+		name = "Nishuliji"
+		dynasty = "Heishui"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+750.1.1 = { technology_group = nomad_group }
+
+800.1.1 = {
+	monarch = {
+		name = "(unknown)"
+		regent = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+900.1.1 = {
+	monarch = {
+		name = "Gaoziluo"
+		dynasty = "Heishui"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+950.1.1 = {
+	monarch = {
+		name = "Agulang"
+		dynasty = "Heishui"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1000.1.1 = {
+	monarch = {
+		name = "Adoutuofu"
+		dynasty = "Heishui"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}

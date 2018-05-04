@@ -1,0 +1,28 @@
+government = iqta
+mercantilism = 0.1
+primary_culture = andalucian
+religion = sunni
+add_accepted_culture = berber
+technology_group = muslim
+capital = 221	# Murcia
+religious_school = maliki_school
+
+1081.1.1 = {
+	monarch = {
+		name = "Al-Mundir 'Imad ad-Dawla"
+		dynasty = "Huddid"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1090.1.1 = {
+	monarch = {
+		name = "Sulayman Sayyid"
+		dynasty = "Huddid"
+		adm = 4
+		dip = 3
+		mil = 1
+	}
+}

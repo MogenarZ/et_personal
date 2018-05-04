@@ -1,0 +1,6 @@
+622 = "Kikang"			#Palembang
+725 = "Hansia"			#Hanseong
+1020 = "Kiato"			#Kyoto
+1816 = "Pakkia"			#Beijing
+2008 = "Sinkapho"		#Singapore
+2858 = "Taipak"			#Kelam

@@ -1,0 +1,4 @@
+#Ukraine
+284  = "Qirim"     #Crimea
+285  = "Kefe"      #Kaffa
+2410 = "Aqyar"     #Theodoro

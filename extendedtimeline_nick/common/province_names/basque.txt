@@ -1,0 +1,7 @@
+173 = "Lapurdi"			#Labourd
+174 = "Gaskoinia"		#Gascogne
+176 = "Bearno"			#Béarn
+209 = "Bizkaia"			#Vizcaya
+210 = "Nafarroa"		#Navarra
+211 = "Pirinioak"		#Pirineo
+2763 = "Errioxa"		#La Rioja

@@ -1,0 +1,17 @@
+617 = "Lamuri"			#Aceh
+620 = "Siyak"			#Siak
+621 = "Bengkulu"		#Bengulen
+636 = "Berune"			#Brunei
+643 = "Banggawi"		#Pose
+646 = "Ambwan"			#Ambon
+647 = "Sran"			#Ceram
+651 = "Solot"			#Sulu
+659 = "Niran"			#Riau
+1245 = "Wanin"			#Manokwari
+2008 = "Tumasik"		#Singapore
+2399 = "Samudra"		#Pasai
+2402 = "Barus"			#Batak
+2413 = "Hujung Galuh"		#Surabaya
+2426 = "Tanjungnagara"		#Borneo
+2866 = "Butun"			#Buton
+3089 = "Kanjab"			#Lingga

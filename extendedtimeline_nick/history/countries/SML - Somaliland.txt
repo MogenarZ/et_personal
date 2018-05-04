@@ -1,0 +1,9 @@
+government = iqta
+mercantilism = 0.1
+primary_culture = somali
+religion = sunni
+technology_group = muslim
+capital = 2690
+religious_school = shafii_school
+
+1940.1.1 = { government = constitutional_republic }

@@ -1,0 +1,41 @@
+#Czechia
+60   = "Gurno Luzyca"		#Lausitz
+263  = "Raciburz"		#Ratibor
+264  = "Breslawia"		#Breslau
+265  = "Morawijo"		#Moravia
+266  = "Praga"			#Prague
+1763 = "Dolno Luzyca"		#Niederlausitz
+3097 = "Gloguw"			#Glogau
+#Poland
+43   = "Gdansk"			#Danzig
+254  = "Poznany"		#Poznan
+262  = "Krakuw"			#Krakow
+1858 = "Sztetin"		#Stettin
+#France
+183  = "Paryz"			#Paris
+#Italy
+118  = "Rzim"			#Roma
+#Germany
+134  = "Wjedyn"			#Wien
+#Hungary
+153  = "Peszt"			#Pest
+#Russia
+295  = "Moskwa"			#Moskva
+#Serbia
+141  = "Syrbijo"		#Serbia
+1766 = "Kosowo"			#Kosovo
+#Iberia
+217  = "Madryt"			#Madrid
+#Caucasus
+419  = "Erywan"			#Yerevan
+#China
+1816 = "Bejdzing"		#Beijing
+#Egypt
+358  = "Aleksandryjo"		#Alexandria
+361  = "Kajir"			#Cairo
+#Ukraine
+280  = "Kijuw"			#Kiev
+#Britain
+236  = "Lundyn"			#London
+#Scandinavia
+1    = "Sztokholm"		#Stockholm

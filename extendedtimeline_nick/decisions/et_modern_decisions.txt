@@ -1,0 +1,68 @@
+country_decisions = {
+
+	construct_nuclear_weapon = {
+		potential = {
+			OR = {
+				has_country_flag = nuclear_weapons_allowed
+				current_age = information_age
+			}
+		}
+		allow = {
+			NOT = { has_country_modifier = recently_constructed_nuclear_weapon }
+			mil_tech = 87
+			treasury = 1000
+			mil_power = 100
+		}
+		effect = {
+			add_treasury = -500
+			add_years_of_income = -0.1
+			add_mil_power = -100
+			add_prestige = 10
+			if = {
+				limit = { has_country_modifier = nuclear_state }
+				change_variable = {
+					which = num_of_nuclear_weapons
+					value = 1
+				}
+			}
+			if = {
+				limit = { NOT = { has_country_modifier = nuclear_state } }
+				add_country_modifier = {
+					name = "nuclear_state"
+					duration = -1
+				}
+				set_variable = {
+					which = num_of_nuclear_weapons
+					value = 1
+				}
+			}
+			add_country_modifier = {
+				name = "recently_constructed_nuclear_weapon"
+				duration = 180
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { treasury = 1500 }
+			}
+			modifier = {
+				factor = 0
+				NOT = { total_development = 300 }
+			}
+			modifier = {
+				factor = 0
+				all_rival_country = {
+					NOT = {
+						check_variable = {
+							which = num_of_nuclear_weapons
+							which = ROOT
+						}
+					}
+				}
+			}
+		}
+	}
+	
+}

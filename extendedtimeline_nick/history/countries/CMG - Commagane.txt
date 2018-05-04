@@ -1,0 +1,26 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = armenian
+religion = hellenism
+technology_group = middle_eastern
+capital = 2368	# Sophene
+
+2.1.1 = {
+	monarch = {
+		name = "Antiochus III"
+		dynasty = "Orontid"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+38.1.1 = {
+	monarch = {
+		name = "Antiochus IV"
+		dynasty = "Orontid"
+		adm = 1
+		dip = 4
+		mil = 3
+	}
+}

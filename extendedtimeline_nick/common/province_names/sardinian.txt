@@ -1,0 +1,2 @@
+127 = "Casteddu"			#Cagliari
+3134 = "Tàtari"				#Sassari

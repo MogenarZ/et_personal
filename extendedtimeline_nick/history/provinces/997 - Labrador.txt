@@ -1,0 +1,45 @@
+#997 - Chisedec
+
+culture = inuit
+religion = shamanist
+capital = "Chisedec"
+trade_goods = unknown
+hre = no
+discovered_by = north_american
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 2
+native_hostileness = 7
+
+1498.1.1 = { discovered_by = POR } # João Fernandes Lavrador
+1576.7.28 = { discovered_by = ENG } # Martin Frobisher
+1713.4.11 = {
+	owner = FRA
+	controller = FRA
+	culture = cosmopolitan_french
+	religion = catholic
+	citysize = 100
+} # Borders determined by Treaty of Utrecht
+1738.7.13 = { add_core = FRA }
+1750.1.1 = { citysize = 680 trade_goods = fish }
+1763.2.10 = {
+	owner = GBR
+	controller = GBR
+	remove_core = FRA
+} # Treaty of Paris
+1788.2.10 = { add_core = GBR }
+1790.1.1  = { culture = british_canadian }
+1800.1.1 = { is_city = yes }
+
+1880.1.1 = { discovered_by = eastern discovered_by = muslim discovered_by = ottoman discovered_by = asian }
+1907.9.26  = { owner = NFL controller = NFL add_core = NFL remove_core = GBR }
+1934.1.1   = { capital = "Port Hope Simpson" }
+1934.2.16  = { owner = GBR controller = GBR add_core = GBR }
+1949.3.31  = { owner = CAN controller = CAN add_core = CAN remove_core = GBR remove_core = NFL }
+1949.3.31  = { owner = CAN controller = CAN add_core = CAN remove_core = GBR }
+
+
+
+

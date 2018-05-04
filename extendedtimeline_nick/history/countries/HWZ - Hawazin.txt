@@ -1,0 +1,6 @@
+government = tribal_federation
+mercantilism = 0.1
+technology_group = middle_eastern
+religion = south_arabian
+primary_culture = bedouin_arabic
+capital = 2535	

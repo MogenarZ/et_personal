@@ -1,0 +1,37 @@
+#2098 - Watjarri
+
+culture = aboriginal
+religion = animism
+capital = "Watjarri"
+native_size = 90
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+native_ferocity = 4.5
+native_hostileness = 9
+
+add_permanent_province_modifier = {
+	name = hard_to_colonize
+	duration = -1
+}
+
+1697.1.10  = { discovered_by = NED } # Willem de Vlamingh
+
+1825.1.1 = { base_tax = 2 }
+1850.1.1   = { 	owner = GBR
+		controller = GBR
+		citysize = 100
+		culture = english
+		religion = protestant
+		capital = "Geraldton"
+		trade_goods = iron
+	     }
+1860.1.1   = { culture = british_australian }
+1870.1.1   = { add_core = GBR }
+1900.1.1   = { is_city = yes }
+1901.1.1   = { owner = AUS controller = AUS add_core = AUS remove_core = GBR }
+1920.1.1   = { discovered_by = eastern discovered_by = muslim discovered_by = ottoman discovered_by = asian }
+
+

@@ -1,0 +1,260 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = alan
+religion = tengri_pagan_reformed
+technology_group = western_nomad_group
+capital = 463	# Alania
+
+2.1.1 = {
+	monarch = {
+		name = "Spadines"
+		dynasty = "Aorsi"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+30.1.1 = {
+	monarch = {
+		name = "Eunones"
+		dynasty = "Aorsi"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+120.1.1 = {
+	monarch = {
+		name = "Kuluk"
+		dynasty = "Alan"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+
+200.1.1 = {
+	monarch = {
+		name = "(interregnum)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+280.1.1 = {
+	monarch = {
+		name = "Askhkadar"
+		dynasty = "Alan"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+350.1.1 = {
+	monarch = {
+		name = "Boz-Uruz"
+		dynasty = "Alan"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+370.1.1 = {
+	monarch = {
+		name = "Balambar"
+		dynasty = "Alan"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+380.1.1 = {
+	monarch = {
+		name = "Alatey"
+		dynasty = "Alan"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+390.1.1 = {
+	monarch = {
+		name = "Safrak"
+		dynasty = "Alan"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+400.1.1 = {
+	monarch = {
+		name = "Saros"
+		dynasty = "Alan"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+440.1.1 = {
+	monarch = {
+		name = "Kandak"
+		dynasty = "Alan"
+		adm = 3
+		dip = 1
+		mil = 4
+	}
+}
+
+500.1.1 = {
+	monarch = {
+		name = "(interregnum)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+580.1.1 = {
+	monarch = {
+		name = "Alanui K'an"
+		dynasty = "Alan"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+640.1.1 = {
+	monarch = {
+		name = "(interregnum)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+700.1.1 = {
+	government = despotic_monarchy
+	technology_group = eastern
+	monarch = {
+		name = "Itaz"
+		dynasty = "Alan"
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+}
+
+760.1.1 = {
+	monarch = {
+		name = "(interregnum)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+932.1.1 = { religion = orthodox }
+
+950.1.1 = {
+	monarch = {
+		name = "Urdure"
+		dynasty = "Alan"
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+1000.1.1 = {
+	monarch = {
+		name = "Durgulel"
+		dynasty = "Alan"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1060.1.1 = {
+	monarch = {
+		name = "Yasynya"
+		dynasty = "Alan"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1110.1.1 = {
+	monarch = {
+		name = "Aton"
+		dynasty = "Bagrationi"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+
+1140.1.1 = {
+	monarch = {
+		name = "Huddan"
+		dynasty = "Alan"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+
+1160.1.1 = {
+	monarch = {
+		name = "Suarn"
+		dynasty = "Alan"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+}
+
+1189.1.1 = {
+	monarch = {
+		name = "David Soslan"
+		dynasty = "Alan"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1207.1.1 = {
+	monarch = {
+		name = "Vladislav"
+		dynasty = "Alan"
+		adm = 1
+		dip = 2
+		mil = 1
+	}
+}
+
+1220.1.1 = {
+	monarch = {
+		name = "Khankhusy"
+		dynasty = "Alan"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}

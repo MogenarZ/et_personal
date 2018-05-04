@@ -1,0 +1,121 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = early_chinese
+religion = confucianism
+primary_culture = chihan
+capital = 700	# Chang'an
+
+557.1.1 = {
+	monarch = {
+		name = "Ming"
+		dynasty = "Zhou"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+561.1.1 = {
+	monarch = {
+		name = "Wu"
+		dynasty = "Zhou"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+
+578.1.1 = {
+	monarch = {
+		name = "Xuan"
+		dynasty = "Zhou"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+579.1.1 = {
+	monarch = {
+		name = "Jing"
+		dynasty = "Zhou"
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+
+750.1.1 = { technology_group = chinese }
+
+951.1.1 = {
+	capital = 688 #Kaifeng
+	monarch = {
+		name = "Taizu"
+		dynasty = "Zhou"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+951.2.13 = { government = despotic_monarchy }
+
+954.1.1 = {
+	monarch = {
+		name = "Shizong"
+		dynasty = "Zhou"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+959.1.1 = {
+	monarch = {
+		name = "Gongdi"
+		dynasty = "Zhou"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+960.1.1 = { government = despotic_monarchy }
+
+1350.1.1 = { capital = 1822 primary_culture = wu } #Suzhou
+
+1354.1.1 = {
+	monarch = {
+		name = "Shicheng"
+		dynasty = "Zhang"
+		birth_date = 1321.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+1380.1.1 = { capital = 662 primary_culture = cantonese } #Yunnan
+
+1662.1.1 = {
+	monarch = {
+		name = "Sangui"
+		dynasty = "Wu"
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+
+1678.8.1 = {
+	monarch = {
+		name = "Shifan"
+		dynasty = "Wu"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+

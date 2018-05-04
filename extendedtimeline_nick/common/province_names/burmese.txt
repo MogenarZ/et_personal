@@ -1,0 +1,15 @@
+580 = "Kalaymyo"
+582 = "Mohnyin"
+583 = "Theinni"
+584 = "Inwa"			#Ava
+587 = "Kyaingtong"
+588 = "Mone"
+590 = "Mawlamyine"
+591 = "Myeik"
+2257 = "Putao"
+2258 = "Mogaung"
+2259 = "Thibaw"
+2370 = "Thandwe"
+2372 = "Mobye"
+2374 = "Dawei"
+

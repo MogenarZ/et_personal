@@ -1,0 +1,8 @@
+2265 = "Ereti"                   
+2264 = "Shake"                   
+2263 = "Ekhni"                   
+419 = "Gardman"                  
+416 = "Atropatene"               
+420 = "Kapalak"                  421 = "Lpina"                    
+424 = "Kaspiana"                 
+425 = "Bekh"                     2282 = "Utik"                   

@@ -1,0 +1,125 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 22 157 57 }
+
+historical_idea_groups = {
+	early_religious_ideas
+	early_mil_ideas
+	early_adm_ideas
+	early_trade_ideas
+
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	economic_ideas
+	religious_ideas
+	quantity_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Sargis #2" = 20
+	"Beka #1" = 20
+	"Shalva #0" = 20
+	"Qvarqvare #1" = 40
+	"Aghbugha #1" = 40
+	"Ivane #2" = 20
+	"Kaikhosro	#0" = 20
+	"Mzetchabuki #0" = 20
+	"Manuchar #0" = 40
+	"Teimuraz #0" = 0
+	"Archil #0" = 0
+	"Bakar #0" = 0
+	"Iesse #0" = 0
+	"Kaihosro #0" = 0
+	"Rostom-Mirza #0" = 0
+	"Levan #0" = 0
+	"Demetre #2" = 0
+	"Stefanoz #0" = 0
+	"Anzori #0" = 0
+	"Bebur #0" = 0
+	"Birtveli #0" = 0
+	"Djurkha #0" = 0
+	"Gulikho #0" = 0
+	"Kartlos #0" = 0
+	"Koki #0" = 0
+	"Kviria #0" = 0
+	"Lukhum #0" = 0
+	"Malkhazi #0" = 0
+	"Mushni #0" = 0
+	"Okhropir #0" = 0
+	"Orbeli #0" = 0
+	"Revaz #0" = 0
+	"Takha #0" = 0
+	"Torgva #0" = 0
+	"Tornike #0" = 0
+	"Tsotne #0" = 0
+	"Xareba #0" = 0
+	"Zviadi #0" = 0
+	
+	"Thamar #0" = -1
+	"Anna #0" = -1
+	"Tinatin #0" = -1
+	"Tamar #0" = -1
+	"Darejan #0" = -1
+	"Mariam  #0" = -1
+	"Khvaramze #0" = -1
+	"Banjanum #0" = -1
+}
+
+leader_names = { 
+	Andronikashvili
+	Asrenidze Avashvili 
+	Bakradze Chkheidze 
+	Chkhenkeli Devdariani
+	Gabashvili Gardapkhadze
+	Gedevanishvili Gegechkori
+	Gulisashvili Gvazava
+	Javakhishvili Karalashvili
+	Kereselidze Kvinitadze 
+	Lomtatitdze Maglakelidze
+	Mazniashvili Natadze
+	Nikoladze Robakidze
+	Sharashidze Surguladze
+	Takaishvili Tsereteli
+	Tsulukidze Vachnadze
+	Zaldastanishvili Zhordania
+}
+
+ship_names = {
+	Aragveti Anacopia Artaani Abkhazeti
+	Bichvinta Batomi
+	Dmanisi Demetre
+	Ereti
+	Geguti Gelati
+	Kutatsi Kharnabuji Kura
+	Lasharisjvari Lore
+	Mtkvari
+	Narikala
+	Ruisi Racha
+	Seti Svaneti
+	Tamar Tbilisi Telavi Tashiri
+	Urbnisi
+}

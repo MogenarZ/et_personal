@@ -1,0 +1,108 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = early_indian
+religion = hinduism
+primary_culture = bihari
+capital = 2236	# Kannauj
+
+520.1.1 = {
+	monarch = {
+		name = "Hari Varman"
+		dynasty = "Maukhari"
+		adm = 1
+		mil = 3
+		dip = 2
+	}
+}
+
+530.1.1 = {
+	monarch = {
+		name = "Aditya Varman"
+		dynasty = "Maukhari"
+		adm = 2
+		mil = 3
+		dip = 4
+	}
+}
+
+540.1.1 = {
+	monarch = {
+		name = "Ishvara Varman"
+		dynasty = "Maukhari"
+		adm = 4
+		mil = 3
+		dip = 2
+	}
+}
+
+550.1.1 = {
+	monarch = {
+		name = "Ishana Varman"
+		dynasty = "Maukhari"
+		adm = 3
+		mil = 1
+		dip = 4
+	}
+}
+
+560.1.1 = {
+	monarch = {
+		name = "Sharva Varman"
+		dynasty = "Maukhari"
+		adm = 3
+		mil = 3
+		dip = 2
+	}
+}
+
+575.1.1 = {
+	monarch = {
+		name = "Avanti Varman"
+		dynasty = "Maukhari"
+		adm = 3
+		mil = 3
+		dip = 4
+	}
+}
+
+600.1.1 = {
+	monarch = {
+		name = "Graha Varman"
+		dynasty = "Maukhari"
+		adm = 1
+		mil = 3
+		dip = 4
+	}
+}
+
+605.1.1 = {
+	monarch = {
+		name = "Yagna Varman"
+		dynasty = "Maukhari"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+647.1.1 = {
+	monarch = {
+		name = "Isana Varman"
+		dynasty = "Maukhari"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}
+
+700.1.1 = {
+	monarch = {
+		name = "Avanti Varman"
+		dynasty = "Maukhari"
+		adm = 2
+		mil = 3
+		dip = 2
+	}
+}
+
+750.1.1 = { technology_group = indian }

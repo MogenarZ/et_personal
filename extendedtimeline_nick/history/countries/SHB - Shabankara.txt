@@ -1,0 +1,27 @@
+government = tribal_kingdom
+mercantilism = 0.1
+primary_culture = luri
+religion = sunni
+technology_group = muslim
+capital = 431	# Hormuz
+religious_school = hanafi_school
+
+1030.1.1 = {
+	monarch = {
+		name = "Fadluya"
+		dynasty = "Ramanid"
+		adm = 2
+		dip = 2
+		mil = 5
+	}
+}
+
+1335.1.1 = {
+	monarch = {
+		name = "Ardashir"
+		dynasty = "Ramanid"
+		adm = 2
+		dip = 5
+		mil = 3
+	}
+}

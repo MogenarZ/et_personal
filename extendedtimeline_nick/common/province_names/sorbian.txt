@@ -1,0 +1,74 @@
+#Germany
+13   = "Šleswig"		#Slesvig
+45   = "Lubica"			#Lubeck
+46   = "Zwerin"			#Schwerin
+50   = "Barlin"			#Berlin
+57   = "Brunšwik"		#Hannover
+58   = "Anhaltska"		#Anhalt
+59   = "Bela Hora"		#Meissen
+60   = "Hornja Lužica"		#Lausitz
+61   = "Sakska"			#Dresden
+62   = "Lipsk"			#Leipzig
+63   = "Durinska"		#Thuringen
+64   = "Rezno"			#Regensburg
+65   = "Mnichow"		#Munchen
+66   = "Babin"			#Bamberg
+67   = "Norimberk"		#Franken
+70   = "Wurttembergska"		#Wurttemberg
+74   = "Badenska"		#Baden
+78   = "Mohuc"			#Mainz
+81   = "Hessenska"		#Hessen
+82   = "Westfalska"		#Lippe
+85   = "Kolin"			#Koln
+1757 = "Hornja Pfalca"		#Oberpfalz
+1759 = "Podstupim"		#Potsdam
+1761 = "Pfalca"			#Pfalz
+1763 = "Delnja Lužica"		#Niederlausitz
+1775 = "Holštynska"		#Holstein
+1858 = "Šcecin"			#Stettin
+1874 = "Bremy"			#Bremen
+1876 = "Frankobrod"		#Frankfurt
+3097 = "Hlohow"			#Glogau
+3118 = "Kamjenica"		#Chemnitz
+3119 = "Dzewin"			#Magdeburg
+3120 = "Roztok"			#Rostock
+#Poland
+49   = "Lubuš"			#Neumark
+257  = "Waršawa"		#Warszawa
+262  = "Krakow"			#Krakow
+264  = "Wróclaw"		#Breslau
+#Czechia
+265  = "Morawa"			#Moravia
+266  = "Praha"			#Prague
+267  = "Šumawa"			#Plsen
+1771 = "Rudne horiny"		#Erz
+3109 = "Budzejowicy"		#Budejovice
+#Slovakia
+1772 = "Brecislaw"		#Bratislava
+#Austria
+76   = "Solnohród"		#Salzburg
+128  = "Korutanska"		#Karnten
+132  = "Štyrska"		#Steiermark
+133  = "Hornja Awstriska"	#Linz
+134  = "Win"			#Wien
+1770 = "Delnja Awstriska"	#Ostmarch
+#Benelux
+94   = "Luxemburgska"		#Luxemburg
+100  = "Friziska"		#Friesland
+#Russia
+33   = "Petrohród"		#Neva
+41   = "Kralowc"		#Ostpreussen
+295  = "Moskwa"			#Moskva
+299  = "Woronjež"		#Voronezh
+306  = "Nižny Nowgorod"		#Nijni-Novgorod
+310  = "Nowgorod"		#Novgorod
+#Belarus
+292  = "Mahiljow"		#Mogilyov
+1937 = "Hrodno"			#Grodno
+2605 = "Wicebsk"		#Vitebsk
+#Ukraine
+279  = "Wolyn"			#Volhynia
+280  = "Kijew"			#Kiev
+284  = "Krim"			#Crimea
+290  = "Poltawa"		#Poltava
+291  = "Charkow"		#Kharkov

@@ -1,0 +1,42 @@
+government = iqta
+government_rank = 1
+primary_culture = persian
+religion = shiite
+technology_group = muslim
+capital = 432 # Kerman
+religious_school = ismaili_school
+
+932.1.1 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Ilyasid"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+967.1.1 = {
+	monarch = {
+		name = "Ilyasa"
+		dynasty = "Ilyasid"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1335.1.1 = {
+	primary_culture = mongol
+	monarch = {
+		name = "Kutb al-Din"
+		dynasty = "Kermani"
+		adm = 2
+		dip = 2
+		mil = 1
+	}
+}
+
+1350.1.1 = { primary_culture = persian }
+
+1504.1.1 = { religious_school = jafari_school }

@@ -1,0 +1,9 @@
+583 = "Saen Wi"
+587 = "Chiang Tung"
+591 = "Marit"
+614 = "Wiangchan"			#Vientiane
+725 = "Krung Sol"			#Hanseong
+1823 = "Chiang Taeng"
+1829 = "Amoi"				#Xiamen
+2374 = "Thawai"
+2391 = "Phnmpey"			#Phnom Penh

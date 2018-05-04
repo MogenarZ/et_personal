@@ -1,0 +1,265 @@
+#Iberia
+206  = "Galizia"			#Galicia
+207  = "Asturie"			#Asturias
+209  = "Biscaglia"			#Vizcaya
+211  = "Pirinei"			#Pirineo
+213  = "Barcellona"			#Barcelona
+214  = "Aragona"			#Zaragoza
+215  = "Vecchia Castiglia"		#Castilla la Vieja
+220  = "Valenza"			#Valencia
+223  = "Granata"			#Granada
+224  = "Siviglia"			#Sevilla
+225  = "Cordova"			#Cordoba
+226  = "Gibilterra"			#Gibraltar
+227  = "Lisbona"			#Lisboa
+231  = "Oporto"				#Porto
+232  = "Braganza"			#Braganca
+333  = "Baleari"			#The Baleares
+1749 = "Cadice"				#Cadiz
+2754 = "La Mancia"			#La Mancha
+#France
+89   = "Piccardia"			#Picardie
+168  = "Normandia"			#Normandie
+170  = "Finisterra"			#Finistere
+174  = "Guascogna"			#Gascogne
+178  = "Angio"				#Anjou
+183  = "Isola di Francia"		#Ile-de-France
+184  = "Orleanese"			#Orleanais
+186  = "Sciampagna"			#Champagne
+189  = "Lorena"				#Lothringen
+190  = "Borbonese"			#Bourbonnais
+192  = "Borgogna"			#Bourgogne
+193  = "Franca Contea"			#Franche-Comte
+195  = "Limosino"			#Limousin
+196  = "Tolosa"				#Toulouse
+197  = "Rossiglione"			#Roussillion
+199  = "Alvernia"			#Auvergne
+200  = "Linguadoca"			#Languedoc
+201  = "Provenza"			#Provence
+202  = "Avignone"			#Avignon
+203  = "Lionesi"			#Lyonnais
+204  = "Delfinato"			#Dauphine
+1743 = "Cambrai"			#Cambray
+#Benelux
+90   = "Fiandre"			#Vlaanderen
+91   = "Hainaut"			#Hainaut
+92   = "Brabante"			#Brabant
+93   = "Liegi"				#Liege
+94   = "Lussemburgo"			#Luxemburg
+96   = "Zelanda"			#Zeeland
+97   = "Olanda"				#Holland
+99   = "Gheldria"			#Gelre
+100  = "Frisia"				#Friesland
+1742 = "Limburgo"			#Limburg
+1744 = "Anversa"			#Antwerpen
+1865 = "Gand"				#Ghent
+1866 = "Namur"				#Namur
+#Italy
+101  = "Genova"				#Genoa
+102  = "Nizza"				#Nice
+103  = "Piemonte"			#Piedmont
+104  = "Milano"				#Milan
+109  = "Mantova"			#Mantua
+112 = "Venezia"				#Venezia
+118 = "Roma"				#Rome
+110  = "Trento"				#Trent
+120  = "Abruzzo"			#Abbruzzi
+121 = "Napoli"				#Napoli
+123 = "Calabria"			#Calabria
+127 = "Sardinia"			#Sardinia
+205  = "Savoia"				#Savoie
+1247 = "Corsica"			#Corsica
+1934 = "Lucania"			#Lucania
+2981 = "Montferrato"			#Montferrat
+3133 = "Siracusa"			#Syracuse
+#Britain
+233  = "Cornovaglia"			#Cornwall
+236  = "Londra"				#London
+240  = "Mierce"				#Marches
+#Germany
+44   = "Amburgo"			#Hamburg
+45   = "Lubecca"			#Lubeck
+49   = "Nuova Marca"			#Neumark
+50   = "Berlino"			#Berlin
+55   = "Oldenburgo"			#Oldenburg
+60   = "Alta Lusazia"			#Lausitz/Oberlausitz
+61   = "Sassonia"			#Dresden
+62   = "Lipsia"				#Leipzig
+63   = "Turingia"			#Erfurt
+65   = "Monaco di Baviera"		#Munchen
+66   = "Bambergo"			#Bamberg
+67   = "Norimberga"			#Nurnberg
+69   = "Alta Svevia"			#Oberschwaben
+73   = "Tirolo"				#Tirol
+75   = "Alsazia"			#Elsass
+76   = "Salisburghese"			#Salzburg
+78   = "Magonza"			#Mainz
+80   = "Treviri"			#Trier
+81   = "Assia"				#Hessen
+82   = "Vestfalia"			#Lippe
+85   = "Colonia"			#Koln
+128  = "Carinzia"			#Karnten
+129  = "Carniola"			#Krain
+132  = "Stiria"				#Steiermark
+134  = "Vienna"				#Wien
+165  = "Berna"				#Bern
+166  = "Paesi Forestali"		#Waldstatte
+1757 = "Alto Palatinato"		#Oberpfalz
+1760 = "Coblenza"			#Koblenz
+1761 = "Palatinato"			#Alzey/Pfalz
+1763 = "Bassa Lusazia"			#Niederlausitz
+1768 = "Tirolo orientale"		#Lienz
+1769 = "Gorizia"			#Gorz
+1770 = "Marca Orientale"		#Ostmarch
+1858 = "Stettino"			#Stettin
+1867 = "Vaud"				#Freiburg
+1868 = "Augusta"			#Augsburg
+1869 = "Zurigo"				#Zurich
+1870 = "San Gallo"			#St Gallen
+1871 = "Vallese"			#Wallis
+1873 = "Grigioni"			#Chur
+1874 = "Brema"				#Bremen
+1876 = "Francoforte"			#Frankfurt
+1878 = "Aquisgrana"			#Aachen
+1931 = "Frisia orientale"		#East Frisia
+2957 = "Ratisbona"			#Regensburg		
+2975 = "Kleve"				#Kleves
+3119 = "Magdeburgo"			#Magdeburg	
+#Poland
+43   = "Danzica"			#Danzig
+257  = "Varsavia"			#Warszawa
+262  = "Cracovia"			#Krakow
+#Slovakia
+162  = "Cassovia"			#Zemplen
+1772 = "Posonio"			#Pozsony
+#Czechia
+266  = "Praga"				#Prague
+1771 = "Monti Metalliferi"		#Erz
+#Hungary
+135  = "Odenburgo"			#Sopron
+#Croatia
+131  = "Zagabria"			#Zagreb
+136  = "Dalmazia"			#Dalmatia
+152  = "Varasdino"			#Varasd
+#Serbia
+138  = "Montenegro"			#Zeta
+143  = "Alessio"			#Albania
+1766 = "Cossovo"			#Kosovo	
+3000 = "Nissa"				#Nis
+4265 = "Valona"				#Vlore			|checked
+4266 = "Durazzo"			#Durres			|checked
+#Bulgaria
+159  = "Silistra"			#Silistra
+1764 = "Bourgas"			#Burgas
+2750 = "Filippopoli"			#Plovdiv
+#Romania	
+160  = "Valacchia Minore"		#Oltenia
+161  = "Grande Valacchia"		#Muntenia
+#Baltics
+39   = "Curlandia"			#Kurland
+271  = "Samogizia"			#Samogitia
+272  = "Vilna"				#Vilno
+#Belarus
+275  = "Polack"				#Polotsk
+#Russia
+33   = "San Pietroburgo"		#Neva
+34   = "Ingria"				#Ingermanland
+294  = "Tver'"				#Tver
+295  = "Mosca"				#Moskva
+297  = "Brjansk"			#Bryansk
+299  = "Voronež"			#Voronezh
+301  = "Rjazan'"			#Ryazan
+306  = "Nižnij Novgorod"		#Nizhny Novgorod
+308  = "Jaroslavl'"			#Yaroslavl
+310  = "Novgorod la Grande"		#Novgorod
+1033 = "Sachalin"			#Sakhalin
+1075 = "Tjumen'"			#Tyumen
+1971 = "Caricyn"			#Tsaritsyn
+2408 = "Lipeck"				#Lipetsk
+#Ukraine
+261  = "Halyc"				#Halicz
+279  = "Volinia"			#Volhynia
+280  = "Kiev"				#Kiev
+283  = "Zaporožja"			#Zaporozhia
+285  = "Cafa"				#Kaffa	
+289  = "Cernigov"			#Chernigov
+291  = "Charkov"			#Kharkov
+1942 = "Žytomyr"			#Zhytomyr
+1943 = "Braclav"			#Bratslav
+1944 = "Cerkasy"			#Cherkasy
+1945 = "Novgorod-Severskij"		#Siveria
+1974 = "Cherson"			#Kherson
+2406 = "Nikolaev"			#Nikolaev
+2409 = "Lugansk"			#Bahmut
+2410 = "Teodoro"			#Theodoro
+2411 = "Ekaterinoslav"			#Mansur	
+2412 = "Mariupol'"			#Kyzyl-Var
+2413 = "Doneck"				#Tyn
+2961 = "Leopoli"			#Lwow
+#Greece
+142  = "Corcira"			#Corfu
+144  = "Epiro"				#Janina
+146  = "Atene"				#Athens
+147  = "Tessaglia"			#Salonica
+163  = "Creta"				#Crete
+164  = "Nasso"				#Naxos
+320  = "Rodi"				#Rhodes
+321  = "Cipro"				#Cyprus
+1773 = "Acaia"				#Achaea
+2007 = "Salonicco"			#Thessaloniki
+2348 = "Scio"				#Chios
+3003 = "Negroponte"			#Euboea
+4267 = "Etolia"				#Aetolia
+#Turkey
+149  = "Adrianopoli"			#Edirne
+326  = "Angora"				#Ankara
+340  = "Constantinopoli"		#Constantinople
+2313 = "Antiochia di Siria"		#Antioch
+#Caucasus	
+419  = "Erevan"				#Yerevan
+#China
+1816 = "Pechino"			#Beijing
+#Algeria
+337  = "Orano"				#Oran
+1816 = "Pechino"			#Beijing
+#Tunisia
+341  = "Tunisi"				#Tunis
+354  = "Tripoli d'Occidente"		#Tripolitania
+#Egypt
+356  = "Bengasi"			#Banghazi
+358  = "Alessandria d'Egitto"		#Alexandria
+361  = "Il Cairo"			#Cairo
+#Syria
+378  = "Tripoli"			#Tripoli
+379  = "Gerusalemme"			#Jerusalem
+382  = "Damasco"			#Damascus
+1855 = "Sidone"				#Sidon
+#Iraq
+410  = "Bagdad"				#Baghdad
+411  = "Mossul"				#Mosul
+#Arabia
+384  = "Medina"				#Medina
+385  = "La Mecca"			#Mecca
+#Scandinavia
+1    = "Stoccolma"			#Stockholm
+6    = "Scania"				#Skane
+12   = "Selandia"			#Sjaelland
+14   = "Fionia"				#Fyn
+15   = "Jutland centrale"		#Jylland
+18   = "Lapponia svedese"		#Lappland
+19   = "Ostrobotnia"			#Osterbotten
+27   = "Finlandia"			#Finland
+28   = "Terra nuova"			#Nyland
+1776 = "Carelia"			#Karelia
+1983 = "Lalandia"			#Lalland		
+1984 = "Jutland settentrionale"		#Nordjylland
+#Africa
+2055 = "Phasania"			#Fezzan
+
+#Added vanilla names
+2125 = "Scio"
+2156 = "Negroponte"
+
+#List
+111 = "Friuli"				#Friuli			|checked
+4299 = "Sirmia"				#Syrmia			|checked

@@ -1,0 +1,176 @@
+#Benelux	
+88   = "Artesië"			#Artois
+90   = "Vlaanderen"			#Vlaanderen
+91   = "Henegouwen"			#Hainaut
+92   = "Brabant"			#Brabant
+93   = "Luik"				#Liege
+95   = "Breda"				#Breda
+96   = "Zeeland"			#Zeeland
+97   = "Holland"			#Holland
+98   = "Utrecht"			#Utrecht
+99   = "Gelre"				#Gelre
+100  = "Friesland"			#Friesland
+1742 = "Limburg"			#Limburg
+1744 = "Antwerpen"			#Antwerpen
+1865 = "Ghent"				#Ghent			
+#Slovakia
+1772 = "Presburg"			#Pressburg
+#Czechia
+265  = "Moravië"			#Moravia
+266  = "Praag"				#Praha
+267  = "Pilsen"				#Plzen
+1771 = "Ertsgebergte"			#Erz
+2970 = "Koninginneburcht"		#Hradecko
+#Germany
+41   = "Koningsbergen"			#Konigsberg
+43   = "Dantzig"			#Danzig
+45   = "Lubeek"				#Lubeck
+47   = "Straalsond"			#Stralsund
+50   = "Berlijn"			#Berlin
+56   = "Osnabrugge"			#Osnabruck
+57   = "Brunswijk"			#Brunswick
+67   = "Neurenberg"			#Nurnberg
+72   = "Breisgouw"			#Breisgau
+75   = "Elzas"				#Elsass
+78   = "Ments"				#Mainz	
+85   = "Keulen"				#Koln
+86   = "Munster"			#Munster
+110  = "Zuid-Tirol"			#Trent/Sudtirol
+128  = "Karinthië"			#Karnten
+132  = "Stiermarken"			#Steiermark
+134  = "Wenen"				#Wien
+1761 = "Palts"				#Pfalz
+1768 = "Oost-Tirol"			#Lienz
+1770 = "Oostmark"			#Ostmark
+1841 = "Mariënburg"			#Marienburg
+1876 = "Frankfort"			#Frankfurt
+1878 = "Aken"				#Aachen
+1880 = "Sundgouw"			#Sundgau
+1931 = "Oost-Friesland"			#East Frisia
+2975 = "Kleef"				#Kleve
+2994 = "Grijpswolde"			#Greifswald
+3119 = "Maagdeburg"			#Magdeburg
+#Britain
+233  = "Cornwallis"			#Cornwall
+235  = "Kantelberg"			#Kent
+236  = "Londen"				#London
+251  = "Aberdaan"			#Aberdeen
+369  = "Orkaden"			#Orkney
+#France
+87   = "Kales"				#Calais
+89   = "Picardië"			#Picardie
+167  = "Rouaan"				#Rouen
+168  = "Normandië"			#Normandie
+182  = "Vermandland"			#Vermandois
+183  = "Eiland van Frankrijk"		#Ile-de-France
+189  = "Lotharingen"			#Lothringen
+192  = "Bourgondië"			#Bourgogne
+193  = "Vrijgraafschap"			#Franche-Comte
+1743 = "Kamerijk"			#Cambray
+#Scandinavia
+12   = "Seeland"			#Sjaelland
+13   = "Sleeswijk"			#Slesvig
+14   = "Funen"				#Fyn
+15   = "Midden-Jutland"			#Jylland/Midtjylland
+1984 = "Noord-Jutland"			#Nordjylland
+#Iberia
+206  = "Galicië"			#Galicia
+207  = "Asturië"			#Asturias
+211  = "Pyreneeën"			#Pirineo
+1745 = "Cantabrië"			#Cantabria
+#Italy	
+103 = "Piëmont"				#Piedmont
+104  = "Milaan"				#Milan
+112  = "Venetië"			#Venezia
+116  = "Florentië"			#Firenze
+118  = "Rome"				#Roma
+121  = "Napels"				#Napoli
+122  = "Tarente"			#Apulia
+123  = "Calabrië"			#Calabria
+127 = "Sardinië"			#Sardinia
+2976 = "Umbrië"				#Umbria
+#Russia
+34   = "Ingrië"				#Ingermanland
+295  = "Moskou"				#Moskva
+299  = "Voronezj"			#Voronezh
+300  = "Toela"				#Tula
+1045 = "Jakoetsk"			#Yakutsk
+1776 = "Kalerië"			#Kaleria
+#Ukraine
+280  = "Kiëv"				#Kiev
+283  = "Zaporizja"			#Zaporizhia
+#Baltics
+37   = "Lijfland"			#Livland
+39   = "Koerland"			#Kurland
+#Croatia
+130  = "Istrië"				#Istria
+136  = "Dalmatië"			#Dalmatia		
+1767 = "Slavonië"			#Slavonia
+1831 = "Travunië"			#Travunia
+#Serbia
+138  = "Zwarte Berg"			#Zeta
+141  = "Servië"				#Serbia
+1827 = "Rascië"				#Raska
+#Bulgaria
+150  = "Stad van de Tsaren"		#Tarnovo
+1764 = "Boergas"			#Burgas
+#Greece	
+142  = "Korfoe"				#Corfu
+145  = "Peloponnesos"			#Morea
+146  = "Athene"				#Athens
+147  = "Thessalië"			#Salonica
+148 = "Macedonië"			#Macedonia
+1773 = "Achaje"				#Achaea
+2007 = "Thracië"			#Salonica
+4267 = "Aetolië"			#Aetolia
+#Turkey
+151  = "Constantinopel"			#Constantinople
+330  = "Trebizonde"			#Trebizond
+2367 = "Antiochië"			#Antioch
+
+#Poland
+268 = "Moldavië"			#Bessarabia
+#Colonies
+539  = "Pulicat"
+540  = "Sadras"
+543  = "Masulipatnam"
+630  = "Batavia"
+572  = "Colombo"
+2026 = "Negapatam"
+2099 = "Trincomalee"
+
+1139 = "Fort Elmina"
+1167 = "Fort Aardenburgh"
+1177 = "Kaap"				#Cape
+1182 = "Fort Lydsaamheid"
+2258 = "Fort Hollandia"
+
+494  = "Sint Eustatius"
+500  = "Grenada"
+965  = "Nieuw-Amsterdam"		#Manhattan
+1881 = "Sint Maarten"
+
+956  = "Zuyd Rivier"
+957  = "Zwaanendael"
+962  = "Nieuw-Amstel"
+963  = "Renssellaerswijck"
+964  = "Schanatisda"
+967  = "Roode Eylant"
+
+2010 = "Versche Rivier"
+2558 = "Wiltwijck"
+2560 = "Rodenberg"
+2561 = "Nieuw-Hollant"
+2639 = "Pavonia"
+
+#Added vanilla names
+94 = "Lutzenburgh"
+3104 = "Kleef"
+2223 = "Masulipatnam"
+2218 = "Negapatam"
+2217 = "Trincomalee"
+2332 = "Fort Hollandia"
+2135 = "Versche Rivier"
+2995 = "Wiltwijck"
+2996 = "Rodenberg"
+2997 = "Nieuw-Hollant"

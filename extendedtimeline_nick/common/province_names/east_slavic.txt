@@ -1,0 +1,3 @@
+32 = "Priozersk"
+275 = "Polotesk"		#Polotsk
+

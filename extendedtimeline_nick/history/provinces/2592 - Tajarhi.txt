@@ -1,0 +1,35 @@
+#2592 - Tajarhi
+
+culture = tuareg
+religion = shamanism
+capital = "Tajarhi"
+trade_goods = unknown
+hre = no
+discovered_by = ottoman
+discovered_by = middle_eastern
+discovered_by = muslim
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 90
+native_ferocity = 2
+native_hostileness = 9
+
+850.1.1    = { religion = sunni }
+1230.1.1 = { owner = KBO controller = KBO add_core = KBO is_city = yes trade_goods = grain }
+1380.1.1 = { owner = XXX controller = XXX remove_core = KBO is_city = no trade_goods = unknown }
+
+1851.1.1   = { discovered_by = GER discovered_by = PRU } #Heinrich Barth
+1910.1.1   = { discovered_by = ITA }
+1912.10.18 = { 	owner = ITA 
+		controller = ITA 
+		add_core = ITA 
+		add_core = LIB 
+		is_city = yes
+		trade_goods = grain
+	     }
+1943.1.12  = { controller = FR2 }
+1943.4.11  = { owner = FR2 controller = FR2 remove_core = ITA }
+1951.12.24 = { owner = LIB controller = LIB }
+
+

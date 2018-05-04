@@ -1,0 +1,13 @@
+bookmark =
+{
+	name = "CRISISTHIRD_NAME"
+	desc = "CRISISTHIRD_DESC"
+	date = 271.9.1
+	
+	country = ROM
+	country = GLL
+	country = PLM
+	country = SAS
+	country = JIN
+	country = WUU
+}

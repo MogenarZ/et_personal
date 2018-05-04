@@ -1,0 +1,57 @@
+#Serbia
+141  = "Srbija"			#Serbia
+143  = "Lež"       		#Albania
+148  = "Makedonija"		#Macedonia
+321  = "Kipar"         		#Cyprus
+1765 = "Sofija"			#Sofia
+4265 = "Valona"			#Vlore
+4266 = "Drac"			#Durres
+#Greece
+147 = "Tesalija"		#Salonica
+320 = "Rodos"			#Rhodes
+2012 = "Gjumurcina"		#Komotini
+#Turkey
+151  = "Carigrad"		#Thrace
+#Germany
+47 = "Zapadna Pomeranija"	#Vorpommern
+77 = "Pfalc"			#Pfalz
+61 = "Saksonija"		#Dresden
+68 = "Švabija"			#Schwaben
+91 = "Eno"			#Hainaut
+81 = "Hesen"			#Hessen
+#Benelux
+97 = "Holandija"		#Holland
+#Denemark
+1775 = "Holštajn"		#Holstein
+#Russia
+273 = "Latgalija"		#Latgalia
+1776 = "Karelija"		#Karelia
+#France
+89 = "Picardija"		#Picardie
+168 = "Normandija"		#Normandie
+180 = "Poatu"			#Poitou
+189 = "Lorena"			#Lothringen
+197 = "Rusijon"			#Roussillon
+200 = "Langdok"			#Languedoc
+201 = "Provansa"		#Procence
+#Italy
+104 = "Lombardija"		#Lombardia
+114 = "Romanja"			#Romagna
+127 = "Sardinija"		#Sardinia
+3129 = "Umbrija"		#Umbria
+#Hispana
+210 = "Navara"			#Navarra
+#Poland
+261 = "Rutenija"		#Ruthenia
+268 = "Moldavija"		#Bessarabia
+2155 = "Pomerelija"		#Gdingen	
+#Austria
+130 = "Istra"			#Istria
+#Scandinavia
+2005 = "Laponija"		#Lappland
+#Eastonia
+35 = "Sarema"			#Osel
+#Slowakia
+3111 = "Spiš"			#Spis
+#Asia
+2858 = "Tajpej"			#Kelam

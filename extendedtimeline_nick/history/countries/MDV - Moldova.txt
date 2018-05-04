@@ -1,0 +1,95 @@
+government = constitutional_republic
+#aristocracy_plutocracy = -3
+#centralization_decentralization = 4
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -3
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 1
+#serfdom_freesubjects = -5
+primary_culture = romanian
+religion = orthodox
+technology_group = eastern
+capital = 268	# Chisinau
+
+1900.1.1 = { technology_group = western }
+1910.1.1 = { religion = secularism }
+1945.1.1 = { government = presidental_republic }
+
+1991.8.27 = {
+	monarch = {
+		name = "Mircea Snegur"
+		birth_date = 1940.1.17
+		adm = 4
+		mil = 3
+		religion = orthodox
+		dip = 4
+	}
+}
+
+1997.1.15 = {
+	monarch = {
+		name = "Petru Lucinschi"
+		birth_date = 1940.1.27
+		adm = 5
+		mil = 1
+		religion = orthodox
+		dip = 4
+	}
+}
+
+2001.4.7 = {
+	monarch = {
+		name = "Vladimir Voronin"
+		birth_date = 1941.5.25
+		adm = 3
+		mil = 4
+		religion = orthodox
+		dip = 4
+	}
+}
+
+2009.9.11 = {
+	monarch = {
+		name = "Mihai Ghimpu"
+		birth_date = 1951.11.19
+		adm = 3
+		mil = 1
+		religion = orthodox
+		dip = 4
+	}
+}
+
+2010.12.30 = {
+	monarch = {
+		name = "Marian Lupu"
+		birth_date = 1966.6.20
+		adm = 3
+		mil = 2
+		religion = orthodox
+		dip = 5
+	}
+}
+
+2012.3.23 = {
+	monarch = {
+		name = "Nicolae Timofti"
+		birth_date = 1948.12.22
+		adm = 3
+		mil = 4
+		religion = orthodox
+		dip = 3
+	}
+}
+
+2016.12.23 = {
+	monarch = {
+		name = "Igor Dodon"
+		birth_date = 1975.2.18
+		adm = 2
+		mil = 3
+		religion = orthodox
+		dip = 4
+	}
+}

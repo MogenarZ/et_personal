@@ -1,0 +1,187 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = -2
+#innovative_narrowminded = 0
+#mercantilism_freetrade = -2
+mercantilism = 0.1
+#offensive_defensive = 1
+#land_naval = -1
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+primary_culture = korean
+religion = confucianism
+technology_group = early_chinese
+historical_rival = NKO
+capital = 735	# Seoul
+
+750.1.1 = { technology_group = chinese }
+
+1900.1.1 = { government = constitutional_republic }
+1910.1.1 = { religion = secularism }
+1920.1.1 = { technology_group = asian }
+1948.9.9 = { capital = 735 }
+
+1948.9.9 = {
+	monarch = {
+		name = "Rhee Syng-man"
+		birth_date = 1875.4.18
+		adm = 4
+		dip = 5
+		mil = 2
+		religion = confucianism
+	}
+}
+
+1960.4.27 = {
+	monarch = {
+		name = "Heo Jeong"
+		birth_date = 1896.4.8
+		adm = 3
+		dip = 2
+		mil = 3
+		religion = confucianism
+	}
+}
+
+1960.8.12 = {
+	monarch = {
+		name = "Yun Bo-seon"
+		birth_date = 1897.8.26
+		adm = 3
+		dip = 3
+		mil = 3
+		religion = confucianism
+	}
+}
+
+1962.3.24 = {
+	monarch = {
+		name = "Park Chung-hee"
+		birth_date = 1917.11.14
+		adm = 5
+		dip = 3
+		mil = 6
+		religion = confucianism
+	}
+}
+
+1979.10.26 = {
+	monarch = {
+		name = "Choi Kyu-hah"
+		birth_date = 1919.7.16
+		adm = 4
+		dip = 2
+		mil = 4
+		religion = confucianism
+	}
+}
+
+1980.8.16 = {
+	monarch = {
+		name = "Pak Choong-hoon"
+		adm = 3
+		dip = 3
+		mil = 2
+		religion = confucianism
+	}
+}
+
+1980.9.1 = {
+	monarch = {
+		name = "Chun Doo-hwan"
+		birth_date = 1931.1.18
+		adm = 4
+		dip = 4
+		mil = 5
+		religion = confucianism
+	}
+}
+
+1988.2.25 = {
+	monarch = {
+		name = "Roh Tae-woo"
+		birth_date = 1933.12.4
+		adm = 4
+		dip = 4
+		mil = 2
+		religion = confucianism
+	}
+}
+
+1993.2.25 = {
+	monarch = {
+		name = "Kim Young-sam"
+		birth_date = 1927.12.20
+		adm = 4
+		dip = 4
+		mil = 1
+		religion = confucianism
+	}
+}
+
+1998.2.25 = {
+	monarch = {
+		name = "Kim Dae-jung"
+		birth_date = 1924.1.6
+		adm = 4
+		dip = 4
+		mil = 2
+		religion = confucianism
+	}
+}
+
+2003.2.25 = {
+	monarch = {
+		name = "Roh Moo-hyun"
+		birth_date = 1946.9.1
+		adm = 3
+		dip = 3
+		mil = 4
+		religion = confucianism
+	}
+}
+
+2008.2.25 = {
+	monarch = {
+		name = "Lee Myung-bak"
+		birth_date = 1941.12.19
+		adm = 3
+		dip = 5
+		mil = 3
+		religion = confucianism
+	}
+}
+
+2013.2.25 = {
+	monarch = {
+		name = "Park Geun-hye"
+		birth_date = 1952.2.2
+		adm = 2
+		dip = 5
+		mil = 2
+		religion = confucianism
+		female = yes
+	}
+}
+
+2016.12.9 = {
+	monarch = {
+		name = "Hwang Kyo-ahn"
+		birth_date = 1957.4.15
+		adm = 2
+		dip = 3
+		mil = 2
+		religion = confucianism
+	}
+}
+
+2017.5.10 = {
+	monarch = {
+		name = "Moon Jae-in"
+		birth_date = 1953.1.24
+		adm = 4
+		dip = 4
+		mil = 2
+		religion = confucianism
+	}
+}

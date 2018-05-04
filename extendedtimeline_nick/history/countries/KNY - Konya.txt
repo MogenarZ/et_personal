@@ -1,0 +1,7 @@
+government = iqta
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 323	# Konya
+religious_school = hanafi_school
+

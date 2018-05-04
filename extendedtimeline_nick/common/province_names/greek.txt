@@ -1,0 +1,181 @@
+285  = "Theodosia"
+340  = "Constantina"
+352  = "Justiniania"
+357  = "Darnis"
+358  = "Aleksandreia"
+360  = "Kaine"
+363  = "Tamiathis"
+396  = "Tylos"
+407  = "Kallinikos"
+418  = "Amida"
+1231 = "Syene"
+1233 = "Megale"
+2319 = "Lytkopolis"
+2326 = "Petra Megale"
+2343 = "Adrramyta"
+2447 = "Tamatarha"
+#Greece
+142  = "Kérkyra"
+144  = "Ípeiros"
+145  = "Moréas"
+146  = "Athína"
+147  = "Thessalía"
+149  = "Adrianoúpoli"
+151  = "Konstantinoúpolis"
+163  = "Kríti"
+164  = "Náxos"
+320  = "Ródos"
+321  = "Kípros"
+1773 = "Achaia"
+1853 = "Kastoriá"
+2007 = "Thessaloníki"			#Thessaloniki
+2348 = "Khíos"
+3003 = "Evvia"
+4266 = "Dyrráchion"			#Durres			|checked
+4267 = "Etolía"				#Aetolia
+4299 = "Sýrmia"				#Syrmia			
+#Serbia
+141  = "Servía"
+143  = "Lissos"
+148  = "Makedonía"
+1766 = "Kossiphopédio"
+1827 = "Ráska"
+4265 = "Avlóna"				#Vlore			|checked
+#Bulgaria
+150  = "Tírnovo"
+159  = "Silístra"
+1764 = "Bourngás"
+1765 = "Sóphia"
+2746 = "Víntin"
+2750 = "Philippoúpoli"
+#Slovakia
+1772 = "Ístropólis"
+#Germany
+97 = "Ollandhía"		  	#Holland
+81 = "Éssi"				#Hessen
+3107 = "Vytemvérghi"			#Paderborn
+
+Italia:
+102 = "Níkaia"				#Nice
+118 = "Rómi"				#Roma
+122 = "Tarde"				#Salento
+124 = "Messíni"				#Messina
+125 = "Pánormos"			#Palermo
+126 = "Melite"				#Malta
+1933 = "Varis"				#Bari
+3133 = "Syrakoúsai"			#Syracuse
+
+Krimea:
+2608 = "Sevastoúpoli"			#Theodoro
+
+Anatolia:
+104 = "Mediolanum"
+106 = "Mutina"
+107 = "Brixia"
+110 = "Tridentum"
+111 = "Aquileia"
+113 = "Patavium"
+114 = "Ravenna"
+115 = "Pisae"
+116 = "Florentia"
+117 = "Saena Julia"
+120 = "Corfinium"
+121 = "Neapolis"
+122 = "Tarentum"
+123 = "Rhegium"
+131 = "Siscia"
+140 = "Sirmium"
+141 = "Viminacium"
+221 = "Carthago Nova"
+222 = "Acci"
+223 = "Illiberis"
+224 = "Hispalis"
+225 = "Corduba"
+318 = "Smýrni"			#Izmir
+326 = "Ankyra"			#Ankara
+328 = "Sinópe"			#Sinop			|checked
+329 = "Sebásteia"		#Sivas			|checked
+330 = "Trapezoúnta"		#Trebizond		|checked	
+331 = "Theodosioúpolis"		#Erzurum		|checked
+334 = "Tingis"
+338 = "Icosium"
+339 = "Saldae"
+341 = "Carthage"
+353 = "Tacape"
+356 = "Ptolemais"
+357 = "Paraetonium"
+359 = "Crocodilopolis"
+360 = "Thebai"
+361 = "Memphis"
+363 = "Diamientia"
+381 = "Bostra"
+408 = "Vasóra"			#Basra
+410 = "Vagdáti"			#Baghdad
+1749 = "Carteia"
+1750 = "Lucentum"
+1751 = "Septa"
+1769 = "Emona"
+1774 ="Tarvisium"
+1827 = "Arsia"
+1828 = "Ad Ladios"
+1849 = "Emathoùs"		#Hammah
+1882 = "Hippo Regius"
+2004 = "Berenice"
+2008 = "Singapoúri"		#Singapore
+2264 = "Kaisáreia"		#Kayseri
+2269 = "Edessa"
+2367 = "Antióchia"		#Antioch
+2547 = "Palmyra"
+2517 = "Darnis"
+2518 = "Catabathmus Maior"
+2519 = "Oxýrrhynkhos"
+2523 = "Lycopolis"
+2524 = "Heracleopolis"
+2525 = "Myos Hormos"
+2526 = "Bubastis"
+2528 = "Petra"
+2576 = "Cartennae"
+2577 = "Medea"
+2578 = "Sitiflis"
+2583 = "Sicca Veneria"
+2584 = "Hadrumetum"
+2585 = "Iunci"
+2586 = "Sabrata"
+2589 = "Tubactis"
+3127 = "Arretium"
+3128 = "Pisaurum"
+3132 = "Cosentia"
+3131 = "Salernum"
+3130 = "Beneventum"
+3140 = "Meninx"
+4434 = "Dorýlaion"			#Sultanönü		|checked
+4435 = "Gángra"				#Kangiri
+4437 = "Tokáti"				#Tokat			|checked
+
+#India:
+507 = "Lachóris"			#Lahore			|checked
+1248 = "Maniolae"			#Maldives
+
+#China
+667 = "Kantona"				#Guangzhou
+715 = "Ouroúmki"			#Urumqi
+1816 = "Pekíno"				#Beijing
+
+#Africa:
+379 = "Ierosólima"			#Judea
+
+#World
+33 = "Agía Petroúpoli"			#Neva
+44 = "Amboúrgo"				#Hamburg
+50 = "Berolíno"				#Berlin
+101 = "Génova"				#Genoa
+432 = "Keremani"			#Kerman
+1087 = "Viktória"			#Woiworung
+1967 = "Kyroúpolis"			#Khujand
+2369 = "Granikós"			#Biga
+
+#Added vanilla names
+
+2125 = "Lesvos"				#Lesbos
+389 = "Adrramyta"
+2614 = "Tamatarha"

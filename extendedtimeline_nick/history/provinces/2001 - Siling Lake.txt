@@ -1,0 +1,9 @@
+#2001 - Siling Lake
+
+discovered_by = indian
+discovered_by = early_indian
+discovered_by = chinese
+discovered_by = asian
+discovered_by = early_chinese
+
+900.1.1 = { discovered_by = nomad_group }

@@ -1,0 +1,24 @@
+#Bulgaria
+159  = "Silistra"      	#Silistria
+1765 = "Sofiya"        	#Sofia
+#Serbia
+141  = "Surbiya"       	#Serbia
+148  = "Makedoniya"	#Skopje
+1827 = "Stara Rashka"  	#Raska
+3000 = "Nish"          	#Nis
+4265 = "Vljora"		#Vlore
+4266 = "Drach"		#Durres
+4267 = "Etoliya"	#Aetolia
+#Turkey
+149  = "Odrin"         	#Edirne
+151  = "Tsarigrad"     	#Thrace
+#Greece
+142  = "Korfu"         	#Corfu
+144  = "Epir"		#Epirus
+146  = "Atina"         	#Athens
+163  = "Krit"          	#Crete
+321  = "Kipur"         	#Cyprus
+2007 = "Solun"          #Thessaloniki/Macedonia
+2012 = "Gyumyurdzhina"	#Komotini
+#France
+189 = "Lotaringiya"	#Lothringen

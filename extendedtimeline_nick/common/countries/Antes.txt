@@ -1,0 +1,90 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 200  200  160 }
+
+historical_idea_groups = {
+	early_adm_ideas
+	early_mil_ideas
+	early_religious_ideas
+	early_trade_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	hungarian_hussar
+	polish_musketeer
+	polish_hussar
+	polish_tercio
+	polish_winged_hussar
+	russian_lancer
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+monarch_names = {
+	"Boz #0" = 20
+	"Dabragezas #0" = 20
+	"Idariz #0" = 20
+	"Mezamir #0" = 20
+	"Kelagast #0" = 20
+	"Musokios #0" = 10
+	"Muzok #0" = 10
+	"Ardagast #0" = 20
+	"Pirogast #0" = 20
+	"Radogast #0" = 20
+	"Dragovit #0" = 0
+	"Chrocus #0" = 0
+	"Mederich #0" = 0
+	"Vestralp #0" = 0
+	"Ur #0" = 0
+	"Agenarich #0" = 0
+    "Hortar #0" = 0
+    "Ursicin #0" = 0
+    "Makrian #0" = 0
+    "Rando #0" = 0
+	
+	"Ababa #0" = -1
+	"Alda #0" = -1
+	"Saruka #0" = -1
+	"Tamura #0" = -1
+}
+
+leader_names = { 
+	Veleti Lutici Veneti Navari Sklaveni Tulga Ardo Bozhko Bozhydar Bohdan
+}
+
+ship_names = {
+	"Arka Noego"
+        "Bialy Orzel" Burza "Bialy Lew" "Brzesko-Kujawskie" Belzkie Braclawskie
+        Charitas "Czarny Orzel" "Czarny Kruk" Chelminskie Czernichowskie
+        Fortuna
+        Gryf Gwiazda Gnieznienskie
+	Inoworclawskie
+	"Król Dawid" Kaliskie Krakowskie Kijowskie Kraków
+        Lublin "Latajacy Jelen" Lwów Leczyckie Lubelskie
+        "Maly Bialy Orzel" Malborskie Mazowieckie
+        Niewrazliwy "Nowy Czarny Orzel"
+        "Prorok Samuel" "Panna Wodna" Plomien Poznanskie Plockie Podlaskie Podolskie
+	"Rycerz Swiety Jerzy" Rawskie Ruskie
+        Strzelec Suwerenny "Swiety Piotr" Sieradzkie Sandomierskie "Swiety Kazimierz"
+        "Wielkie Slonce" Wodnik Warminskie Wolynskie Warszawa
+        Zwyciestwo "Zólty Lew"
+}
+
+

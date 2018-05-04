@@ -1,0 +1,3 @@
+232 = "Bregancia"			#Bragança
+1851 = "Emínio"				#Coimbra
+2608 = "Awlita"				#Theodoro

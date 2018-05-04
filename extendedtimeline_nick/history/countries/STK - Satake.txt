@@ -1,0 +1,304 @@
+government = daimyo
+government_rank = 1
+primary_culture = japanese
+religion = shinto
+technology_group = early_chinese
+capital = 1027	# Hitachi
+
+750.1.1 = { technology_group = chinese }
+
+1328.1.1 = {
+	monarch = {
+		name = "Sadayoshi" # 1287 - 1352.10.18 
+		dynasty = "Satake"
+		adm = 2
+		dip = 2
+		mil = 2
+		}
+}
+
+1328.1.1 = {
+	heir = {
+		name = "Yoshiatsu"
+		monarch_name = "Yoshiatsu"
+		dynasty = "Satake"
+		birth_date = 1311.1.1
+		death_date = 1362.2.7
+		claim = 90
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1352.10.18 = {
+	monarch = {
+		name = "Yoshiatsu" # 1311 - 1362.2.7
+		dynasty = "Satake"
+		adm = 2
+		dip = 2
+		mil = 2
+		}
+}
+
+1352.10.18 = {
+	heir = {
+		name = "Yoshinobu"
+		monarch_name = "Yoshiatsu"
+		dynasty = "Satake"
+		birth_date = 1346.1.1
+		death_date = 1389.8.5
+		claim = 90
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1362.2.7 = {
+	monarch = {
+		name = "Yoshinobu" # 1346 - 1389.8.5
+		dynasty = "Satake"
+		adm = 2
+		dip = 2
+		mil = 2
+		}
+}
+
+1365.1.1 = {
+	heir = {
+		name = "Yoshimori"
+		monarch_name = "Yoshiatsu"
+		dynasty = "Satake"
+		birth_date = 1365.1.1
+		death_date = 1407.10.22
+		claim = 90
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1389.8.5 = {
+	monarch = {
+		name = "Yoshimori" # 1365 - 1407 
+		dynasty = "Satake"
+		adm = 2
+		dip = 2
+		mil = 2
+		}
+}
+	
+1407.10.22 = { 
+	monarch = {
+		name = "Yoshinori"
+		dynasty = "Satake"
+		adm = 1
+		dip = 1
+		mil = 2
+		}
+	}
+	
+1420.1.1 = {
+	heir = {
+		name = "Yoshitoshi"
+		monarch_name = "Yoshitoshi"
+		dynasty = "Satake"
+		birth_date = 1420.1.1
+		death_date = 1477.12.29
+		claim = 90
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+	
+1468.1.19 = { 
+	monarch = {
+		name = "Yoshitoshi"
+		dynasty = "Satake"
+#		birth_date = 1420.1.1
+#		death_date = 1477.12.29
+		adm = 1
+		dip = 1
+		mil = 1
+		}
+	}
+	
+1468.1.19 = {
+	heir = {
+		name = "Yoshiharu"
+		monarch_name = "Yoshiharu"
+		dynasty = "Satake"
+		birth_date = 1443.1.1
+		death_date = 1490.5.14
+		claim = 90
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+	
+1477.12.29 = { 
+	monarch = {
+		name = "Yoshiharu"
+		dynasty = "Satake"
+#		birth_date = 1443.1.1
+#		death_date = 1490.5.14
+		adm = 1
+		dip = 2
+		mil = 2
+		}
+	}
+	
+1477.12.29 = {
+	heir = {
+		name = "Yoshikiyo"
+		monarch_name = "Yoshikiyo"
+		dynasty = "Satake"
+		birth_date = 1470.1.1
+		death_date = 1517.4.3
+		claim = 90
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+	
+1490.5.14 = { 
+	monarch = {
+		name = "Yoshikiyo"
+		dynasty = "Satake"
+#		birth_date = 1470.1.1
+#		death_date = 1517.4.3
+		adm = 2
+		dip = 2
+		mil = 3
+		}
+	}
+	
+1507.8.10 = {
+	heir = {
+		name = "Yoshiatsu"
+		monarch_name = "Yoshiatsu"
+		dynasty = "Satake"
+		birth_date = 1507.8.10
+		death_date = 1545.5.19
+		claim = 90
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+
+#1517.4.3 = {
+#		innovative_narrowminded = 3
+#}
+	
+1517.4.3 = { 
+	monarch = {
+		name = "Yoshiatsu"
+		dynasty = "Satake"
+#		birth_date = 1507.8.10
+#		death_date = 1545.5.19
+		adm = 2
+		dip = 2
+		mil = 3
+		}
+	}
+
+#1530.1.1 = {
+#		centralization_decentralization = 3
+#}
+	
+1531.10.5 = {
+	heir = {
+		name = "Yoshiaki"
+		monarch_name = "Yoshiaki"
+		dynasty = "Satake"
+		birth_date = 1531.10.5
+		death_date = 1565.11.25
+		claim = 90
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+#1545.5.19 = {
+#		innovative_narrowminded = 2
+#}
+	
+1545.5.19 = { 
+	monarch = {
+		name = "Yoshiaki"
+		dynasty = "Satake"
+#		birth_date = 1531.10.5
+#		death_date = 1565.11.25
+		adm = 4
+		dip = 4
+		mil = 3
+		}
+	}
+	
+1547.3.7 = {
+	heir = {
+		name = "Yoshishige"
+		monarch_name = "Yoshishige"
+		dynasty = "Satake"
+		birth_date = 1547.3.7
+		death_date = 1612.5.19
+		claim = 90
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+#1558.1.1 = {
+#		innovative_narrowminded = 1
+#}
+
+#1564.1.1 = {
+#		centralization_decentralization = 2
+#}
+
+1565.11.25 = { 
+	monarch = {
+		name = "Yoshishige"
+		dynasty = "Satake"
+#		birth_date = 1547.3.7
+#		death_date = 1612.5.19
+		adm = 4
+		dip = 4
+		mil = 5
+		}
+	}
+	
+1570.8.17 = {
+	heir = {
+		name = "Yoshinobu"
+		monarch_name = "Yoshinobu"
+		dynasty = "Satake"
+		birth_date = 1570.8.17
+		death_date = 1633.3.5
+		claim = 90
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1586.1.1 = { 
+	monarch = {
+		name = "Yoshinobu"
+		dynasty = "Satake"
+#		birth_date = 1570.8.17
+#		death_date = 1633.3.5
+		adm = 4
+		dip = 3
+		mil = 4
+		}
+	}
+
+	

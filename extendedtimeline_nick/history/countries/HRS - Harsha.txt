@@ -1,0 +1,121 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = kanauji
+religion = hinduism
+technology_group = early_indian
+capital = 2191	# Thanesar
+
+520.1.1 = {
+	monarch = {
+		name = "Pushyabhuti"
+		dynasty = "Vardhana"
+		birth_date = 490.1.1
+		adm = 3
+		dip = 0
+		mil = 2
+	}
+}
+
+525.1.1 = {
+	heir = {
+		name = "Aditya"
+		monarch_name = "Aditya"
+		dynasty = "Vardhana"
+		birth_date = 525.1.1
+		death_date = 580.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+555.1.1 = {
+	monarch = {
+		name = "Aditya"
+		dynasty = "Vardhana"
+		birth_date = 525.1.1
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+555.1.1 = {
+	heir = {
+		name = "Prabhakara"
+		monarch_name = "Prabhakara"
+		dynasty = "Vardhana"
+		birth_date = 550.1.1
+		death_date = 605.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+580.1.1 = {
+	monarch = {
+		name = "Prabhakara"
+		dynasty = "Vardhana"
+		birth_date = 550.1.1
+		adm = 1
+		dip = 2
+		mil = 5
+	}
+}
+
+580.1.1 = {
+	heir = {
+		name = "Rajya"
+		monarch_name = "Rajya"
+		dynasty = "Vardhana"
+		birth_date = 575.1.1
+		death_date = 606.1.1
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+605.1.1 = {
+	monarch = {
+		name = "Rajya"
+		dynasty = "Vardhana"
+		birth_date = 575.1.1
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+605.1.1 = {
+	heir = {
+		name = "Harsha"
+		monarch_name = "Harsha"
+		dynasty = "Vardhana"
+		birth_date = 590.1.1
+		death_date = 647.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+606.1.1 = {
+	monarch = {
+		name = "Harsha"
+		dynasty = "Vardhana"
+		birth_date = 590.1.1
+		adm = 4
+		dip = 3
+		mil = 6
+	}
+}
+
+620.1.1 = { capital = 556 } #Kannauj
+
+750.1.1 = { technology_group = indian }

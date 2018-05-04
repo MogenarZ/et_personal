@@ -1,0 +1,17 @@
+name = "First East Roman-Sasanian War"
+
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 411
+}
+
+421.1.1 = {
+	add_attacker = ROE
+	add_defender = SAS
+}
+
+422.1.1 = {
+	rem_attacker = ROE
+	rem_defender = SAS
+}

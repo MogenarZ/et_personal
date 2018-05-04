@@ -1,0 +1,5 @@
+382 = "Dameshk"			#Damascus
+384 = "Iyasrib"			#Medina
+567 = "Silet"			#Silhet
+568 = "Chottogram"		#Chittagong
+2367 = "Antiyokhiya"		#Antioch

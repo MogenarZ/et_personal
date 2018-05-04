@@ -1,0 +1,437 @@
+government = tribal_federation
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+capital = 2547 #Palmyra
+religious_school = shafii_school
+
+1107.1.1 = {
+	monarch = {
+		name = "Fadl"
+		dynasty = "Al Fadl"
+		birth_date = 1077.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1120.1.1 = {
+	heir = {
+		name = "Ghudayya"
+		monarch_name = "Ghudayya"
+		dynasty = "Al Fadl"
+		birth_date = 1120.1.1
+		death_date = 1180.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1150.1.1 = {
+	monarch = {
+		name = "Ghudayya"
+		dynasty = "Al Fadl"
+		birth_date = 1120.1.1
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+
+1150.1.1 = {
+	heir = {
+		name = "Haditha"
+		monarch_name = "Haditha"
+		dynasty = "Al Fadl"
+		birth_date = 1150.1.1
+		death_date = 1220.1.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+1180.1.1 = {
+	monarch = {
+		name = "Haditha"
+		dynasty = "Al Fadl"
+		birth_date = 1150.1.1
+		adm = 5
+		dip = 5
+		mil = 3
+	}
+}
+
+1190.1.1 = {
+	heir = {
+		name = "Ali"
+		monarch_name = "Ali"
+		dynasty = "Al Fadl"
+		birth_date = 1190.1.1
+		death_date = 1260.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+}
+
+1220.1.1 = {
+	monarch = {
+		name = "Ali"
+		dynasty = "Al Fadl"
+		birth_date = 1190.1.1
+		adm = 0
+		dip = 4
+		mil = 0
+	}
+}
+
+1230.1.1 = {
+	heir = {
+		name = "Isa"
+		monarch_name = "Isa"
+		dynasty = "Al Fadl"
+		birth_date = 1230.1.1
+		death_date = 1284.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1260.1.1 = {
+	monarch = {
+		name = "Isa"
+		dynasty = "Al Fadl"
+		birth_date = 1230.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1260.1.1 = {
+	heir = {
+		name = "Muhanna"
+		monarch_name = "Muhanna"
+		dynasty = "Al Fadl"
+		birth_date = 1260.1.1
+		death_date = 1335.1.1
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1284.1.1 = {
+	monarch = {
+		name = "Muhanna"
+		dynasty = "Al Fadl"
+		birth_date = 1260.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1312.1.1 = {
+	monarch = {
+		name = "Fadl II"
+		dynasty = "Al Fadl"
+		birth_date = 1280.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1317.1.1 = {
+	monarch = {
+		name = "Muhanna"
+		dynasty = "Al Fadl"
+		birth_date = 1260.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1322.1.1 = {
+	monarch = {
+		name = "Fadl II"
+		dynasty = "Al Fadl"
+		birth_date = 1280.1.1
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1330.1.1 = {
+	monarch = {
+		name = "Muhanna"
+		dynasty = "Al Fadl"
+		birth_date = 1260.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+1330.1.1 = {
+	heir = {
+		name = "Musa"
+		monarch_name = "Musa"
+		dynasty = "Al Fadl"
+		birth_date = 1305.1.1
+		death_date = 1341.11.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1335.1.1 = {
+	monarch = {
+		name = "Musa"
+		dynasty = "Al Fadl"
+		birth_date = 1305.1.1
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1335.1.1 = {
+	heir = {
+		name = "Sulayman"
+		monarch_name = "Sulayman"
+		dynasty = "Al Fadl"
+		birth_date = 1310.1.1
+		death_date = 1360.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1341.11.1 = {
+	monarch = {
+		name = "Sulayman"
+		dynasty = "Al Fadl"
+		birth_date = 1310.1.1
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1360.1.1 = {
+	monarch = {
+		name = "Hayar"
+		dynasty = "Al Abu Risha"
+		birth_date = 1330.1.1
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+}
+
+1360.1.1 = {
+	heir = {
+		name = "Nu'ayr"
+		monarch_name = "Nu'ayr"
+		dynasty = "Al Abu Risha"
+		birth_date = 1345.1.1
+		death_date = 1406.1.1
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+1375.1.1 = {
+	monarch = {
+		name = "Nu'ayr"
+		dynasty = "Al Abu Risha"
+		birth_date = 1345.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+1376.1.1 = {
+	heir = {
+		name = "Ijl"
+		monarch_name = "Ijl"
+		dynasty = "Al Abu Risha"
+		birth_date = 1376.1.1
+		death_date = 1412.1.1
+		claim = 95
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+1406.1.1 = {
+	monarch = {
+		name = "Ijl"
+		dynasty = "Al Abu Risha"
+		birth_date = 1376.1.1
+		adm = 0
+		dip = 2
+		mil = 1
+	}
+}
+
+1406.1.1 = {
+	heir = {
+		name = "Hamid"
+		monarch_name = "Hamid"
+		dynasty = "Al Abu Risha"
+		birth_date = 1382.1.1
+		death_date = 1415.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+}
+
+1412.1.1 = {
+	monarch = {
+		name = "Hamid"
+		dynasty = "Al Abu Risha"
+		birth_date = 1382.1.1
+		adm = 0
+		dip = 4
+		mil = 2
+	}
+}
+
+1412.1.1 = {
+	heir = {
+		name = "Ali"
+		monarch_name = "Ali"
+		dynasty = "Al Abu Risha"
+		birth_date = 1385.1.1
+		death_date = 1430.1.1
+		claim = 95
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+1415.1.1 = {
+	monarch = {
+		name = "Ali"
+		dynasty = "Al Abu Risha"
+		birth_date = 1385.1.1
+		adm = 3
+		dip = 5
+		mil = 5
+	}
+}
+
+1415.1.1 = {
+	heir = {
+		name = "Musa"
+		monarch_name = "Musa"
+		dynasty = "Al Abu Risha"
+		birth_date = 1400.1.1
+		death_date = 1436.1.1
+		claim = 95
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+}
+
+1430.1.1 = {
+	monarch = {
+		name = "Musa"
+		dynasty = "Al Abu Risha"
+		birth_date = 1400.1.1
+		adm = 0
+		dip = 4
+		mil = 3
+	}
+}
+
+1430.1.1 = {
+	heir = {
+		name = "Qirmas"
+		monarch_name = "Qirmas"
+		dynasty = "Al Abu Risha"
+		birth_date = 1410.1.1
+		death_date = 1480.1.1
+		claim = 95
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1436.1.1 = {
+	monarch = {
+		name = "Qirqmas"
+		dynasty = "Al Abu Risha"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+
+1480.1.1 = {
+	monarch = {
+		name = "Sayf"
+		dynasty = "Al Abu Risha"
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+	heir = {
+		name = "Ibn Sayf"
+		monarch_name = "Ibn Sayf"
+		dynasty = "Al Abu Risha"
+		birth_date = 1480.1.1
+		death_date = 1501.1.1
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1496.1.1 = {
+	monarch = {
+		name = "Ibn Sayf"
+		dynasty = "Al Abu Risha"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1501.1.1 = {
+	monarch = {
+		name = "Mudlij"
+		dynasty = "Al Abu Risha"
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}

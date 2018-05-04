@@ -1,0 +1,29 @@
+government = constitutional_republic
+mercantilism = 0.1
+primary_culture = sawabantu
+religion = sunni
+technology_group = muslim
+capital = 2042
+religious_school = maliki_school
+
+1910.1.1 = { religion = secularism }
+
+1960.1.1 = {
+	monarch = {
+		name = "Ahmadou Ahidjo"
+		adm = 4
+		dip = 3
+		mil = 3
+		religion = catholic
+	}
+}
+
+1982.11.6 = {
+	monarch = {
+		name = "Paul Biya"
+		adm = 5
+		dip = 5
+		mil = 2
+		religion = catholic
+	}
+}

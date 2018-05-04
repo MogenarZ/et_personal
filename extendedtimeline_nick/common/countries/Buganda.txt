@@ -1,0 +1,89 @@
+#Country Name: Please seefilename.
+
+graphical_culture = africangfx
+
+color = { 21 21 227 }
+
+historical_idea_groups = {
+	early_religious_ideas
+	early_trade_ideas
+	early_mil_ideas
+	early_adm_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+monarch_names = {
+	"Muteesa #0" = 5
+	"Suuna #0" = 5
+	"Kamaanya #0" = 5
+	"Semakookiro #0" = 5
+	"Jjunju #0" = 5
+	"Kyabaggu #0" = 20
+	"Namuggala #0" = 20
+	"Mwanga #0" = 20
+	"Mawanda #0" = 20
+	"Kikulwe #0" = 20
+	"Kagulu #0" = 20
+	"Ndawula #0" = 20
+	"Tebandeke #0" = 20
+	"Juuko #0" = 20
+	"Kayemba #0" = 20
+	"Mutebi #0" = 20
+	"Kateregga #0" = 20
+	"Kimbugwe #0" = 20
+	"Sekamaanya #0" = 20
+	"Jemba #0" = 20
+	"Mulondo #0" = 20
+	"Nakibinge #0" = 20
+	"Kayima #0" = 20
+	"Ttembo #0" = 5
+	"Kimera #0" = 5
+	"Kato Kintu #0" = 5
+	"Balambi #0" = -1
+	"Bawedde #0" = -1
+	"Sikyayinza #0" = -1
+	"Nakamu #0" = -1
+	"Chwa #0" = 10  
+	"Kiggala #0" = 10
+	"Semakooriko #0" = 10
+	"Kiweewa #0" = 10
+	"Kalema #0" = 10
+	"Daudi #0" = 10
+}
+
+leader_names = {
+	Katureebe Okello Wabudeya Odoki Bigombe Rwamirama Kabumba Bakabulindi Mbire
+	Kitumba Kiyonga Migereko Wakinona Kakooza Otala Kategaya Kamuntu Suruma
+	Butagira Mukisa Omach Ruhindi
+}
+
+ship_names = {
+	Mlima Moto Moshi Homu Ukungu Nyota
+	Jua Maji Mwezi Mnyama Samaki Ndege
+	Mbwa Nyoka Ua Damu
+}
+
+
+

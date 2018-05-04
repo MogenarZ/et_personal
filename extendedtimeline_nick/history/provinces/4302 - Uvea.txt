@@ -1,0 +1,27 @@
+#1243 - Samoa
+
+culture = polynesian
+religion = animism
+capital = "Mata'utu"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 40
+native_ferocity = 2
+native_hostileness = 9
+
+1767.8.16 = { discovered_by = GBR } # Samuel Wallis
+
+1887.4.1   = { 	owner = FR2
+		controller = FR2
+		add_core = FR2
+		is_city = yes
+		religion = catholic
+		trade_goods = fish
+	     }
+1940.6.14  = { owner = FRV controller = FRV add_core = FRV } # Vichy France
+1944.8.25  = { owner = FR2 controller = FR2 remove_core = FRV } # France liberated by allied forces
+
+

@@ -1,0 +1,3 @@
+#Britain
+170 = "Pedn an Wlas"		#Finistère
+4498  = "Kernow"		#Cornwall

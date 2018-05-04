@@ -1,0 +1,60 @@
+government = constitutional_republic
+primary_culture = senegambian
+religion = sunni
+technology_group = muslim
+capital = 1113
+religious_school = maliki_school
+
+1910.1.1 = { religion = secularism }
+
+1960.8.20 = {
+	monarch = {
+		name = "Council of State"
+		adm = 2
+		dip = 2
+		mil = 2
+		religion = sunni
+		regent = yes
+	}
+}
+
+1960.9.6 = {
+	monarch = {
+		name = "Léopold Sédar Senghor"
+		adm = 3
+		dip = 5
+		mil = 3
+		religion = sunni
+	}
+}
+
+1988.1.1 = {
+	monarch = {
+		name = "Abdou Diouf"
+		adm = 6
+		dip = 2
+		mil = 2
+		religion = sunni
+	}
+}
+
+2000.4.1 = {
+	monarch = {
+		name = "Abdoulaye Wade"
+		adm = 5
+		dip = 3
+		mil = 2
+		religion = sunni
+	}
+}
+
+2012.4.2 = {
+	monarch = {
+		name = "Macky Sall"
+		adm = 3
+		dip = 4
+		mil = 2
+		religion = sunni
+	}
+}
+

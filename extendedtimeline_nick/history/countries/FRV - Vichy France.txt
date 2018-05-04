@@ -1,0 +1,16 @@
+government = constitutional_republic
+mercantilism = 0.1
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 190	# Vichy
+
+1940.6.14 = {
+	monarch = {
+		name = "Philippe Pétain"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+

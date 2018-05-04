@@ -1,0 +1,4 @@
+103 = "Piemont"			#Piedmont
+1875 = "Coni"			#Cuneo
+3123 = "Ast"			#Asti
+

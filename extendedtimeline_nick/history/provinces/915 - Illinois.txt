@@ -1,0 +1,72 @@
+#915 - Illinois
+
+culture = illini
+religion = totemism
+capital = "Illinois"
+trade_goods = unknown
+hre = no
+discovered_by = north_american
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 0
+
+1340.1.1 = { owner = ILL controller = ILL add_core = ILL is_city = yes trade_goods = grain }
+
+1659.1.1  = { discovered_by = FRA } # Médard Chouart Des Groseilliers
+1664.1.1  = { discovered_by = ENG }
+1680.1.1  = { 	owner = IRO
+		controller = IRO
+		citysize = 100
+		culture = iroquois } #Taken by Iroquois in Beaver Wars.
+1680.6.1  = {	owner = FRA
+		controller = FRA
+		remove_core = ILL
+		citysize = 500
+		religion = catholic
+		culture = cosmopolitan_french
+	    } # Construction of Fort Crèvecoeur
+1705.1.1  = { add_core = FRA citysize = 1120 }
+1707.5.12 = { discovered_by = GBR }
+1760.1.1 = { base_tax = 3 base_production = 3 base_manpower = 2 }
+1763.2.10 = {
+		owner = GBR
+		controller = GBR
+		culture = english
+		religion = protestant
+		remove_core = FRA
+	    } # Treaty of Paris - ceded to Britain, France gave up its claim
+1763.3.1  = { unrest = 6 } # Native discontent with the British rule
+1763.5.1  = { unrest = 0 revolt = { type = nationalist_rebels size = 2 } controller = REB } # Pontiac's war
+1763.10.9 = {	revolt = {}
+		owner = ILL
+		controller = ILL
+		add_core = ILL
+		is_city = yes
+		culture = huron
+		religion = totemism
+	    } # Royal proclamation, Britan recognize native lands (as protectorates)
+1780.1.1 = { base_tax = 6 base_production = 6 base_manpower = 3 }
+1800.1.1 = { base_tax = 8 base_production = 8 }
+1813.10.5 = {	owner = USA
+		controller = USA
+		add_core = USA
+		culture = american
+		religion = protestant } #The death of Tecumseh mark the end of organized native resistance
+
+1820.1.1 = { base_tax = 10 base_production = 9 base_manpower = 4 }
+1837.3.4   = { capital = "Chicago" }
+1840.1.1 = { base_tax = 17 base_production = 14 base_manpower = 12 }
+1860.1.1 = { base_tax = 25 base_production = 18 base_manpower = 20 }
+1880.1.1 = { discovered_by = eastern discovered_by = muslim discovered_by = ottoman discovered_by = asian }
+1881.1.1 = { base_tax = 33 base_production = 24 base_manpower = 26 }
+1900.1.1 = { base_tax = 42 base_manpower = 36 }
+1920.1.1 = { base_tax = 50 base_production = 29 base_manpower = 43 }
+1930.1.1   = { trade_goods = cars }
+1940.1.1 = { base_tax = 56 base_production = 40 base_manpower = 46 }
+1960.1.1 = { base_tax = 60 base_production = 45 base_manpower = 57 }
+1980.1.1 = { base_tax = 67 base_production = 49 base_manpower = 65 }
+1990.1.1 = { base_tax = 76 base_production = 55 base_manpower = 70 }
+2000.1.1 = { base_tax = 81 base_production = 81 base_manpower = 79 }

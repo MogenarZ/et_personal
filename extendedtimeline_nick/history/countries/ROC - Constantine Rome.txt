@@ -1,0 +1,26 @@
+government = despotic_monarchy
+government_rank = 3
+mercantilism = 0.1
+primary_culture = roman
+add_accepted_culture = gallian
+add_accepted_culture = celtiberian
+religion = hellenism
+technology_group = roman_group
+historical_friend = ROL
+historical_rival = ROX
+historical_rival = ROA
+capital = 80	# Augusta Treverorum
+fixed_capital = 80
+
+311.5.1 = {
+	monarch = {
+		name = "Constantine I"
+		dynasty = "Constantinian"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	clear_scripted_personalities = yes
+	add_ruler_personality = inspiring_leader_personality
+	add_ruler_personality = tolerant_personality
+}

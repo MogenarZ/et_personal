@@ -1,0 +1,71 @@
+#Scandinavia
+6    = "Skåne"                   #Skane
+10   = "Jämtland"		 #Jamtland
+12   = "Själland"		 #Sjaelland
+15   = "Mittjylland"		 #Jylland/Midtjylland
+16   = "Bohuslän"		 #Bohuslan
+4123 = "Birkaland"		 #Birkaland
+#Americas
+956  = "Nya Götheborg"		 #Lenape		
+957  = "Fort Kristina"		 #Delaware 
+962  = "Nya Elfsborg"		 #Unami
+#Russia
+33   = "Nöteborg"		 #Neva
+310  = "Stor Nystad"		 #Novgorod
+1776 = "Karelen"		 #Karelia
+1777 = "Kolahalvön"		 #Kola
+#Ukraine
+284  = "Krim"			 #Crimea
+2961 = "Lemberg"		 #Lvov
+#Baltics	
+37   = "Livland"		 #Livland
+271  = "Samogitien"		 #Samogitia
+272  = "Vilna"			 #Lithuania/Vilna
+273  = "Lettgallen"		 #Latgalia
+#Czechia
+265  = "Mähren"			 #Moravia
+266  = "Prag"			 #Prague
+#Germany
+45   = "Lybeck"			 #Lubeck
+49   = "Nya märket"		 #Neumark
+73   = "Tyrolen"		 #Tirol
+110  = "Sydtyrolen"		 #Trent/Sudtirol
+1768 = "Östtyrolen"		 #Lienz
+1770 = "Östmark"		 #Ostmark
+#France
+168  = "Normandiet"		 #Normandie
+205  = "Savojen"		 #Savoie
+#Italy
+101  = "Genua"			 #Genoa
+111  = "Friulien"  		 #Friuli
+112  = "Venedig"		 #Venezia
+116  = "Florens"		 #Firenze
+118  = "Rom"			 #Roma
+121  = "Neapel"			 #Napoli
+2976 = "Umbrien"		 #Umbria
+3133 = "Syrakusa"		 #Syracuse
+#Poland
+254  = "Posen"			 #Poznan
+257  = "Varsjava"		 #Warszawa
+262  = "Krakau"			 #Krakow
+#Benelux
+90   = "Flandern"		 #Vlaanderen
+96 = "Själland"			 #Zeeland
+#Serbia
+138  = "Montenegro"		 #Zeta
+141  = "Serbien"		 #Serbia
+#Croatia
+130  = "Istrien"		 #Istria
+136  = "Dalmatien"		 #Dalmatia
+140  = "Bosnien"		 #Bosnia
+1767 = "Slavonien"		 #Slavonia
+#Greece
+4267 = "Aitolien"		#Aetolia
+
+#Added vanilla names
+32 = "Kexholm"
+
+4263 = "Birkaland"
+4287 = "Ditmarsken"
+4282 = "Kajanaland"
+

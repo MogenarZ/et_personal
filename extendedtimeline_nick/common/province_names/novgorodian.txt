@@ -1,0 +1,5 @@
+#Russia
+34   = "Ingriya"			#Ingermanland
+284  = "Krym"				#Crimea
+#Germany
+41   = "Kaliningrad"			#Konigsberg

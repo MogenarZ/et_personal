@@ -1,0 +1,433 @@
+
+large_empire = {
+	potential = {
+		NOT = { adm_tech = 32 }
+	}
+
+	trigger = {
+		OR = {
+			AND = {
+				NOT = { adm_tech = 19 }
+				num_of_cities = 80
+				NOT = { num_of_cities = 160 }
+			}
+			AND = {
+				adm_tech = 19
+				NOT = { adm_tech = 32 }
+				num_of_cities = 160
+			}
+		}
+	}
+
+	land_forcelimit_modifier = -0.1
+	global_manpower_modifier = -0.1
+	global_tax_modifier = -0.05
+	global_unrest = 1
+	stability_cost_modifier = 0.1
+}
+
+huge_empire = {
+	potential = {
+		NOT = { adm_tech = 19 }
+	}
+
+	trigger = {
+		NOT = { adm_tech = 19 }
+		num_of_cities = 160
+	}
+
+	land_forcelimit_modifier = -0.2
+	global_manpower_modifier = -0.2
+	global_tax_modifier = -0.1
+	global_unrest = 1
+	stability_cost_modifier = 0.2
+}
+
+primitive_government = {
+	potential = {
+		government = barbarian_tribe
+	}
+
+	trigger = {
+		government = barbarian_tribe
+		adm_tech = 21
+	}
+
+	land_forcelimit_modifier = -0.5
+	global_manpower_modifier = -0.5
+	global_regiment_cost = 0.4
+	technology_cost = 0.5
+	global_unrest = 1
+}
+
+large_tribe = {
+	potential = {
+		government = native_council
+	}
+
+	trigger = {
+		government = native_council
+		num_of_cities = 8
+	}
+
+	colonist_placement_chance = -10
+}
+
+classical_age_modifier = {
+	potential = {
+		current_age = classical_age
+		has_dlc = "Common Sense"
+	}
+
+	trigger = {
+		current_age = classical_age
+	}
+
+	discipline = -0.1
+	naval_forcelimit_modifier = -0.5
+	envoy_travel_time = 0.2
+	diplomatic_upkeep = -2
+	development_cost = 2.2
+	culture_conversion_cost = 1.2
+}
+
+late_classical_age_modifier = {
+	potential = {
+		current_age = late_classical_age
+		has_dlc = "Common Sense"
+	}
+
+	trigger = {
+		current_age = late_classical_age
+	}
+
+	discipline = -0.1
+	naval_forcelimit_modifier = -0.5
+	envoy_travel_time = 0.2
+	diplomatic_upkeep = -2
+	development_cost = 2
+	culture_conversion_cost = 1
+}
+
+age_of_migrations_modifier = {
+	potential = {
+		current_age = age_of_migrations
+		has_dlc = "Common Sense"
+	}
+
+	trigger = {
+		current_age = age_of_migrations
+	}
+
+	discipline = -0.1
+	naval_forcelimit_modifier = -0.4
+	envoy_travel_time = 0.2
+	diplomatic_upkeep = -2
+	development_cost = 1.75
+	culture_conversion_cost = 0.8
+}
+
+dark_age_modifier = {
+	potential = {
+		current_age = dark_age
+		has_dlc = "Common Sense"
+	}
+
+	trigger = {
+		current_age = dark_age
+	}
+
+	discipline = -0.075
+	naval_forcelimit_modifier = -0.4
+	envoy_travel_time = 0.2
+	diplomatic_upkeep = -2
+	development_cost = 1.5
+	culture_conversion_cost = 0.8
+}
+
+feudal_age_modifier = {
+	potential = {
+		current_age = feudal_age
+		has_dlc = "Common Sense"
+	}
+
+	trigger = {
+		current_age = feudal_age
+	}
+
+	discipline = -0.075
+	naval_forcelimit_modifier = -0.3
+	envoy_travel_time = 0.2
+	diplomatic_upkeep = -2
+	development_cost = 1.25
+	culture_conversion_cost = 0.8
+}
+
+high_middle_ages_modifier = {
+	potential = {
+		current_age = high_middle_ages
+		has_dlc = "Common Sense"
+	}
+
+	trigger = {
+		current_age = high_middle_ages
+	}
+
+	discipline = -0.05
+	naval_forcelimit_modifier = -0.3
+	envoy_travel_time = 0.1
+	diplomatic_upkeep = -1
+	development_cost = 1
+	culture_conversion_cost = 0.6
+}
+
+late_middle_ages_modifier = {
+	potential = {
+		current_age = late_middle_ages
+		has_dlc = "Common Sense"
+	}
+
+	trigger = {
+		current_age = late_middle_ages
+	}
+
+	discipline = -0.05
+	naval_forcelimit_modifier = -0.2
+	envoy_travel_time = 0.1
+	diplomatic_upkeep = -1
+	development_cost = 0.75
+	culture_conversion_cost = 0.4
+}
+
+industrial_age_modifier = {
+	potential = {
+		current_age = industrial_age
+	}
+
+	trigger = {
+		current_age = industrial_age
+	}
+
+	envoy_travel_time = -0.4
+	diplomatic_upkeep = 3
+	free_leader_pool = 1
+	siege_ability = 0.50
+	technology_cost = 0.1
+	development_cost = -0.1
+	culture_conversion_cost = -0.15
+	land_maintenance_modifier = 0.2
+}
+
+great_war_age_modifier = {
+	potential = {
+		current_age = great_war_age
+	}
+
+	trigger = {
+		current_age = great_war_age
+	}
+
+	envoy_travel_time = -0.6
+	diplomatic_upkeep = 5
+	free_leader_pool = 2
+	siege_ability = 0.75
+	technology_cost = 0.2
+	development_cost = -0.2
+	culture_conversion_cost = -0.3
+	land_maintenance_modifier = 0.4
+}
+
+information_age_modifier = {
+	potential = {
+		current_age = information_age
+	}
+
+	trigger = {
+		current_age = information_age
+	}
+
+	envoy_travel_time = -0.8
+	diplomatic_upkeep = 6
+	free_leader_pool = 2
+	siege_ability = 1
+	technology_cost = 0.3
+	development_cost = -0.3
+	culture_conversion_cost = -0.3
+	land_maintenance_modifier = 0.6
+}
+
+the_polar_bear_emperor = {
+	potential = {
+		tag = JMN
+	}
+
+	trigger = {
+		tag = JMN
+		emperor = yes
+	}
+
+	heir_chance = -10
+	global_tax_modifier = -1
+	papal_influence = -10
+	imperial_authority = -10
+	diplomatic_reputation = -100
+}
+
+ai_rome = {
+	potential = {
+		ai = yes
+		tag = ROM
+	}
+
+	trigger = {
+		ai = yes
+		tag = ROM
+		NOT = { is_year = 400 }
+	}
+
+	global_unrest = -2
+}
+
+inferior_nuclear_strength = {
+	potential = {
+		OR = {
+			current_age = great_war_age
+			current_age = information_age
+		}
+	}
+
+	trigger = {
+		any_country = {
+			war_with = ROOT
+			NOT = {
+				ROOT = {
+					check_variable = {
+						which = num_of_nuclear_weapons
+						which = PREV
+					}
+				}
+			}
+		}
+	}
+
+	land_morale = -0.15
+}
+
+classical_age_modifier_no_cs = {
+	potential = {
+		current_age = classical_age
+		NOT = { has_dlc = "Common Sense" }
+	}
+
+	trigger = {
+		current_age = classical_age
+	}
+
+	discipline = -0.1
+	naval_forcelimit_modifier = -0.5
+	envoy_travel_time = 0.2
+	diplomatic_upkeep = -2
+	culture_conversion_cost = 1.2
+}
+
+late_classical_age_modifier_no_cs = {
+	potential = {
+		current_age = late_classical_age
+		NOT = { has_dlc = "Common Sense" }
+	}
+
+	trigger = {
+		current_age = late_classical_age
+	}
+
+	discipline = -0.1
+	naval_forcelimit_modifier = -0.5
+	envoy_travel_time = 0.2
+	diplomatic_upkeep = -2
+	culture_conversion_cost = 1
+}
+
+age_of_migrations_modifier_no_cs = {
+	potential = {
+		current_age = age_of_migrations
+		NOT = { has_dlc = "Common Sense" }
+	}
+
+	trigger = {
+		current_age = age_of_migrations
+	}
+
+	discipline = -0.1
+	naval_forcelimit_modifier = -0.4
+	envoy_travel_time = 0.2
+	diplomatic_upkeep = -2
+	culture_conversion_cost = 0.8
+}
+
+dark_age_modifier_no_cs = {
+	potential = {
+		current_age = dark_age
+		NOT = { has_dlc = "Common Sense" }
+	}
+
+	trigger = {
+		current_age = dark_age
+	}
+
+	discipline = -0.075
+	naval_forcelimit_modifier = -0.4
+	envoy_travel_time = 0.2
+	diplomatic_upkeep = -2
+	culture_conversion_cost = 0.8
+}
+
+feudal_age_modifier_no_cs = {
+	potential = {
+		current_age = feudal_age
+		NOT = { has_dlc = "Common Sense" }
+	}
+
+	trigger = {
+		current_age = feudal_age
+	}
+
+	discipline = -0.075
+	naval_forcelimit_modifier = -0.3
+	envoy_travel_time = 0.2
+	diplomatic_upkeep = -2
+	culture_conversion_cost = 0.8
+}
+
+high_middle_ages_modifier_no_cs = {
+	potential = {
+		current_age = high_middle_ages
+		NOT = { has_dlc = "Common Sense" }
+	}
+
+	trigger = {
+		current_age = high_middle_ages
+	}
+
+	discipline = -0.05
+	naval_forcelimit_modifier = -0.3
+	envoy_travel_time = 0.1
+	diplomatic_upkeep = -1
+	culture_conversion_cost = 0.6
+}
+
+late_middle_ages_modifier_no_cs = {
+	potential = {
+		current_age = late_middle_ages
+		NOT = { has_dlc = "Common Sense" }
+	}
+
+	trigger = {
+		current_age = late_middle_ages
+	}
+
+	discipline = -0.05
+	naval_forcelimit_modifier = -0.2
+	envoy_travel_time = 0.1
+	diplomatic_upkeep = -1
+	culture_conversion_cost = 0.4
+}

@@ -1,0 +1,49 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = early_chinese
+religion = mahayana
+primary_culture = tocharian
+capital = 2884
+
+2.1.1 = {
+	monarch = {
+		name = "Weituqi"
+		dynasty = "Shanshan"
+		adm = 1
+		dip = 4
+		mil = 0
+	}
+}
+
+50.1.1 = {
+	monarch = {
+		name = "Guang"
+		dynasty = "Shanshan"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+184.1.1 = {
+	monarch = {
+		name = "Amgoka"
+		dynasty = "Shanshan"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+290.1.1 = {
+	monarch = {
+		name = "(unknown)"
+		adm = 2
+		dip = 2
+		mil = 2
+		regent = yes
+	}
+}
+
+720.1.1 = { primary_culture = uyghur }
+750.1.1 = { technology_group = chinese }

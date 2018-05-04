@@ -1,0 +1,2 @@
+382 = "Dimshek"			#Damascus
+567 = "Jalaalabaad"		#Silhet

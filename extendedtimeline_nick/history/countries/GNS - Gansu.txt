@@ -1,0 +1,11 @@
+government = steppe_horde
+mercantilism = 0.1
+primary_culture = uyghur
+religion = tengri_pagan_reformed
+technology_group = eastern_nomad_group
+capital = 707
+
+750.1.1 = { technology_group = nomad_group }
+
+840.1.1 = { secondary_religion = vajrayana }
+

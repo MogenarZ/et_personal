@@ -1,0 +1,9 @@
+government = tribal_kingdom
+mercantilism = 0.1
+technology_group = early_chinese
+religion = mahayana
+primary_culture = tocharian
+capital = 2882	# Kuqa
+
+720.1.1 = { primary_culture = uyghur }
+750.1.1 = { technology_group = chinese }

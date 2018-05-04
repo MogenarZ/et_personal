@@ -1,0 +1,61 @@
+government = despotic_monarchy
+technology_group = early_chinese
+primary_culture = filipino
+capital = 2859 #Pangasinan
+religion = mahayana
+government_rank = 2
+
+750.1.1 = { technology_group = chinese }
+
+1406.1.1 = {
+	monarch = {
+		name = "Kamayin"
+		dynasty = "Caboloan"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}
+
+1408.1.1 = {
+	monarch = {
+		name = "Taymey"
+		dynasty = "Caboloan"
+		adm = 1
+		dip = 3
+		mil = 0
+	}
+}
+
+1409.1.1 = {
+	monarch = {
+		name = "Liyu"
+		dynasty = "Caboloan"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1500.1.1 = {
+	monarch = {
+		name = "Urduja"
+		dynasty = "Caboloan"
+		adm = 2
+		dip = 1
+		mil = 5
+		female = yes
+	}
+}
+
+1574.1.1 = { #Pirate Warlord
+	monarch = {
+		name = "Hong"
+		dynasty = "Lim"
+		adm = 2
+		dip = 5
+		mil = 3
+		culture = hakka
+		religion = confucianism
+	}
+}

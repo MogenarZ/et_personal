@@ -1,0 +1,8 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = putun
+religion = nahuatl
+technology_group = mesoamerican
+capital = 850
+
+650.1.1 = { capital = 2650 } #Cholula

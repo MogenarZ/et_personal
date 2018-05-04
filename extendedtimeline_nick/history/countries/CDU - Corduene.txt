@@ -1,0 +1,26 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = kurdish
+religion = ashurism
+technology_group = middle_eastern
+capital = 4418
+
+2.1.1 = {
+	monarch = {
+		name = "Praetavi"
+		dynasty = "Praetavi"
+		adm = 1
+		dip = 1 
+		mil = 1
+	}
+}
+
+50.1.1 = {
+	monarch = {
+		name = "Manisarus"
+		dynasty = "Praetavi"
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}

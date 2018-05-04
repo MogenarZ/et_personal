@@ -1,0 +1,4 @@
+330 = "Trapezous"		#Trebizond
+1765 = "Triadica"		#Sofia
+1849 = "Emathoùs"		#Hamah
+2367 = "Antiocheia"		#Antioch

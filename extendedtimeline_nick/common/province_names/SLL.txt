@@ -1,0 +1,2 @@
+735 = "Hanyang"			#Gyeonggi
+2512 = "Bugwongyeong"		#West Gangwon

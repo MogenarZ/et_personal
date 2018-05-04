@@ -1,0 +1,30 @@
+#Germany
+43   = "Gdunsk"				#Danzig
+44   = "Hambùrg"			#Hamburg
+45   = "Lubeka"				#Lubeck
+47   = "Przédné Pòmrë"			#Vorpommern
+48   = "Stôlpsk"			#Hinterpommern
+50   = "Berlëno"			#Berlin
+61   = "Drezdëno"			#Dresden
+1858 = "Szczecëno"			#Stettin
+2155 = "Pòrénkòwô Pòmòrskô"		#Gdingen
+3095 = "Kòlbrzég"			#Kolberg
+3121 = "Strzalowò"			#Stralsund
+#Poland
+49   = "Lubùsz"				#Neumark
+254  = "Pòznón"				#Poznan
+262  = "Krakòwò"			#Krakow
+263  = "Racibórz"			#Ratibor
+264  = "Wroclaw"			#Breslau
+3097 = "Glogów"				#Glogau
+#Russia
+295  = "Mòskwa"				#Moskva
+#Czechia
+265  = "Mòrawskô"			#Moravia
+266  = "Praga"				#Bohemia
+267  = "Szumawa"			#Plsen
+3109 = "Bùdziejowice"			#Budejovice
+#Slovakia
+1772 = "Bratislawa"			#Bratislava
+#France
+183  = "Pariz"				#Paris

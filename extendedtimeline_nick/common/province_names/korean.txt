@@ -1,0 +1,25 @@
+704 = "Nyeongwon"
+725 = "Baekdonap"
+726 = "Simyang"
+728 = "Samseong"
+730 = "Gillim"
+731 = "Nyeongan"
+2553 = "Buyeo"
+2554 = "Ryeongwon"
+2557 = "Hoeryeong"
+2564 = "Anju"
+4331 = "Geonju"
+4347 = "Anwon"
+#Japan
+1020 = "Gyeongdo"		#Kyoto
+
+#China
+667 = "Gwangju"			#Guangzhou
+679 = "Seongdo"			#Chengdu
+680 = "Chunggyeong"		#Chongqing
+700 = "Sian"			#Xi'an
+1816 = "Bukgyeong"		#Beijing
+1821 = "Namgyeong"		#Nanjing
+1829 = "Hamun"			#Xiamen
+2019 = "Cheongdo"		#Qingdao
+2858 = "Daebuk"			#Kelam

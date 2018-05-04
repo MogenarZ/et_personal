@@ -1,0 +1,7 @@
+government = tribal_despotism
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+religion = tengri_pagan_reformed
+primary_culture = volga_finnic
+capital = 304

@@ -1,0 +1,50 @@
+government = iqta
+technology_group = muslim
+religion = sunni
+primary_culture = kirgiz
+capital = 459	# Bishkek
+religious_school = hanafi_school
+
+1910.1.1 = { religion = secularism }
+1950.1.1 = { government = constitutional_republic }
+
+1991.8.31 = {
+	monarch = {
+		name = "Askar Akayev"
+		adm = 4
+		dip = 3
+		mil = 5
+		religion = sunni
+	}
+}
+
+2005.3.25 = {
+	monarch = {
+		name = "Kurmanbek Bakiyev"
+		adm = 4
+		dip = 2
+		mil = 3
+		religion = sunni
+	}
+}
+
+2010.4.7 = {
+	monarch = {
+		name = "Roza Otunbayeva"
+		adm = 5
+		dip = 2
+		mil = 3
+		religion = sunni
+		female = yes
+	}
+}
+
+2011.12.1 = {
+	monarch = {
+		name = "Almazbek Atambayev"
+		adm = 4
+		dip = 2
+		mil = 4
+		religion = sunni
+	}
+}

@@ -1,0 +1,202 @@
+government = shogunate
+primary_culture = japanese
+religion = shinto
+technology_group = chinese
+capital = 1020	# Yamashiro
+
+1192.7.12 = {
+	monarch = {
+		name = "Minamoto no Yoritomo"
+		dynasty = "Kamakura"
+		birth_date = 1147.5.9
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+1192.7.12 = {
+	heir = {
+		name = "Minamoto no Yorlie"
+		monarch_name = "Minamoto no Yorlie"
+		dynasty = "Kamakura"
+		birth_date = 1182.9.11
+		death_date = 1204.8.14
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1199.2.9 = {
+	monarch = {
+		name = "Minamoto no Yorlie"
+		dynasty = "Kamakura"
+		birth_date = 1182.9.11
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1199.2.9 = {
+	heir = {
+		name = "Minamoto no Sanetomo"
+		monarch_name = "Minamoto no Sanetomo"
+		dynasty = "Kamakura"
+		birth_date = 1192.9.17
+		death_date = 1219.2.13
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1203.1.1 = {
+	monarch = {
+		name = "Minamoto no Sanetomo"
+		dynasty = "Kamakura"
+		birth_date = 1192.9.17
+		adm = 4
+		dip = 1
+		mil = 3
+	}
+}
+
+1218.2.12 = {
+	heir = {
+		name = "Kujo Yoritsune"
+		monarch_name = "Kujo Yoritsune"
+		dynasty = "Kamakura"
+		birth_date = 1218.2.12
+		death_date = 1256.9.1
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+1219.2.13 = {
+	monarch = {
+		name = "Kujo Yoritsune"
+		dynasty = "Kamakura"
+		birth_date = 1218.2.12
+		adm = 5
+		dip = 5
+		mil = 4
+	}
+}
+
+1239.12.17 = {
+	heir = {
+		name = "Kujo Yoritsugu"
+		monarch_name = "Kujo Yoritsugu"
+		dynasty = "Kamakura"
+		birth_date = 1239.12.17
+		death_date = 1256.10.14
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+1244.1.1 = {
+	monarch = {
+		name = "Kujo Yoritsugu"
+		dynasty = "Kamakura"
+		birth_date = 1239.12.17
+		adm = 1
+		dip = 0
+		mil = 5
+	}
+}
+
+1244.1.1 = {
+	heir = {
+		name = "Munetaka"
+		monarch_name = "Munetaka"
+		dynasty = "Kamakura"
+		birth_date = 1242.12.15
+		death_date = 1274.9.2
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+1252.1.1 = {
+	monarch = {
+		name = "Munetaka"
+		dynasty = "Kamakura"
+		birth_date = 1242.12.15
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+
+1264.5.26 = {
+	heir = {
+		name = "Koreyasu"
+		monarch_name = "Koreyasu"
+		dynasty = "Kamakura"
+		birth_date = 1264.5.26
+		death_date = 1326.11.25
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1266.1.1 = {
+	monarch = {
+		name = "Koreyasu"
+		dynasty = "Kamakura"
+		birth_date = 1264.5.26
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+}
+
+1276.10.19 = {
+	heir = {
+		name = "Hisaaki"
+		monarch_name = "Hisaaki"
+		dynasty = "Kamakura"
+		birth_date = 1276.10.19
+		death_date = 1328.11.16
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}
+
+1289.1.1 = {
+	monarch = {
+		name = "Hisaaki"
+		dynasty = "Kamakura"
+		birth_date = 1276.10.19
+		adm = 4
+		dip = 1
+		mil = 5
+	}
+}
+
+1308.6.19 = {
+	monarch = {
+		name = "Morikuni"
+		dynasty = "Kamakura"
+		birth_date = 1308.6.19
+		adm = 5
+		dip = 2
+		mil = 4
+	}
+}

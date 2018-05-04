@@ -1,0 +1,21 @@
+government = tribal_despotism
+mercantilism = 0.1
+primary_culture = emishi
+religion = animism
+technology_group = early_chinese
+capital = 1025
+
+607.1.1 = { religion = mahayana }
+712.1.1 = { religion = shinto }
+
+750.1.1 = { technology_group = chinese }
+
+750.1.1 = {
+	monarch = {
+		name = "Aterui"
+		dynasty = "Emishi"
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}

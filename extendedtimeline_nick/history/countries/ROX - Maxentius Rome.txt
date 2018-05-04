@@ -1,0 +1,23 @@
+government = despotic_monarchy
+government_rank = 3
+mercantilism = 0.1
+primary_culture = roman
+add_accepted_culture = greek
+add_accepted_culture = illyrian
+religion = hellenism
+technology_group = roman_group
+historical_friend = ROA
+historical_rival = ROC
+historical_rival = ROL
+capital = 104	# Mediolanum
+fixed_capital = 104
+311.5.1 = {
+	monarch = {
+		name = "Maxentius I"
+		dynasty = "Maximian"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	clear_scripted_personalities = yes
+}

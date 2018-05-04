@@ -1,0 +1,28 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = gallian
+religion = hellenism
+technology_group = roman_group
+capital = 85
+
+271.1.1 = {
+	capital = 80
+
+	monarch = {
+		name = "Tetricus"
+		dynasty = "Esuvius"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+	
+	heir = {
+		name = "Tetricus"
+		monarch_name = "Tetricus II"
+		dynasty = "Esuvius"
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}

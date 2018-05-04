@@ -1,0 +1,6 @@
+410 = "Bagdat"				#Baghdad
+437 = "Köpetdag"			#Kopet Dag
+438 = "Garagum"				#Karakum
+445 = "Mary"				#Merv
+2292 = "Türkmenbasy"			#Kizil-su
+2431 = "Köneürgenc"			#Gurganj

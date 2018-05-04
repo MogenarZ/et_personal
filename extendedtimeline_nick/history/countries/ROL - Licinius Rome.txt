@@ -1,0 +1,23 @@
+government = despotic_monarchy
+government_rank = 3
+mercantilism = 0.1
+primary_culture = roman
+add_accepted_culture = greek
+add_accepted_culture = illyrian
+religion = hellenism
+technology_group = roman_group
+historical_friend = ROC
+historical_rival = ROX
+historical_rival = ROA
+capital = 4299	# Sirmium
+fixed_capital = 4299
+311.5.1 = {
+	monarch = {
+		name = "Licinius I"
+		dynasty = "Licinianus"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+	clear_scripted_personalities = yes
+}

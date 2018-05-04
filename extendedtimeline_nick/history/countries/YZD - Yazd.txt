@@ -1,0 +1,46 @@
+government = iqta
+primary_culture = persian
+religion = sunni
+technology_group = muslim
+capital = 433 # Yazd
+religious_school = hanafi_school
+
+1335.1.1 = {
+	monarch = {
+		name = "Shah Shuja"
+		dynasty = "Muzaffarid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1358.1.1 = {
+	monarch = {
+		name = "Shah Mahmud"
+		dynasty = "Muzaffarid"
+		adm = 1
+		mil = 3
+		dip = 5
+	}
+}
+
+1366.1.1 = {
+	monarch = {
+		name = "Shah Shuja"
+		dynasty = "Muzaffarid"
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+
+1384.1.1 = {
+	monarch = {
+		name = "Muhajid ad-Din Zain Al-Abidin 'Ali"
+		dynasty = "Muzaffarid"
+		adm = 4
+		mil = 2
+		dip = 4
+	}
+}

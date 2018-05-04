@@ -1,0 +1,8 @@
+382 = "Damsyik"			#Damascus
+593 = "Negara Sri Dharmaraja"
+596 = "Melaka"
+610 = "Lin-yi"
+379 = "Baitul Maqdis"		#Judea
+2008 = "Singapura"		#Singapore
+2395 = "Tanjung Salang"
+

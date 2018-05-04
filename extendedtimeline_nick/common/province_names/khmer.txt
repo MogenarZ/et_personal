@@ -1,0 +1,6 @@
+593 = "Nokor Sri Thommareach"
+612 = "Koreach"
+614 = "Vieng Chan"			#Vientiane
+2382 = "Sri Nakorn Lamduan"
+2858 = "Taibi"				#Kelam
+

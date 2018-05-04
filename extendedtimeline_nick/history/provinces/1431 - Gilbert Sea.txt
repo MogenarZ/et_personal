@@ -1,0 +1,6 @@
+#1431 - Western Fidji Basin
+
+1605.1.1 = { discovered_by = POR }
+1880.1.1   = { discovered_by = eastern discovered_by = muslim discovered_by = ottoman discovered_by = asian }
+
+

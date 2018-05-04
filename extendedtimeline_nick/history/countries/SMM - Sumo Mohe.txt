@@ -1,0 +1,38 @@
+government = steppe_horde
+mercantilism = 0.1
+technology_group = eastern_nomad_group
+primary_culture = manchu
+religion = tengri_pagan_reformed
+capital = 2556
+
+580.1.1 = {
+	monarch = {
+		name = "Tudiji"
+		dynasty = "Sumo"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+619.1.1 = {
+	monarch = {
+		name = "Li Jinhang"
+		dynasty = "Sumo"
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+683.1.1 = {
+	monarch = {
+		name = "Li Duozuo"
+		dynasty = "Sumo"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+750.1.1 = { technology_group = nomad_group }

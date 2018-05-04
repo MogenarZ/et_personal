@@ -1,0 +1,3 @@
+722 = "Bayisingtu"		#Jirem
+1816 = "Beežin"			#Beijing
+2460 = "Khöndlön Uuls"		#Kulun Shan

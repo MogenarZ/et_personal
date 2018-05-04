@@ -1,0 +1,117 @@
+government = despotic_monarchy
+mercantilism = 0.1
+technology_group = early_chinese
+religion = confucianism
+primary_culture = cantonese
+capital = 667	# Guangzhou
+
+907.6.1 = {
+	monarch = {
+		name = "Yin"
+		dynasty = "Liu"
+		birth_date = 874.1.1
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+
+907.6.1 = {
+	heir = {
+		name = "Yan"
+		monarch_name = "Yan"
+		dynasty = "Liu"
+		birth_date = 889.1.1
+		death_date = 942.6.10
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+911.4.4 = {
+	monarch = {
+		name = "Yan"
+		dynasty = "Liu"
+		birth_date = 889.1.1
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+920.1.1 = {
+	heir = {
+		name = "Bin"
+		monarch_name = "Bin"
+		dynasty = "Liu"
+		birth_date = 920.1.1
+		death_date = 943.4.15
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+942.6.10 = {
+	monarch = {
+		name = "Bin"
+		dynasty = "Liu"
+		birth_date = 920.1.1
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+942.6.10 = {
+	heir = {
+		name = "Sheng"
+		monarch_name = "Sheng"
+		dynasty = "Liu"
+		birth_date = 920.1.1
+		death_date = 958.9.18
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+943.4.15 = {
+	monarch = {
+		name = "Sheng"
+		dynasty = "Liu"
+		birth_date = 920.1.1
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+}
+
+943.4.15 = {
+	heir = {
+		name = "Chang"
+		monarch_name = "Chang"
+		dynasty = "Liu"
+		birth_date = 942.1.1
+		death_date = 980.1.1
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+
+958.9.18 = {
+	monarch = {
+		name = "Chang"
+		dynasty = "Liu"
+		birth_date = 942.1.1
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}

@@ -1,0 +1,16 @@
+name = "US invasion of Panama"
+
+war_goal = {
+	type = superiority_insult_mutual
+	casus_belli = cb_insult
+}
+
+1989.12.20 = {
+	add_attacker = USA
+	add_defender = PNM
+}
+
+1990.1.31 = {
+	rem_attacker = USA
+	rem_defender = PNM
+}

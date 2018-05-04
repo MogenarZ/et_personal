@@ -1,0 +1,3 @@
+168 = "Normaundie"		#Normandie
+180 = "Peitaland"		#Poitou
+

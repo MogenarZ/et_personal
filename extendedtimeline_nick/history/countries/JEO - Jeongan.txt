@@ -1,0 +1,28 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = korean
+religion = mahayana
+technology_group = early_chinese
+capital = 4331
+
+938.1.1 = {
+	monarch = {
+		name = "Manhwa"
+		dynasty = "Yeol"
+		adm = 2
+		mil = 4
+		dip = 2
+	}
+}
+
+976.1.1 = {
+	monarch = {
+		name = "Oh"
+		dynasty = "Hyeonmyeong"
+		adm = 3
+		mil = 6
+		dip = 3
+	}
+}
+
+750.1.1 = { technology_group = chinese }

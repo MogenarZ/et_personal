@@ -1,0 +1,48 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = panjabi
+religion = mahayana
+technology_group = early_indian
+capital = 524	# Mathura
+
+2.1.1 = {
+	monarch = {
+		name = "Hagana"
+		dynasty = "Indo-Scythian"
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+10.1.1 = {
+	monarch = {
+		name = "Rajuvula"
+		dynasty = "Indo-Scythian"
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+20.1.1 = {
+	monarch = {
+		name = "Sodasa"
+		dynasty = "Indo-Scythian"
+		adm = 3
+		dip = 3
+		mil = 2
+	}
+}
+
+90.1.1 = {
+	monarch = {
+		name = "Kharallapana"
+		dynasty = "Indo-Scythian"
+		adm = 4
+		dip = 2
+		mil = 4
+	}
+}
+
+750.1.1 = { technology_group = indian }

@@ -1,0 +1,9 @@
+government = iqta
+mercantilism = 0.1
+primary_culture = andalucian
+religion = sunni
+add_accepted_culture = berber
+technology_group = muslim
+capital = 221	# Murcia
+religious_school = maliki_school
+

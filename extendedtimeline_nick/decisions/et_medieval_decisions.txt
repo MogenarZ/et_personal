@@ -1,0 +1,250 @@
+country_decisions = {
+
+	hold_grand_tournament = {
+		potential = {
+			religion_group = christian
+			government = feudal_monarchy
+			NOT = { is_year = 1400 }
+			NOT = { has_country_modifier = grand_tournament }
+		}
+		allow = {
+			is_at_war = no
+			mil_power = 20
+			mil_tech = 32
+		}
+		effect = {
+			add_mil_power = -20
+			add_prestige = 5
+			add_country_modifier = {
+				name = "grand_tournament"
+				duration = 3650
+			}
+			hidden_effect = {
+				change_variable = {
+					which = tournaments_held
+					value = 1
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				check_variable = {
+					which = tournaments_held
+					value = 4
+				}
+			}
+		}
+	}
+
+	form_hre = {
+		major = yes
+		potential = {
+			NOT = { hre_size = 3 }
+			NOT = { exists = HLR }
+			religion = catholic
+		}
+		allow = {
+			OR = {
+				government = feudal_monarchy
+				government = salic_monarchy
+			}
+			OR = {
+				owns_or_vassal_of = 118
+				PAP = { is_subject_of = ROOT }
+				AND = {
+                   is_papal_controller = yes
+                   papal_influence = 75
+               }
+			}
+			num_of_cities = 10
+			legitimacy = 60
+			118 = {
+				NOT = { owned_by = ROM }
+				NOT = { owned_by = ROW }
+				NOT = { owned_by = BYZ }
+			}
+		}
+		effect = {
+			elector = yes
+			every_owned_province = { set_in_empire = yes }
+			every_country = {
+				limit = { is_subject_of = ROOT }
+				elector = yes
+				every_owned_province = { set_in_empire = yes }
+			}
+			every_country = {
+				limit = {
+					religion = catholic
+					OR = {
+						culture_group = ROOT
+						is_neighbor_of = ROOT
+						AND = {
+							marriage_with = ROOT
+							alliance_with = ROOT
+						}
+					}
+					NOT = { tag = ROM }
+					NOT = { tag = ROW }
+					NOT = { tag = BYZ }
+				}
+				every_owned_province = { 
+					limit = { NOT = { region = british_isles_region } }
+					set_in_empire = yes 
+				}
+			}
+			JMN = { 
+				elector = no
+				kill_ruler = yes 
+			}
+			3148 = { 
+				set_in_empire = no 
+				cede_province = XXX
+				remove_core = JMN
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	barbarian_migration = {
+		major = yes
+		potential = {
+			government = barbarian_tribe
+			NOT = { has_country_modifier = barbarian_migration }
+		}
+		allow = {
+			current_age = age_of_migrations
+			mil_tech = 15
+			adm_power = 100
+			is_subject = no
+			is_at_war = no
+			OR = {
+				AND = {
+					is_neighbor_of = ROM
+					NOT = { truce_with = ROM }
+					NOT = { alliance_with = ROM }
+				}
+				AND = {
+					is_neighbor_of = ROW
+					NOT = { truce_with = ROW }
+					NOT = { alliance_with = ROW }
+				}
+				AND = {
+					is_neighbor_of = BYZ
+					NOT = { truce_with = BYZ }
+					NOT = { alliance_with = BYZ }
+				}
+				AND = {
+					is_neighbor_of = GLL
+					NOT = { truce_with = GLL }
+					NOT = { alliance_with = GLL }
+				}
+			}
+		}
+		effect = {
+			add_prestige = 20
+			add_adm_power = -100
+			add_country_modifier = {
+				name = barbarian_migration
+				duration = 3560
+			}
+			if = {
+				limit = { 
+					is_neighbor_of = ROM 
+					NOT = { truce_with = ROM }
+					NOT = { alliance_with = ROM }
+				}
+				declare_war = ROM
+			}
+			if = {
+				limit = { 
+					OR = {
+						NOT = { is_neighbor_of = ROM }
+						truce_with = ROM
+						alliance_with = ROM
+					}
+					is_neighbor_of = ROW
+					NOT = { truce_with = ROW }
+					NOT = { alliance_with = ROW }
+				}
+				declare_war = ROW
+			}
+			if = {
+				limit = { 
+					OR = {
+						NOT = { is_neighbor_of = ROM }
+						truce_with = ROM
+						alliance_with = ROM
+					}
+					OR = {
+						NOT = { is_neighbor_of = ROW }
+						truce_with = ROW
+						alliance_with = ROW
+					}
+					is_neighbor_of = BYZ
+					NOT = { truce_with = BYZ }
+					NOT = { alliance_with = BYZ }
+				}
+				declare_war = BYZ
+			}
+			if = {
+				limit = { 
+					OR = {
+						NOT = { is_neighbor_of = ROM }
+						truce_with = ROM
+						alliance_with = ROM
+					}
+					OR = {
+						NOT = { is_neighbor_of = ROW }
+						truce_with = ROW
+						alliance_with = ROW
+					}
+					OR = {
+						NOT = { is_neighbor_of = BYZ }
+						truce_with = BYZ
+						alliance_with = BYZ
+					}
+					is_neighbor_of = GLL
+					NOT = { truce_with = GLL }
+					NOT = { alliance_with = GLL }
+				}
+				declare_war = GLL
+			}
+			every_owned_province = {
+				add_province_modifier = {
+					name = barbarian_homeland
+					duration = -1
+				}
+			}
+			random_owned_province = {
+				infantry = ROOT
+				infantry = ROOT
+				infantry = ROOT
+				infantry = ROOT
+				infantry = ROOT
+				infantry = ROOT
+				infantry = ROOT
+				infantry = ROOT
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = { stability = 0 }
+			}
+			modifier = {
+				factor = 0
+				num_of_revolts = 1
+			}
+			modifier = {
+				factor = 0
+				has_country_flag = successful_migration
+				num_of_cities = 8
+			}
+		}
+	}
+}

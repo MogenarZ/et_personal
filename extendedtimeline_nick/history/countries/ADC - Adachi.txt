@@ -1,0 +1,108 @@
+government = daimyo
+government_rank = 1
+primary_culture = japanese
+religion = shinto
+technology_group = early_chinese
+capital = 4484	# Mikawa
+	
+750.1.1 = { technology_group = chinese }
+
+1192.7.12 = {
+	monarch = {
+		name = "Kagemori"
+		dynasty = "Adachi"
+		birth_date = 1170.1.1
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}
+
+1210.1.1 = {
+	heir = {
+		name = "Yoshikage"
+		monarch_name = "Yoshikage"
+		dynasty = "Adachi"
+		birth_date = 1210.1.1
+		death_date = 1253.6.30
+		claim = 95
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1219.2.13 = {
+	monarch = {
+		name = "Yoshikage"
+		dynasty = "Adachi"
+		birth_date = 1210.1.1
+		adm = 2
+		dip = 4
+		mil = 4
+	}
+}
+
+1231.1.1 = {
+	heir = {
+		name = "Yasumori"
+		monarch_name = "Yasumori"
+		dynasty = "Adachi"
+		birth_date = 1231.1.1
+		death_date = 1285.12.14
+		claim = 95
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+1253.6.30 = {
+	monarch = {
+		name = "Yasumori"
+		dynasty = "Adachi"
+		birth_date = 1231.1.1
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+1259.1.1 = {
+	heir = {
+		name = "Munekage"
+		monarch_name = "Munekage"
+		dynasty = "Adachi"
+		birth_date = 1259.1.1
+		death_date = 1285.12.14
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 3
+	}
+}
+
+1285.12.14 = {
+	monarch = {
+		name = "Tokiaki"
+		dynasty = "Adachi"
+		birth_date = 1285.1.1
+		adm = 1
+		dip = 2
+		mil = 0
+	}
+}
+
+1310.1.1 = {
+	heir = {
+		name = "Takakage"
+		monarch_name = "Takakage"
+		dynasty = "Adachi"
+		birth_date = 1310.1.1
+		death_date = 1333.7.4
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+}

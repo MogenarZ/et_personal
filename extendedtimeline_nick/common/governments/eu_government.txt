@@ -1,0 +1,25 @@
+eu_gov = {
+	republic = yes
+	
+	color = { 45 205 220 }
+	
+	valid_for_new_country = no
+	allow_convert = no
+	
+	republican_name = yes
+	royal_marriage = no
+	
+	allow_vassal_war = yes
+	allow_vassal_alliance = yes
+	
+	valid_for_nation_designer = no
+	
+	rank = {
+		3 = {
+			num_accepted_cultures = 2
+			prestige = 3
+			liberty_desire = -999
+		}
+	}
+	fixed_rank = 3
+}

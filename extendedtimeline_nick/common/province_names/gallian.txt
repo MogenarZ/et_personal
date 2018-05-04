@@ -1,0 +1,20 @@
+78 = "Moenus"			#Mainz
+87 = "Itius"			#Calais
+102 = "Nicea"			#Nice
+103 = "Taurasia"		#Piedmont
+169 = "Armorica"		#Armor
+170 = "Broates"			#Finistère
+173 = "Aturius"			#Labourd
+174 = "Burdigala"		#Gascogne
+176 = "Beneharnum"		#Béarn
+178 = "Andes"			#Anjou
+183 = "Lutetia"			#Paris
+191 = "Cubis"			#Nevers
+196 = "Tolosa"			#Toulouse
+197 = "Ruscino"			#Roussillon
+199 = "Gergovia"		#Auvergne
+201 = "Massilia"		#Provence
+202 = "Aouenion"		#Avignon
+2598 = "Narbo Martius"		#Narbonne
+3103 = "Aduatuca"		#Loon
+

@@ -1,0 +1,191 @@
+#Germany
+40   = "Klaipeda"			  #Memel
+41   = "Karaliaucius"		  	  #Konigsberg
+42   = "Varmé"				  #Warmia
+43   = "Gdanskas"			  #Danzig
+44   = "Hamburgas"			  #Hamburg
+45   = "Liubekas"			  #Lubeck
+46   = "Rostokas"			  #Rostock
+50   = "Berlynas"			  #Berlin
+61   = "Saksonija"			  #Dresden
+65   = "Miunchenas"			  #Munchen
+73   = "Tirolis"			  #Tirol
+75   = "Elzasas"			  #Alsace
+76   = "Zalcburgas"			  #Salzburg
+85   = "Kelnas"				  #Koln
+110  = "Pietu Tirolis"			  #Trent
+128  = "Karintija"			  #Karnten
+132  = "Štirija"			  #Steiermark
+133  = "Lincas"				  #Linz
+134  = "Viena"				  #Wien
+1841 = "Marienburgas"			  #Marienburg
+1858 = "Šcecinas"			  #Stettin
+1859 = "Kulmas"				  #Kulm
+1863 = "Gracas"				  #Graz
+2969 = "Šternbergas"			  #Sternberg
+#Baltics
+35   = "Sarema"				  #Osel
+36   = "Talinas"			  #Reval
+37   = "Cesis"
+38   = "Ryga"				  #Riga
+39   = "Kursas"
+269  = "Palenké"
+270  = "Trakai"
+271  = "Zemaitija"
+272  = "Vilnius"			  #Vilna
+273  = "Daugpilis"
+1834 = "Tartu"
+1842 = "Narva"
+1935 = "Ziemgala"
+1936 = "Kaunas"				  #Kovno
+1937 = "Gardinas"			  #Grodno
+#Belarus
+275  = "Polockas"			  #Polotsk
+276  = "Minskas"			  #Minsk
+277  = "Brasta"			          #Brest
+278  = "Pinskas"			  #Pinsk
+292  = "Mogiliavas"			  #Mogilev
+770  = "Breslauja"			  
+771  = "Vitebskas"			  #Vitebsk
+1941 = "Turovas"			  #Turov
+#Ukraine
+279  = "Voluine"			  #Volhynia
+280  = "Kijevas"			  #Kiev
+282  = "Odesa"	
+283  = "Zaporože"			  #Zaporozhia
+289  = "Cernigovas"			  #Chernigov
+291  = "Charkovas"			  #Kharkov
+297  = "Brianskas"
+1942 = "Žytomyras"			  #Zhytomyr
+1943 = "Braclavas"
+1944 = "Cerkasai"	
+2406 = "Mykolajivas"
+2962 = "Rivne"
+#Russia	
+34   = "Ingrija"			  #Ingermanland
+274  = "Pskovas"			  #Pskov
+293  = "Smolenskas"			  #Smolensk
+294  = "Tvere"			   	  #Tver
+295  = "Maskva"				  #Moskva
+298  = "Kurskas"			  #Kursk
+299  = "Voronežas"			  #Voronezh
+301  = "Riazane"			  #Ryazan
+306  = "Nižnij Novgorodas"		  #Nizhny Novgorod
+308  = "Jaroslavlis"			  #Yaroslavl
+310  = "Naugardas"			  #Novgorod
+1960 = "Ostrovas"			  #Ostrov
+#Poland
+254  = "Poznane"			  #Poznan
+255  = "Kališas"			  #Kalisz
+256  = "Plockas"			  #Plock
+257  = "Varšuva"			  #Warsawa
+258  = "Seradzas"			  #Sieradz
+259  = "Sandomieras"			  #Sandomierz
+260  = "Liublinas"			  #Lublin
+261  = "Galicija"			  #Galicia
+262  = "Krokuva"                          #Krakow
+281  = "Podole"				  #Podolia
+1938 = "Vizna" 				  #Wizna
+1939 = "Lecicas"			  #Leczyca
+2424 = "Peremyšlis"			  #Peremyshl
+2960 = "Naujasis Soncas"		  #Nowy Sacz
+2961 = "Lvovas"				  #Lwow
+2963 = "Notece"				  #Notec
+#Czechia
+263  = "Racibužas"			  #Ratibor
+264  = "Vroclavas"			  #Breslau
+265  = "Moravija"			  #Moravia
+266  = "Praha"				  #Prague
+267  = "Pilzenas"			  #Plzen
+1771 = "Rudiniai kalnai"		  #Erz
+2698 = "Budejovicai"			  #Budejovice
+3097 = "Gloguvas"			  #Glogau
+#Slovakia
+154  = "Nitra"				  #Ersekujvar
+162  = "Zemplinas"			  #Zemplen
+1318 = "Spišas"			   	  #Spis
+1772 = "Požonas"			  #Pozsony
+#Hungary
+135  = "Šopronas"			  #Sopron
+153  = "Peštas"				  #Pest
+#Croatia
+131  = "Zagrebas"			#Zagreb
+136  = "Dalmatija"			#Dalmatia
+#Serbia
+138  = "Juodkalnija"			#Zeta
+141  = "Serbija"			#Serbia
+143  = "Leže"			 	#Albania
+4265 = "Vliora"				#Vlore
+4266 = "Duresis"			#Durres
+#Bulgaria
+1765 = "Sofija"				#Sofia
+#Romania
+268  = "Moldavija"			#Moldavia
+#Britain
+233  = "Kornvalis"			#Cornwall
+236  = "Londonas"			  #London
+237  = "Oksfordšyras"			  #Oxfordshire
+238  = "Eseksas"			  #Essex
+242  = "Gvinedas"			  #Gwynedd
+243  = "Linkolnšyras"			  #Lincoln
+245  = "Jorkšyras"			  #Yorkshire
+246  = "Nortumberlandas"		  #Northumberland
+248  = "Lodianas"			  #Lothian
+249  = "Eršyras"			  #Ayrshire
+252  = "Invernesas"			  #Inverness
+1860 = "Norfolkas"			  #Norfolk
+1861 = "Derbišyras"			  #Derby
+#France
+87   = "Kale"				  #Calais
+89   = "Pikardija"			  #Picardie
+102  = "Nica"				  #Nice
+168  = "Normandija"			  #Normandie
+174  = "Gaskone"			  #Gascogne
+179  = "Beri"				  #Berry
+183  = "Il de Fransas"			  #Paris
+184  = "Orleanas"			  #Orleanais
+189  = "Lotaringija"			  #Lothringen
+190  = "Burbone"			  #Bourbon/Bourbonnais
+192  = "Burgundija"			  #Bourgogne
+193  = "Franš Konte"			  #Franche Comte
+195  = "Limuzenas"			  #Limousin
+196  = "Tuluza"				  #Toulouse
+199  = "Overne"				  #Auvergne
+200  = "Langedokas"			  #Languedoc
+201  = "Provansas"			  #Provence
+1247 = "Korsika"			  #Corsica
+#Benelux
+90   = "Flandrija"			  #Vlaanderen
+92   = "Brabantas"			  #Brabant
+94   = "Liuksemburgas"			  #Luxemburg
+97   = "Olandija"			  #Holland
+#Italy
+127  = "Sasaris"			  #Sassari
+205  = "Savoja"				  #Savoie
+2986 = "Kaljaris"			  #Cagliari
+#Iberia
+210  = "Navara"				  #Navara
+213  = "Barselona"			  #Barcelona
+214  = "Aragonas"			  #Aragon
+217  = "Madridas"			  #Madrid
+227  = "Lisabona"			  #Lisboa
+#Greece
+4267 = "Etolija"			#Aetolia
+#Japan
+1020 = "Kijotas"			#Kyoto
+#Asia
+454 = "Samarkandas"			#Samarkand
+457 = "Taskentas"			#Tashkent
+567 = "Silhatas"			#Silhet
+614 = "Vientianas"			#Vientiane
+622 = "Palembangas"			#Palembang
+641 = "Makasaras"			#Makassar
+725 = "Seulas"				#Hanseong
+2858 = "Taipejus"			#Kelam
+
+#Africa
+379 = "Jeruzale"			#Judea
+2536 = "Džida"				#Jeddah
+
+#Added vanilla names
+

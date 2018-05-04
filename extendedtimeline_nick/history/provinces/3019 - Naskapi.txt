@@ -1,0 +1,40 @@
+#3019 - Naskapi
+
+culture = cree
+religion = shamanist
+capital = "Naskapi"
+trade_goods = unknown
+hre = no
+discovered_by = north_american
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+1498.1.1 = { discovered_by = POR } # João Fernandes Lavrador
+1576.7.28 = { discovered_by = ENG } # Martin Frobisher
+1763.1.1 = {
+	owner = FRA
+	controller = FRA
+	culture = cosmopolitan_french
+	religion = catholic
+	trade_goods = fur
+	citysize = 100
+} # Rigolet Post
+1763.2.10 = {
+	owner = GBR
+	controller = GBR
+} # Treaty of Paris
+1788.2.10 = { add_core = GBR }
+1790.1.1  = { culture = british_canadian }
+1800.1.1  = { is_city = yes }
+
+1880.1.1 = { discovered_by = eastern discovered_by = muslim discovered_by = ottoman discovered_by = asian }
+1907.9.26  = { owner = NFL controller = NFL add_core = NFL remove_core = GBR }
+1934.2.16  = { owner = GBR controller = GBR add_core = GBR }
+1942.1.1   = { capital = "Happy Valley" }
+1949.3.31  = { owner = CAN controller = CAN add_core = CAN remove_core = GBR remove_core = NFL }
+1973.1.1   = { capital = "Happy Valley-Goose Bay" }
+

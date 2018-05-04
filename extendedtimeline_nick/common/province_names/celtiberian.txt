@@ -1,0 +1,10 @@
+206 = "Gallaecia"			#Galicia
+216 = "Salamantica"			#Salamanca
+219 = "Carpetania"			#Toledo
+227 = "Olisippo"			#Lisbia
+230 = "Lacobriga"			#Algarve
+232 = "Brigantia"			#Bragança
+1851 = "Corumbriga"			#Coimbra
+2763 = "Vareia"				#La Rioja
+2599 = "Numantia"			#Soria
+4284 = "Ebora"				#Évora

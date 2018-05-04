@@ -1,0 +1,10 @@
+415 = "Garmakan"		#Kirkuk
+427 = "Gorgan"			#Golestan
+428 = "Ray"			#Teheran
+432 = "Kirman"			#Kerman
+437 = "Nisa"			#Kopet Dag
+434 = "Tiz"			#Chabahar
+504 = "Debal"			#Thatta
+2275 = "Hatta"			#El Qatif
+2292 = "Dihistan"		#Kizil-Su
+4451 = "Bishapur"		#Kazerun

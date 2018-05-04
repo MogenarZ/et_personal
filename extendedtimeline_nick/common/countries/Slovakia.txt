@@ -1,0 +1,182 @@
+#Country Name: Please see filename.
+
+graphical_culture = westerngfx
+
+color = { 34 131 193 }
+
+historical_idea_groups = {
+	early_religious_ideas
+	early_mil_ideas
+	early_trade_ideas
+	early_adm_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	economic_ideas
+	trade_ideas
+	religious_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+monarch_names = {
+	"Matej #0" = 30
+	"Jan #0" = 30
+	"Lukas #0" = 30
+	"Stefan #0" = 30
+	"Peter #0" = 30
+	"Pavol #0" = 30
+	"Juraj #0" = 30
+	"Jozef #0" = 30
+	"Marek #0" = 10
+	"Daniel #0" = 10
+	"Moric #0" = 10
+	"Samuel #0" = 10
+	"Martin #0" = 10
+	"Ondrej #0" = 10
+	"Anton #0" = 10
+	"Karol #0" = 10
+	"Hugolín #0" = 10
+	"Tomas #0" = 10
+	"Ludovít #0" = 10
+	"Viliam #0" = 10
+	"Mikulas #0" = 10
+	"Ignac #0" = 10
+	"Maria #0" = -1
+	"Anna #0" = -1
+	"Alzbeta #0" = -1
+	"Ludmila #0" = -1
+	"Eva #0" = -1
+	"Jaroslava #0" = -1
+	"Amalia #0" = -1
+	"Jarmila #0" = -1
+	"Margareta #0" = -1
+	"Hana #0" = -1
+	"Jaroslav #0" = 0
+	"Jaromir #0" = 0
+	"Miroslav #0" = 0
+	"Drahoslav #0" = 0
+	"Svatopluk #0" = 0
+	"Mojmir #0" = 0
+	"Dobroslav #0" = 0
+	"Radoslav #0" = 0
+	"Radomír #0" = 0
+	"Kazimír #0" = 0
+	"Vlastimil #0" = 0
+	"Vitazoslav #0" = 0
+	"Blahoslav #0" = 0
+	"Svetozar #0" = 0
+	"Bonifac #1" = 0
+	"Vratislav #0" = 0
+	"Vladislav #0" = 0
+	"Vladimir #0" = 0
+	"Cyril #0" = 0
+	"Konstantin #0" = 0
+	"Metod #0" = 0
+	"Bohuslav #0" = 0
+	"Drahomir #0" = 0
+	"Prokop #0" = 0
+	"Jergus #0" = 0
+	"Tichomir #0" = 0
+	"Bartolomej #0" = 0
+	"Luboslav #0" = 0
+	"Lubomir #0" = 0
+	"Levoslav #0" = 0
+	"Stanislav #0" = 0
+	"Václav #0" = 10
+	"Jiri #0" = 10
+	"Ludvík #0" = 10
+	"Zikmund #0" = 10
+	"Viktorin #0" = 10
+	"Jindrich #0" = 10
+	"Eduard #0" = 10
+	"Karel #0" = 10
+	"Premysl #0" = 10
+	"Adam #0" = 10
+	"Alexandr #0" = 10
+	"Alojz #0" = 10
+	"David #0" = 10
+	"Dominik #0" = 10
+	"Filip #0" = 10
+	"Honza #0" = 10
+	"Ignác #0" = 10
+	"Jakub #0" = 10
+	"Jirka #0" = 10
+	"Kliment #0" = 10
+	"Leos #0" = 10
+	"Lukás #0" = 10
+	"Mataj #0" = 10
+	"Michal #0" = 10
+	"Mikolás #0" = 10
+	"Patrik #0" = 10
+	"Vilem #0" = 10
+	"Michaela #0" = -10
+	"Barbora #0" = -10
+	"Lucia #0" = -10
+	"Dominika #0" = -10
+	"Kristina #0" = -10
+	"Viktoria #0" = -10
+	"Diana #0" = -10
+}
+
+leader_names = {
+	Blaha Blazek Boleslav
+	Dolezal Dusek
+	Hruska
+	Janda
+	Kadlec Kladno Kohout Kopecky Kriz
+	Lablonec
+	Maly Mares Masek Matousek Moravec
+	Nemec
+	Pardubice Polak Pospisil
+	Sedlacek Simek Smida Soukup Stastny Stepanek Strnad Sykora
+	Tichy Trutnov Tuma
+	Urban
+	Vacek Vanek Vlcek
+	Zatec
+}
+
+ship_names = {
+	"Svatý Vaclav"
+	"Svatý Mikulás"
+	"Svatý Jirí"
+	"Svatá Anezká"
+	"Nejsvatejsí Trojice"
+	"Král Karel"
+	"Král Boleslav"
+	"Král Premysl"
+	"Panna Maria Vitezná"
+	"Jan Hus"
+	Sárka
+	Ctirad
+	Cechý
+	Moravy
+	Budvar
+	Libuse
+	Odvázný
+	Orel
+	Sokol
+	Slezko
+	Sipká
+	Hvezdá
+}
+
+
+

@@ -1,0 +1,124 @@
+government = despotic_monarchy
+#aristocracy_plutocracy = -4
+#centralization_decentralization = -2
+#innovative_narrowminded = 1
+#mercantilism_freetrade = -4
+mercantilism = 0.1
+#offensive_defensive = -2
+#land_naval = -3
+#quality_quantity = 0
+#serfdom_freesubjects = -4
+technology_group = early_chinese
+religion = confucianism
+primary_culture = sichuanese
+capital = 679	# Chengdu
+
+220.1.1 = {
+	monarch = {
+		name = "Liu Bei"
+		dynasty = "Shu"
+		birth_date = 161.1.1
+		adm = 4
+		dip = 3
+		mil = 5
+	}
+}
+
+220.1.1 = {
+	heir = {
+		name = "Liu Shan"
+		monarch_name = "Liu Shan"
+		dynasty = "Shu"
+		birth_date = 207.1.1
+		death_date = 271.1.1
+		claim = 95
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+223.6.10 = {
+	monarch = {
+		name = "Liu Shan"
+		dynasty = "Shu"
+		birth_date = 207.1.1
+		adm = 1
+		dip = 0
+		mil = 0
+	}
+}
+
+750.1.1 = { technology_group = chinese }
+
+907.6.1 = {
+	monarch = {
+		name = "Gaozu"
+		dynasty = "Shu"
+		birth_date = 847.1.1
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+
+907.6.1 = {
+	heir = {
+		name = "Houzhu"
+		monarch_name = "Houzhu"
+		dynasty = "Shu"
+		birth_date = 899.1.1
+		death_date = 926.1.1
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+918.7.11 = {
+	monarch = {
+		name = "Houzhu"
+		dynasty = "Shu"
+		birth_date = 899.1.1
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+934.3.16 = {
+	monarch = {
+		name = "Zhixiang"
+		dynasty = "Meng"
+		birth_date = 874.5.10
+		adm = 0
+		dip = 5
+		mil = 0
+	}
+}
+
+934.3.16 = {
+	heir = {
+		name = "Chang"
+		monarch_name = "Chang"
+		dynasty = "Meng"
+		birth_date = 919.1.1
+		death_date = 965.7.12
+		claim = 95
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+934.9.10 = {
+	monarch = {
+		name = "Chang"
+		dynasty = "Meng"
+		birth_date = 919.1.1
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}

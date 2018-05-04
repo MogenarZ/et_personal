@@ -1,0 +1,4 @@
+#1420 - King Sound
+
+1699.1.1   = { discovered_by = GBR } # William Dampier
+1850.1.1   = { discovered_by = eastern discovered_by = muslim discovered_by = ottoman discovered_by = asian }

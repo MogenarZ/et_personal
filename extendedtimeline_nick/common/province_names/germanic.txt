@@ -1,0 +1,405 @@
+5 = "Wermland"
+6 = "Schonen"
+12 = "Seeland"
+13 = "Schleswig"
+14 = "Fünen"
+15 = "Mitteljütland"
+29 = "Tawastland"
+36 = "Harrien"				#Reval
+37 = "Liefland"
+42 = "Ermland"
+57 = "Braunschweig"
+61 = "Sachsen"
+87 = "Kalen"
+88 = "Artesien"
+90 = "Flandern"
+91 = "Hennegau"
+93 = "Lüttich"
+99 = "Geldern"
+101 = "Ligurien"
+102 = "Nizza"
+103 = "Piemont"
+104 = "Lombardei"
+106 = "Muden"
+107 = "Welsch-Brixen"
+108 = "Welsch-Bern"
+110 = "Südtirol"
+111 = "Friaul"
+112 = "Venedig"
+114 = "Romanei"
+116 = "Florenz"
+118 = "Rom"
+120 = "Abruzzen"
+121 = "Neapel"
+123 = "Kalabrien"
+127 = "Sardinien"
+130 = "Istrien"
+131 = "Agram"
+135 = "Ödenburg"
+136 = "Dalmatien"
+141 = "Serbien"
+142 = "Korfu"
+146 = "Athen"
+147 = "Thessalien"
+148 = "Makedonien"
+151 = "Konstantinopel"
+152 = "Bellowar"
+154 = "Neuhäusel"
+156 = "Temesch"
+158 = "Marosch"
+160 = "Oltenien"
+161 = "Muntenien"
+162 = "Semmlin"
+163 = "Kreta"
+193 = "Freigrafschaft"
+205 = "Savoyen"
+206 = "Galicien"
+207 = "Asturien"
+211 = "Pyrenäen"
+224 = "Andalusien"
+227 = "Lissabon"
+230 = "Algarbien"			#Algarve
+231 = "Oporto"				#Porto
+254 = "Posen"
+255 = "Kalisch"
+257 = "Warschau"
+258 = "Schieratz"
+259 = "Sandomir"
+261 = "Ruthenien"
+262 = "Krakau"
+265 = "Mähren"
+266 = "Böhmen"
+268 = "Moldau"
+269 = "Podlachien"
+270 = "Traken"
+271 = "Schemaiten"
+279 = "Wolhynien"
+281 = "Podolien"
+367 = "Habichtinseln"			#The Azores
+1743 = "Kamerich"
+1744 = "Antorf"
+1745 = "Kantabrien"
+1756 = "Bessarabien"
+1767 = "Slawonien"
+1770 = "Ostmark"
+1772 = "Pressburg"
+1773 = "Achaia"
+1827 = "Raschka"
+1831 = "Travunien"
+1834 = "Dörpt"
+1842 = "Narwa"
+1859 = "Kulm"
+1862 = "Kremun"
+1864 = "Schomodei"
+1865 = "Gent"
+1866 = "Namen"
+1867 = "Waadt"
+1931 = "Ostfriesland"
+1934 = "Lukanien"
+1935 = "Semgallen"
+1936 = "Kauen"
+1937 = "Garten"
+1939 = "Lentschitza"
+1940 = "Bels"
+1951 = "Eisenmarkt"
+1952 = "Marmarosch"
+1953 = "Saboltsch"
+3109 = "Budweis"			#Budejovice
+3110 = "Königgrätz"			#Hradec Kralove
+3111 = "Zips"
+4489 = "Innere Hebriden"		#Inner Hebrides
+4505 = "Gröningen"			#Groningen
+
+493 = "Sankt Thomas"
+502 = "Neu-Kurland"
+830 = "Neu-Nürnberg"
+1139 = "Fort Dorothea"
+2332 = "Groß Friedrichsburg"
+2834 = "Neu-Augsburg"
+2837 = "Inster"
+
+#Australia
+1085 = "Tasmanien"			# Paredarerme
+1790 = "Westaustralien"
+1791 = "Zentralaustralien" 
+1998 = "Weihnachtsinsel"
+1999 = "Kokosinsel"
+
+#Iceland
+370 = "Rauchbucht"
+
+#Denmark
+1979 = "Färöer"
+1984 = "Nordjütland"
+2017 = "Ripen"
+
+#Norway
+20 = "Drontheim"
+21 = "Nordland"
+22 = "Hedmark"
+23 = "Bergen"
+315 = "Land der Finnen"
+
+#Sweden
+2 = "Östlichgotland"
+3 = "Kleine Länder"
+7 = "Westgotland"
+8 = "Dalekarlien"
+11 = "Westmeerbusen"
+18 = "Nordmeerbusen"
+
+#United Kingdom
+233 = "Kornwall"
+234 = "West-Sachsen"
+235 = "Kanterberg"
+237 = "Oxford"
+238 = "Ost-Sachsen"
+239 = "Gloucester"
+240 = "Mercien"
+244 = "Lancaster"
+245 = "Jork"
+246 = "Northumbrien"
+247 = "Cumbrien"
+248 = "Edinburg"
+249 = "Ayrgrafschaft"
+252 = "Hochland"
+253 = "Westliche Inseln"
+369 = "Orcaden"
+483 = "Turks Inseln"
+1095 = "Malwinen"
+1860 = "Ost-Angeln"
+1978 = "Schaldewage"
+2077 = "Südgeorgien"
+4249 = "Batschka"
+
+#Ireland
+373 = "Mitte"
+
+#Spain
+209 = "Bizkaia"
+214 = "Aragonien"
+215 = "Kastilien"
+220 = "Valentz"
+333 = "Balearen"
+366 = "Kanarische Inseln"
+1745 = "Kantabrien"
+
+#France
+169 = "Armor Küste"
+170 = "Ende der Erde"
+171 = "Kleines Meer"
+172 = "Liger"
+180 = "Piktavien"
+181 = "Valencijn"
+183 = "Zentral-Frankreich"
+184 = "Orleansgrafschaft"
+186 = "Gringertz"			#Champagne
+187 = "Bargrafschaft"
+192 = "Burgund"
+196 = "Tholosen"
+204 = "Delfinat"			#Dauphiné
+1247 = "Korsika"
+
+#Italy
+122 = "Apulien"
+3131 = "Salern"				#Salerno	|checked
+
+#Poland
+2155 = "Pomerellen"
+2602 = "Premissel"
+3112 = "Neu Sandez"			#Nowy Sacz
+3113 = "Tarnau"				#Tarnow
+
+#Hungary
+155 = "Bekesch"
+
+#Yugoslavia
+138 = "Schwarzenberg"
+139 = "Zahumlje"
+140 = "Bosnien"
+1826 = "Pflaum"
+1828 = "Untere Regionen"
+2121 = "Nisch"
+
+#Romania
+157 = "Großwardein"
+2006 = "Suczawa"
+2013 = "Dobrudscha"
+
+#Bulgaria
+150 = "Tarnowo"
+1764 = "Bourgas"
+2603 = "Widin"
+2604 = "Plowdiw"
+
+#Greece
+320 = "Rhodos"
+321 = "Zypern"
+2007 = "Thessalonich"
+2156 = "Euböa"
+4267 = "Ätolien"			#Aetolia
+
+#Lithuania
+272 = "Wilna"
+
+#Finland
+19 = "Ostbottnien"
+27 = "Finnland"
+28 = "Neuland"
+31 = "Savonien"
+1930 = "Ålandinseln"
+
+#Belarus
+275 = "Polazk"			#Polotsk
+292 = "Mahiljou"
+1941 = "Turow"
+2605 = "Wizebsk"
+
+#Ukraine
+280 = "Kiew"
+282 = "Jedisan"
+283 = "Saporischschja"
+284 = "Krim"
+285 = "Feodossija"
+289 = "Tschernihiw"
+290 = "Poltawa"
+291 = "Charkiw"
+1942 = "Schytomyr"
+1943 = "Brazlaw"
+1944 = "Tscherkassy"
+1974 = "Cherson"
+2154 = "Bukowina"
+2606 = "Perejaslaw"
+2607 = "Mykolajiw"
+2609 = "Kalmius"
+2610 = "Jekaterinoslaw"
+2611 = "Jusowka"
+2612 = "Luhansk"
+
+#Russia
+33 = "Sankt Petersburg"
+34 = "Jamburg"
+274 = "Pleskau"
+295 = "Moskau"
+1035 = "Penschina"		#Penchinsky
+1038 = "Korjak"			#Anadyrsk		
+1078 = "Katharinenburg"
+2840 = "Orenburg"
+
+#Jerusalem
+379 = "Judäa"
+2151 = "Akkon"
+
+#Azerbaijan
+421 = "Baku"
+
+#South Africa
+1177 = "Kap"
+
+#Morocco
+345 = "Weißhaus"
+
+#USA
+915 = "Chikago"
+
+#Syria
+377 = "Aleppo"
+382 = "Damaskus"
+
+#India
+561 = "Kalkutta"
+522 = "Neu-Delhi"
+1248 = "Malediven"		#Maldives
+
+#Papua
+1236 = "Herbertshöhe"
+2873 = "Lehe"		#Lae
+
+#Thailand
+600 = "Bangkok"
+
+#Mexico
+852 = "Mexiko-Stadt"
+
+#Korea
+735 = "Seoul"			#Gyeonggi
+1845 = "Pjöngjang"
+
+#Egypt
+361 = "Kairo"
+
+#Singapore
+2008 = "Singapur"
+
+#Lebanon
+1855 = "Tyrus"
+
+#Georgia
+423 = "Tiflis"
+
+#Japan
+1028 = "Tokio"
+1032 = "Kurilen"
+
+#Libya
+354 = "Tripolis"
+
+#Djibouti
+2003 = "Dschibuti"
+
+#Namibia
+1173 = "Windhuk"
+1174 = "Walfischbai"
+
+#Burma
+1815 = "Rangun"
+
+#Cameroon
+2042 = "Jaunde"
+
+#China
+662 = "Jünnan"			#Yunnan
+667 = "Kanton"
+726 = "Mukden"			#Shenyang
+1784 = "Tienschan"		#Tian Shan
+1816 = "Pekingen"		#Beijing
+1821 = "Nanking"
+2019 = "Tsingtau"
+2020 = "Lüda"			#Dalian
+
+#Turkey
+149 = "Adrianopel"
+151 = "Konstantinopel"
+318 = "Smyrna"
+319 = "Halikarnassos"
+330 = "Trapezunt"
+420 = "Gandscha"		#Ganja
+2264 = "Cäsarea"		#Kayseri
+2367 = "Antiochia"
+2369 = "Troja"
+
+#Indonesia
+639 = "Kalsel"			#Banjarmasin
+
+#Asia
+2284 = "Kaswin"			#Qazvin
+4458 = "Recht"			#Rasht
+
+#Added vanilla names
+69 = "Oberschwaben"
+94 = "Lützelburg"
+4265 = "Albanien"
+267 = "Pilsen"
+273 = "Lettgallen"
+1381 = "Zips"
+1760 = "Coblenz" #Old spelling before 1926
+1762 = "Cassel" #Old spelling before 1926
+3114 = "Lemberg"
+3094 = "Netze"
+3104 = "Cleve"
+3129 = "Umbrien"
+3133 = "Syrakus"
+3116 = "Busäu"
+3117 = "Sarajewo"
+4299 = "Syrmien"
+4360 = "Olmütz"

@@ -1,0 +1,27 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = javanese
+technology_group = early_chinese
+religion = hinduism
+capital = 629	# Pelakongan
+
+648.1.1 = {
+	monarch = {
+		name = "Kartikeyasinga"
+		dynasty = "Kalingga"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
+674.1.1 = {
+	monarch = {
+		name = "Shima"
+		dynasty = "Kalingga"
+		adm = 4
+		dip = 3
+		mil = 2
+		female = yes
+	}
+}

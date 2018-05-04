@@ -1,0 +1,14 @@
+#Kurdish provinces
+326 = "Enqere"			#Ankara
+377 = "Heleb"			#Aleppo
+382 = "Sam"			#Damascus
+410 = "Bexda"			#Baghdad
+411  = "Hewler"         	#Mosul
+418  = "Amed"           	#Diyarbakir
+420 = "Gence"			#Ganja
+382 = "Sam"			#Damascus
+410 = "Bexda"			#Baghdad
+420 = "Gence"			#Ganja
+1248 = "Dyvah Kouzah"		#Maldives
+2152 = "Nexcivan"		#Nakhchivan
+2308 = "Cizîr"          	#Cizre

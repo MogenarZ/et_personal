@@ -1,0 +1,3 @@
+33= "Leningrad"
+1966 = "Tankograd"		#Tschleyaba
+1971= "Stalingrad"

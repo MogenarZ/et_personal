@@ -1,0 +1,166 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = zapotek
+religion = nahuatl
+technology_group = mesoamerican
+capital = 844
+
+1328.1.1 = {
+	monarch = {
+		name = "Ozomatli"
+		dynasty = "Tehuantepec"
+		birth_date = 1298.1.1
+		adm = 5
+		dip = 4
+		mil = 3
+	}
+}
+
+1331.1.1 = {
+	heir = {
+		name = "Huijatoo"
+		monarch_name = "Huijatoo"
+		dynasty = "Tehuantepec"
+		birth_date = 1331.1.1
+		death_date = 1386.1.1
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+}
+
+1361.1.1 = {
+	monarch = {
+		name = "Huijatoo"
+		dynasty = "Tehuantepec"
+		birth_date = 1331.1.1
+		adm = 0
+		dip = 0
+		mil = 3
+	}
+}
+
+1361.1.1 = {
+	heir = {
+		name = "Zaachilla"
+		monarch_name = "Zaachilla I"
+		dynasty = "Tehuantepec"
+		birth_date = 1356.1.1
+		death_date = 1415.1.1
+		claim = 95
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+}
+
+1386.1.1 = {
+	monarch = {
+		name = "Zaachilla I"
+		dynasty = "Tehuantepec"
+		birth_date = 1356.1.1
+		adm = 5
+		dip = 0
+		mil = 1
+	}
+}
+
+1390.1.1 = {
+	heir = {
+		name = "Zaachilla"
+		monarch_name = "Zaachilla II"
+		dynasty = "Tehuantepec"
+		birth_date = 1390.1.1
+		death_date = 1454.1.1
+		claim = 95
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1415.1.1 = {
+	monarch = {
+		name = "Zaachilla II"
+		dynasty = "Tehuantepec"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1415.1.1 = {
+	heir = {
+		name = "Zaachilla"
+		monarch_name = "Zaachilla III"
+		dynasty = "Tehuantepec"
+		birth_date = 1410.1.1
+		death_date = 1482.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1454.1.1 = {
+	monarch = {
+		name = "Zaachilla III"
+		dynasty = "Tehuantepec"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1450.1.1 = {
+	heir = {
+		name = "Cociyocza"
+		monarch_name = "Cociyocza"
+		dynasty = "Tehuantepec"
+		birth_date = 1450.1.1
+		death_Date = 1529.1.1
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+}
+
+1482.1.1 = {
+	monarch = {
+		name = "Cociyocza"
+		dynasty = "Tehuantepec"
+		adm = 4
+		dip = 2
+		mil = 0
+	}
+
+}
+
+1482.1.1 = {
+	heir = {
+		name = "Cociyopu"
+		monarch_name = "Cociyopu"
+		dynasty = "Tehuantepec"
+		birth_date = 1482.1.1
+		death_Date = 1545.1.1
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+}
+
+1529.1.1 = {
+	monarch = {
+		name = "Cociyopu"
+		dynasty = "Tehuantepec"
+		adm = 1
+		dip = 1
+		mil = 0
+	}
+
+}
+

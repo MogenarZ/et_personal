@@ -1,0 +1,9 @@
+#1398 - Sulu Sea
+
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = asian
+1521.1.1 = { discovered_by = SPA }
+
+
+

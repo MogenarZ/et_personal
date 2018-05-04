@@ -1,0 +1,7 @@
+#Byelorussian culture
+275  = "Polatsk"			#Polotsk
+292  = "Mahiliou"			#Mogilev
+771  = "Vitsebsk"			#Vitebsk
+1074 = "Tabolsk"			#Sibir
+1937 = "Hrodna"				#Grodno
+1941 = "Turau"				#Turov

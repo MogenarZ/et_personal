@@ -1,0 +1,58 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = panjabi
+religion = zoroastrian
+technology_group = middle_eastern
+capital = 578	# Taxila
+
+2.1.1 = {
+	monarch = {
+		name = "Sarpedones"
+		dynasty = "Suren"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+20.1.1 = {
+	monarch = {
+		name = "Gadana"
+		dynasty = "Suren"
+		adm = 1
+		dip = 3
+		mil = 2
+	}
+}
+
+46.1.1 = {
+	monarch = {
+		name = "Abdagases"
+		dynasty = "Suren"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+76.1.1 = { capital = 435 primary_culture = afghani } # Taxila conquered by Kushans
+
+76.1.1 = {
+	monarch = {
+		name = "Ubouzanes"
+		dynasty = "Suren"
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
+
+90.1.1 = {
+	monarch = {
+		name = "Pacores"
+		dynasty = "Suren"
+		adm = 2
+		dip = 0
+		mil = 0
+	}
+}

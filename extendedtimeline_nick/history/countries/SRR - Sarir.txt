@@ -1,0 +1,10 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = avar
+religion = tengri_pagan_reformed
+technology_group = middle_eastern
+capital = 2264
+
+550.1.1 = { religion = chalcedonism }
+654.1.1 = { technology_group = eastern }
+867.1.1 = { religion = orthodox }

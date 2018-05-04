@@ -1,0 +1,7 @@
+government = tribal_despotism
+primary_culture = japanese
+religion = shinto
+technology_group = early_chinese
+capital = 1012
+
+750.1.1 = { technology_group = chinese }

@@ -1,0 +1,3 @@
+715 = "Ürimsi"			#Urumqi
+1074 = "Tobil"			#Sibir
+2888 = "Tarbagatay"		#Chuguchak

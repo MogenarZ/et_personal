@@ -1,0 +1,11 @@
+326 = "Ngonkala"			#Ankara
+408 = "Basihla"				#Basra
+410 = "Boudaaht"			#Baghdad
+614 = "Wihngjan"			#Vientiane
+667 = "Gwongjau"			#Guangzhou
+668 = "O Mun"				#Macau
+1015 = "Cung Sing"			#Okinawa
+1816 = "Bakging"			#Beijing
+1829 = "Hahmuhn"			#Xiamen
+2014 = "Heunggong"			#Hongkong
+2858 = "Toihbak"			#Kelam

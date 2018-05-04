@@ -1,0 +1,3 @@
+617 = "Lamuri"			#Aceh
+630 = "Tugu"			#Kalapa
+2402 = "Barus"			#Batak

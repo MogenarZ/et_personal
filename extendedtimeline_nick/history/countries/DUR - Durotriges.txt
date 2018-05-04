@@ -1,0 +1,10 @@
+government = barbarian_tribe
+mercantilism = 0.1
+primary_culture = briton
+religion = druidism
+technology_group = barbarian
+capital = 4499
+
+300.1.1 = { primary_culture = welsh }
+410.1.1 = { government = feudal_monarchy government_rank = 1 }
+536.1.1 = { technology_group = western }

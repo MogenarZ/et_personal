@@ -1,0 +1,79 @@
+government = constitutional_republic
+mercantilism = 0.1
+primary_culture = slovak
+religion = catholic
+capital = 1772	# Bratislava
+technology_group = western
+
+1910.1.1 = { religion = secularism }
+
+1939.3.14 = { government = fascist_dictatorship }
+
+1939.3.14 = {
+	monarch = {
+		name = "Jozef Tiso"
+		adm = 4
+		dip = 2
+		mil = 3
+		religion = catholic
+	}
+}
+
+1945.5.8 = { government = presidental_republic }
+
+1992.12.31 = { capital = 1772 }
+
+1992.12.31 = {
+	monarch = {
+		name = "Council of Ministers"
+		adm = 2
+		dip = 2
+		mil = 2
+		religion = catholic
+		regent = yes
+	}
+}
+
+1993.3.2 = {
+	monarch = {
+		name = "Michal Kovac"
+		adm = 4
+		dip = 3
+		mil = 4
+		religion = catholic
+	}
+}
+
+1999.6.15 = {
+	monarch = {
+		name = "Rudolf Schuster"
+		adm = 6
+		dip = 3
+		mil = 2
+		religion = catholic
+	}
+}
+
+2004.1.1 = { decision = join_european_union }
+
+2004.6.15 = {
+	monarch = {
+		name = "Ivan Gasparovic"
+		adm = 4
+		dip = 2
+		mil = 4
+		religion = catholic
+	}
+}
+
+2009.1.1 = { decision = adopt_the_euro }
+
+2014.6.15 = {
+	monarch = {
+		name = "Andrej Kiska"
+		adm = 4
+		dip = 3
+		mil = 3
+		religion = catholic
+	}
+}

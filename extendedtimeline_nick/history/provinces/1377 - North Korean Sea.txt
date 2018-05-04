@@ -1,0 +1,12 @@
+#1377 - North Korean Sea
+
+discovered_by = early_chinese
+discovered_by = chinese
+discovered_by = asian
+discovered_by = eastern_nomad_group
+discovered_by = nomad_group
+
+1542.1.1   = { discovered_by = POR }
+
+
+

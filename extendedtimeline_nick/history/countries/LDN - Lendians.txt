@@ -1,0 +1,6 @@
+government = tribal_despotism
+mercantilism = 0.1
+technology_group = eastern
+religion = slavic
+primary_culture = polish
+capital = 279

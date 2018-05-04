@@ -1,0 +1,180 @@
+government = despotic_monarchy
+technology_group = early_chinese
+primary_culture = filipino
+capital = 2860 #Tondo
+religion = hinduism
+government_rank = 2
+
+750.1.1 = { technology_group = chinese }
+
+900.1.1 = {
+	monarch = {
+		name = "Jayadewa"
+		dynasty = "Tondo"
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+}
+
+950.1.1 = {
+	monarch = {
+		name = "Lontok" #fictional
+		dynasty = "Tondo"
+		adm = 2
+		dip = 0
+		mil = 2
+	}
+}
+
+1000.1.1 = {
+	monarch = {
+		name = "Laboy" #fictional
+		dynasty = "Tondo"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1050.1.1 = {
+	monarch = {
+		name = "Gambang" #fictional
+		dynasty = "Tondo"
+		adm = 2
+		dip = 3
+		mil = 0
+	}
+}
+
+1100.1.1 = {
+	monarch = {
+		name = "Suko" #fictional
+		dynasty = "Tondo"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+1150.1.1 = {
+	monarch = {
+		name = "Timamanukum"
+		dynasty = "Tondo"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1200.1.1 = {
+	monarch = {
+		name = "Alon"
+		dynasty = "Tondo"
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+
+1250.1.1 = {
+	monarch = {
+		name = "Sasaban"
+		dynasty = "Tondo"
+		adm = 3
+		dip = 1
+		mil = 2
+		female = yes
+	}
+}
+
+1300.1.1 = {
+	monarch = {
+		name = "Bagtas"
+		dynasty = "Tondo"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1350.1.1 = {
+	monarch = {
+		name = "Lakan" #fictional
+		dynasty = "Tondo"
+		adm = 2
+		dip = 1
+		mil = 1
+	}
+}
+
+1390.1.1 = {
+	monarch = {
+		name = "Gambang"
+		dynasty = "Tondo"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1417.1.1 = {
+	monarch = {
+		name = "Suko"
+		dynasty = "Tondo"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1430.1.1 = {
+	monarch = {
+		name = "Lontok"
+		dynasty = "Tondo"
+		adm = 4
+		dip = 5
+		mil = 2
+	}
+}
+
+1450.1.1 = {
+	monarch = {
+		name = "Kalingitan"
+		dynasty = "Tondo"
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 2
+	}
+}
+
+1520.1.1 = {
+	monarch = {
+		name = "Laboy"
+		dynasty = "Namayan"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1558.1.1 = {
+	monarch = {
+		name = "Dula"
+		dynasty = "Tondo"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1575.1.1 = {
+	monarch = {
+		name = "Magat Salamat"
+		dynasty = "Tondo"
+		adm = 3
+		dip = 2
+		mil = 2
+	}
+}

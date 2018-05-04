@@ -1,0 +1,5 @@
+#1924 - Greenland Tip
+
+950.1.1 = { discovered_by = NOR discovered_by = ICE }
+1453.1.1 = { discovered_by = western }
+

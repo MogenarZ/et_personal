@@ -1,0 +1,4 @@
+667 = "Gvangjcouh"		#Guangzhou
+1816 = "Baekging"		#Beijing
+2214 = "Yanghgangj"		#Hongkong
+2858 = "Daizbaek"		#Kelam

@@ -1,0 +1,12 @@
+bookmark =
+{
+	name = "CONSTANTINE_NAME"
+	desc = "CONSTANTINE_DESC"
+	date = 311.5.1
+	
+	country = ROC
+	country = ROX
+	country = ROL
+	country = ROA
+	country = SAS
+}
