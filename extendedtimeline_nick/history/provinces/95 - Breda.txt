@@ -22,7 +22,7 @@ add_core = ROM
 
 260.1.1 = { add_core = GLL owner = GLL controller = GLL culture = gallian }
 274.1.1 = { controller = ROM remove_core = GLL revolt = {} culture = dutch }
-395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 400.1.1 = { religion = chalcedonism }
 420.1.1 = { owner = FRK controller = FRK add_core = FRK remove_core = ROW capital = "'s Hertogenbosch" }
 480.6.1 = { remove_core = ROW }

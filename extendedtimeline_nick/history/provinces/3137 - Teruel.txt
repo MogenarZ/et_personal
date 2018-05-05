@@ -21,7 +21,7 @@ capital = "Bilbilis"
 is_city = yes
 
 380.1.1 = { religion = chalcedonism }
-395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 456.1.1 = { owner = GVI controller = GVI add_core = GVI remove_core = ROW }
 460.1.1 = { religion = arianism }
 560.1.1 = { religion = chalcedonism }

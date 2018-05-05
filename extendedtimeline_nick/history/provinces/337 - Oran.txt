@@ -22,7 +22,7 @@ add_core = MRN
 
 40.1.1 = { owner = ROM controller = ROM add_core = ROM }
 360.1.1 = { religion = chalcedonism }
-395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 429.1.1 = { owner = VAN controller = VAN add_core = VAN remove_core = ROW }
 460.1.1 = { owner = ALT controller = ALT add_core = ALT remove_core = VAN }
 708.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = ALT capital = "Oran" }

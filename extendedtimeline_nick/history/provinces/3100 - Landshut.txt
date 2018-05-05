@@ -21,7 +21,7 @@ discovered_by = roman_group
 discovered_by = eastern
 
 350.1.1 = { religion = chalcedonism }
-395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 450.1.1 = { owner = MRM controller = MRM add_core = MRM capital = "Passau" }
 451.1.1 = { owner = RUG controller = RUG add_core = RUG remove_core = MRM }
 454.1.1 = { owner = LOM controller = LOM add_core = LOM remove_core = RUG culture = langobardi }

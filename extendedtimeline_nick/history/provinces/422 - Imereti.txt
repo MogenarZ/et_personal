@@ -31,7 +31,8 @@ add_core = IBE
 527.1.1 = { controller = SAS }
 532.1.1 = { controller = IBE }
 580.1.1 = { owner = SAS controller = SAS add_core = SAS }
-591.1.1 = { owner = BYZ controller = BYZ add_core = BYZ remove_core = SAS }
+591.1.1 = { owner = ROE controller = ROE add_core = ROE remove_core = SAS }
+610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 654.1.1 = { owner = IBE controller = IBE add_core = IBE add_core = RSD remove_core = BYZ }
 661.1.1 = { add_core = UMA remove_core = RSD }
 750.1.1 = { add_core = ABA remove_core = UMA }

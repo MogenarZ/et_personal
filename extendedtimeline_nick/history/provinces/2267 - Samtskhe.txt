@@ -28,7 +28,8 @@ add_core = ARM
 380.1.1 = { religion = chalcedonism }
 428.1.1 = { owner = SAS controller = SAS add_core = SAS }
 451.11.1 = { religion = coptic }
-591.1.1 = { owner = BYZ controller = BYZ add_core = BYZ remove_core = SAS }
+591.1.1 = { owner = ROE controller = ROE add_core = ROE remove_core = SAS }
+610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 639.1.1 = { owner = RSD controller = RSD add_core = RSD remove_core = BYZ capital = "Akhaltsikhe" }
 653.1.1 = { owner = ARM controller = ARM add_core = ARM }
 661.1.1 = { add_core = UMA remove_core = RSD }

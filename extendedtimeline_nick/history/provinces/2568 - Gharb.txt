@@ -20,7 +20,7 @@ base_manpower = 2
 is_city = yes
 add_core = ROM
 
-395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 420.1.1 = { owner = MOO controller = MOO add_core = MOO remove_core = ROW }
 702.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = MOO capital = "Rabat" }
 730.1.1 = { religion = ibadi } #Many Berbers become Kharijite

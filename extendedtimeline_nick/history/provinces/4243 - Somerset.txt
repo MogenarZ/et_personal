@@ -26,7 +26,7 @@ discovered_by = western
 
 268.1.1 = { add_core = GLL controller = GLL owner = GLL }
 274.1.1 = { owner = ROM controller = ROM remove_core = GLL }
-395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 410.1.1 = { owner = DUM controller = DUM add_core = DUM remove_core = ROW capital = "Bath" }
 500.1.1 = { base_tax = 2 base_production = 2 religion = chalcedonism }
 520.1.1 = { owner = WSX controller = WSX add_core = WSX culture = anglo_saxon }

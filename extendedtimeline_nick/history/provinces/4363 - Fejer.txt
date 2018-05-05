@@ -21,7 +21,7 @@ is_city = yes
 add_core = ROM
 
 380.1.1 = { religion = chalcedonism }
-395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 420.1.1 = { culture = austrian religion = germanic }
 447.1.1 = { owner = GOS controller = GOS add_core = GOS remove_core = ROW capital = "Székesfehérvár" }
 500.1.1 = { base_manpower = 2 }

@@ -21,7 +21,7 @@ capital = "Amanum Portus"
 is_city = yes
 
 14.1.1 = { owner = ROM controller = ROM add_core = ROM }
-395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 420.1.1 = { religion = chalcedonism }
 455.1.1 = { owner = VAS controller = VAS add_core = VAS remove_core = ROW capital = "Bilbao" }
 581.1.1 = { owner = GVI controller = GVI add_core = GVI }

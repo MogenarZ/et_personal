@@ -29,7 +29,7 @@ add_core = ROM
 }
 
 240.1.1 = { religion = chalcedonism }
-395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 439.1.1 = { owner = VAN controller = VAN add_core = VAN remove_core = ROW culture = vandal religion = arianism }
 533.10.15 = { controller = ROE add_core = ROE }
 534.3.1 = { owner = ROE remove_core = VAN }

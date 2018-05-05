@@ -23,7 +23,7 @@ is_city = yes
 200.1.1 = { religion = hellenism }
 300.1.1 = { culture = roman }
 340.1.1 = { religion = chalcedonism }
-395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 409.1.1 = { owner = VAN controller = VAN add_core = VAN }
 425.1.1 = { owner = ROW controller = ROW remove_core = VAN }
 440.1.1 = { owner = EAL controller = EAL add_core = EAL }

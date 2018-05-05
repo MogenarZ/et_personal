@@ -21,7 +21,7 @@ discovered_by = barbarian
 discovered_by = western
 
 340.1.1 = { religion = chalcedonism }
-395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 400.1.1 = { base_tax = 2 base_production = 2 }
 420.1.1 = { culture = austrian }
 476.9.4 = { owner = ITA controller = ITA add_core = ITA }

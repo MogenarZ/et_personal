@@ -28,7 +28,7 @@ add_core = ROM
 }
 
 320.1.1 = { religion = chalcedonism }
-395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 429.1.1 = { owner = VAN controller = VAN add_core = VAN remove_core = ROW religion = arianism }
 534.3.1 = { owner = ROE controller = ROE add_core = ROE remove_core = VAN }
 550.1.1 = { religion = chalcedonism fort_15th = yes }

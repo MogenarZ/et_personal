@@ -24,7 +24,7 @@ add_core = ROM
 268.1.1 = { add_core = GLL controller = GLL owner = GLL }
 274.1.1 = { owner = ROM controller = ROM remove_core = GLL }
 300.1.1 = { religion = chalcedonism }
-395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 462.1.1 = { owner = GVI controller = GVI add_core = GVI remove_core = ROW }
 500.1.1 = { culture = gothic }
 600.1.1 = { base_manpower = 2 }
