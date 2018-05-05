@@ -33,7 +33,7 @@ add_core = ROM
 150.1.1 = { citysize = 1400000 } # Roman Empire weakens and Rome gradually declines
 280.1.1 = { citysize = 1200000 religion = chalcedonism }
 360.1.1 = {   } # old St. Peter's Basilica
-395.1.17 = { citysize = 1100000 controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+337.5.23 = { citysize = 1100000 controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 410.8.24 = { citysize = 1000000 } # Goths of Alaric sack Rome
 455.1.1 = { citysize = 80000 } # Vandals of Geiseric sack Rome
 472.7.11 = { citysize = 50000 } # Unpaid Roman troops sack Rome

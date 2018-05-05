@@ -27,6 +27,7 @@ add_core = ROM
 63.1.1 = { owner = ROM controller = ROM }
 68.1.1 = { owner = BSP controller = BSP }
 250.1.1 = { owner = ROM controller = ROM add_core = ROM remove_core = BSP }
+337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 370.1.1 = { owner = GCR controller = GCR add_core = GCR remove_core = ROM religion = germanic }
 400.1.1 = { culture = gothic }
 550.1.1 = { owner = ROE controller = ROE add_core = ROE }

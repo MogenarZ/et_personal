@@ -27,7 +27,7 @@ add_core = ARM
 380.1.1 = { religion = chalcedonism }
 387.1.1 = { owner = ROM controller = ROM add_core = ROM remove_core = ARM }
 390.1.1 = { capital = "Theodosiopolis" }
-395.1.17 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 451.11.1 = { religion = coptic }
 701.1.1 = { owner = ARM controller = ARM add_core = ARM add_core = UMA }

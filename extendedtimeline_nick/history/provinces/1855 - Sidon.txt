@@ -26,7 +26,7 @@ add_core = ROM
 30.1.1 = { religion = chalcedonism }
 269.1.1 = { add_core = PLM owner = PLM controller = PLM }
 272.1.1 = { controller = ROM remove_core = PLM revolt = {} }
-395.1.17 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 610.1.1 = { revolt = { type = jewish_rebels size = 2 } controller = REB } # Jewish revolt
 613.1.1 = { revolt = {} controller = SAS }

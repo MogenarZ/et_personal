@@ -20,7 +20,7 @@ base_manpower = 1
 is_city = yes
 add_core = ROM
 
-395.1.17 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 441.1.1 = { owner = HNS controller = HNS add_core = HNS }
 469.1.1 = { owner = GOS controller = GOS add_core = GOS remove_core = HNS }
 470.1.1 = { religion = arianism }

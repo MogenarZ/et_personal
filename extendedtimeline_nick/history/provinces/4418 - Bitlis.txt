@@ -26,6 +26,7 @@ add_core = CDU
 130.1.1 = { owner = ROM controller = ROM add_core = ROM }
 252.1.1 = { owner = SAS controller = SAS add_core = SAS remove_core = ROM }
 287.1.1 = { owner = ROM controller = ROM add_core = ROM remove_core = SAS }
+337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 360.1.1 = { religion = chalcedonism }
 384.1.1 = { owner = ARM controller = ARM add_core = ARM remove_core = ROM }
 428.1.1 = { owner = SAS controller = SAS add_core = SAS remove_core = ARM }

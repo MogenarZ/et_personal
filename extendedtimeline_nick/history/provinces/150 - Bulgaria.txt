@@ -25,6 +25,7 @@ add_core = ODR
 
 46.1.1 = { owner = ROM controller = ROM add_core = ROM capital = "Novae" }
 80.1.1 = { remove_core = ODR }
+337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 350.1.1 = { owner = GVI controller = GVI add_core = GVI religion = germanic }
 395.1.17 = { add_core = ROE remove_core = ROM } # Final division of the empire
 408.1.1 = { owner = ROE controller = ROE remove_core = GVI religion = tengri_pagan_reformed }

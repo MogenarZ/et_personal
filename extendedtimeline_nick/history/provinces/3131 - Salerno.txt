@@ -20,7 +20,7 @@ capital = "Salernum"
 is_city = yes
 add_core = ROM
 
-395.1.17 = { citysize = 31000 controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
+337.5.23 = { citysize = 31000 controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 400.1.1 = { religion = chalcedonism culture = greek }
 476.9.4 = { owner = ITA controller = ITA add_core = ITA add_core = ROE remove_core = ROW } #Odoacer's Kingdom
 489.1.1 = { owner = GOS controller = GOS add_core = GOS remove_core = ITA } #Ostrogoths take over

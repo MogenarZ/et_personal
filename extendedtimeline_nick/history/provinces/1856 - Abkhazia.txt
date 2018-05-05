@@ -25,7 +25,7 @@ base_manpower = 2
 
 62.1.1 = { owner = ROM controller = ROM add_core = ROM }
 80.1.1 = { remove_core = PON }
-395.1.17 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 456.1.1 = { owner = LAZ controller = LAZ add_core = LAZ remove_core = BYZ }
 500.1.1 = { religion = chalcedonism }
 697.1.1 = { owner = ABK controller = ABK add_core = ABK remove_core = LAZ capital = "Anacopia" }

@@ -56,7 +56,7 @@ add_core = JUD
 324.1.1 = { capital = "Jerusalem" }
 326.1.1 = {   } # Temple of Venus destroyed
 333.1.1 = {   } # First Church of the Holy Sepulchre built
-395.1.17 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 610.1.1 = { revolt = { type = jewish_rebels size = 4 } controller = REB } # Jewish revolt
 613.1.1 = { revolt = {} controller = BYZ }

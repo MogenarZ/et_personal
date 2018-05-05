@@ -130,7 +130,7 @@ for fil in [fil for fil in os.listdir(os.getcwd()) if ".txt" in fil]:
                 prov_data = prov_data.replace("395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire",
                                               "337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire")
 
-            if "395.1.17 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire" in prov_data:
+            if "395.1.17 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire" in prov_data:
                 changed = True
                 prov_data = prov_data.replace("395.1.17 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire",
                                               "337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire")

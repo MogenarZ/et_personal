@@ -20,6 +20,7 @@ discovered_by = western
 discovered_by = roman_group
 discovered_by = eastern
 
+337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 360.1.1 = { owner = ALM controller = ALM add_core = ALM remove_core = ROM capital = "Ravensburg" }
 496.1.1 = { owner = FRK controller = FRK add_core = FRK }
 600.1.1 = { religion = chalcedonism }

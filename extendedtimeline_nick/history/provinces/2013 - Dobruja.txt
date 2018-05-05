@@ -25,7 +25,7 @@ add_core = ROM
 
 300.1.1 = { capital = "Constantiana" base_tax = 2 base_production = 2 }
 388.1.1 = { religion = chalcedonism }
-395.1.17 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 680.1.1 = { owner = BUL controller = BUL add_core = BUL culture = bulgarian capital = "Constanta" }
 800.1.1 = { base_tax = 3 base_production = 3 }

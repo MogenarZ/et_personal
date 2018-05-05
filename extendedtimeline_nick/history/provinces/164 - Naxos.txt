@@ -21,7 +21,7 @@ is_city = yes
 add_core = ROM
 
 320.1.1 = { religion = chalcedonism }
-395.1.17 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
+337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 867.1.1 = { religion = orthodox }
 1204.4.13 = { owner = LAT controller = LAT add_core = LAT }
