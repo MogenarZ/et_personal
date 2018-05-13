@@ -1,7 +1,7 @@
 #1081 - Simbirsk
 
 capital = "Bolgar"
-culture = bulgarian
+culture = bulgar
 religion = tengri_pagan_reformed
 trade_goods = unknown
 hre = no

@@ -4252,6 +4252,19 @@ oghur = {
 			Çeçtilet Çilen Çiltanesi Çiçäk Özgul Özlem
 		}
 	}
+	bulgar = {
+		primary = VBU
+		male_names = {
+			Alp Araslan Bagha Baghatur Bälgiçi Barjik Barsbek Bastu Bashtwa Bihor Böri Bugha Bulan Bulçan Busir Buzer Çat Çat'n Çorpan Ilik Iltäbär Itakh Kamaj Karadakh Kayghalagh Khatir Khuterkin
+			Kibar Kisa Kundaçiq Kundaç Mänär Mänäs Mënümarót Ötemis Papaçyz Samsam Sartäç Simsam Täbär Tabghaç Tarkhan Tarmaç Tuzniq Vakrim Yabghu Yavantey Yençepi Yerneslu Yeçtirek Yilig
+			Belet Ezra Hanukkah Hezekiah Isaac Manasseh Nisi Yavdi Zebulun
+		}
+		female_names = {
+			Çiçäk Çeçeppi Çeçki Çeçtilet Çilen Çiltanesi Özgul Özlem Akgul Asli Ayasun Ayten Bozçin Dilek Esin Gulçiçäk Gulay Gunduz Gundes Gunes Ikalay Ilkay Ipek Ipekel Irge 
+			Karacik Kätyarikka Këlnissa Këlyamal Khatun Lärkka Lyukha Mala Maturkka Mutlu Naça Parsbit Patiyer Paykëlti Peksen Puyantay Samur Sarantay Sarä Sarica Sarikel 
+			Sati Savaçka Savkëlti Savtilek Savilay Savintik Shurkka Sibel Sirin Sirma Songul Tähtani Tekçe Tura Umay Usunbike Yasar Yeldem Yildiz Yartilek 
+		}
+	}
 	magyar_canadian = {
 	}
 	magyar_east_american = {

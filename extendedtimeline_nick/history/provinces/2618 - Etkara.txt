@@ -1,6 +1,6 @@
 #2618 - Etkara
       
-culture = bulgarian
+culture = bulgar
 religion = tengri_pagan_reformed
 hre = no
 discovered_by = western_nomad_group

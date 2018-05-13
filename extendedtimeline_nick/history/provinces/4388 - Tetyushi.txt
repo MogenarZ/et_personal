@@ -1,7 +1,7 @@
 #2838 - Veda-Suvar
 
 capital = "Tetyushi"
-culture = bulgarian
+culture = bulgar
 religion = tengri_pagan_reformed
 trade_goods = unknown
 hre = no
