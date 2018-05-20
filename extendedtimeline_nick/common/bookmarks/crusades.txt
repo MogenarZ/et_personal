@@ -1,0 +1,13 @@
+bookmark =
+{
+	name = "CRUSADES_NAME"
+	desc = "CRUSADES_DESC"
+	date = 1135.1.1
+	
+	country = BYZ
+	country = KOJ
+	country = TPL
+	country = ANC
+	country = EDE
+	country = ARM
+}
