@@ -15,5 +15,5 @@ capital = 189	# Lothringen
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 970.1.1 = { government = feudal_monarchy }

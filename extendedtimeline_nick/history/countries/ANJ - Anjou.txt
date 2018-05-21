@@ -34,7 +34,7 @@ capital = 178	# Angers
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 898.1.1 = {
 	monarch = {

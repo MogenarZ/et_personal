@@ -285,7 +285,7 @@ capital = 121	# Napoli
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 870.3.1 = {
 	monarch = {

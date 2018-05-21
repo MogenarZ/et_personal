@@ -96,7 +96,7 @@ capital = 199	# Clermont
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 875.3.22 = {
 	heir = {

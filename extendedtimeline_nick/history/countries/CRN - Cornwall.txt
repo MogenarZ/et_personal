@@ -224,7 +224,7 @@ capital = 233	# Exeter
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 876.1.1 = {
 	monarch = {

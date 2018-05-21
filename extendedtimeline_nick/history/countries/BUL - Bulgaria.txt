@@ -532,7 +532,7 @@ capital = 299
 }
 
 864.1.1 = { religion = chalcedonism }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 
 889.1.1 = {
 	monarch = {

@@ -9,7 +9,7 @@ capital = 101	# Genova
 400.1.1 = { religion = chalcedonism }
 450.1.1 = { technology_group = western }
 500.1.1 = { government = merchant_republic }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 1005.1.1 = {
 	monarch = {

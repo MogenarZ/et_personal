@@ -49,7 +49,7 @@ capital = 116 # Firenze
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 875.1.1 = {
 	heir = {

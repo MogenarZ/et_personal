@@ -7,4 +7,4 @@ capital = 2264
 
 550.1.1 = { religion = chalcedonism }
 654.1.1 = { technology_group = eastern }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }

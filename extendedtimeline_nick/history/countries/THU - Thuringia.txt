@@ -67,7 +67,7 @@ capital = 59	# Wittenberg
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 965.5.20 = { primary_culture = saxon }
 
 1031.1.1 = {

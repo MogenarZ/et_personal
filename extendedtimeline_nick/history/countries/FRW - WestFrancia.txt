@@ -24,7 +24,7 @@ capital = 183	# ile-de-france
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 877.10.6 = {
 	monarch = {

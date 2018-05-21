@@ -11,7 +11,7 @@ capital = 375	# Cork
 
 700.1.1 = { religion = chalcedonism }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 1118.1.1 = {
 	monarch = {

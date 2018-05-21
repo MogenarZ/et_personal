@@ -18,7 +18,7 @@ national_focus = ADM
 400.1.1 = { religion = chalcedonism }
 500.1.1 = { government = feudal_monarchy government_rank = 1 }
 536.1.1 = { technology_group = western }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 962.1.1 = { government = margraviate }
 976.1.1 = { capital = 134 }
 

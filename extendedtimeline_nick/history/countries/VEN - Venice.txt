@@ -155,7 +155,7 @@ national_focus = DIP
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 881.1.1 = {
 	monarch = {

@@ -60,7 +60,7 @@ capital = 172	# Nantes
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 874.1.1 = {
 	monarch = {

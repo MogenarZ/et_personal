@@ -9,7 +9,7 @@ capital = 206	# Galicia
 477.1.1 = { government = feudal_monarchy }
 536.1.1 = { technology_group = western }
 561.5.1 = { religion = chalcedonism government = salic_monarchy }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 910.12.10 = {
 	monarch = {

@@ -35,7 +35,7 @@ technology_group = western
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 870.1.1 = {
 	monarch = {

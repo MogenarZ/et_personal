@@ -229,7 +229,7 @@ capital = 64	# Regensburg
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 876.8.28 = {
 	monarch = {

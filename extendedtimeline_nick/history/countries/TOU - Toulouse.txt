@@ -76,7 +76,7 @@ capital = 196	# Toulouse
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 886.8.16 = {
 	monarch = {

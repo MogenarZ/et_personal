@@ -15,7 +15,7 @@ capital = 1876	# Frankfurt
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 876.8.28 = {
 	monarch = {

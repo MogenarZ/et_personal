@@ -15,7 +15,7 @@ capital = 93
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 911.11.10 = {
 	government_rank = 1

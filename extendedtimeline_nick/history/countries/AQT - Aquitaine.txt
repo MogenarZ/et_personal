@@ -301,7 +301,7 @@ capital = 196	# Toulouse
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 970.1.1 = { government = feudal_monarchy }
 1000.1.1 = { government_rank = 1 }
 

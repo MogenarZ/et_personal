@@ -137,7 +137,7 @@ capital = 207	# Asturias
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 910.12.10 = {
 	monarch = {

@@ -139,7 +139,7 @@ capital = 118	# Roma
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 867.11.13 = {
 	monarch = {

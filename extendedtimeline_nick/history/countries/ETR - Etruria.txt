@@ -7,7 +7,7 @@ capital = 116	# Firenze
 
 400.1.1 = { religion = chalcedonism }
 480.1.1 = { primary_culture = tuscan technology_group = western }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 1800.1.1 = { government = enlightened_despotism }
 
 1801.3.21 = {
