@@ -38,7 +38,7 @@ add_core = CRL
 #829.1.1 = { owner = WSX controller = WSX add_core = WSX }
 #830.1.1 = { owner = MRC controller = MRC remove_core = WSX }
 850.1.1 = { base_tax = 2 base_production = 2 }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 877.1.1 = { owner = DAN controller = DAN add_core = DAN capital = "Djura-by" }
 917.7.1 = { owner = MRC controller = MRC remove_core = DAN }
 918.12.4 = { owner = WSX controller = WSX add_core = WSX capital = "Deoraby" }

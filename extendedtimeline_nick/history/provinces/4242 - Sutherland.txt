@@ -22,7 +22,7 @@ discovered_by = western
 
 580.1.1 = { religion = chalcedonism }
 843.1.1 = { owner = SCO controller = SCO add_core = SCO remove_core = PCT }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 900.1.1 = { culture = highland_scottish }
 1000.1.1 = { base_tax = 2 }
 1100.1.1 = { base_production = 2 }

@@ -31,7 +31,7 @@ add_core = CAP
 440.1.1 = { religion = chalcedonism }
 615.1.1 = { controller = SAS }
 626.1.1 = { controller = BYZ }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 950.1.1 = { culture = greek }
 1071.8.26 = { owner = SEL controller = SEL add_core = SEL capital = "Kayseri" }
 1074.1.1 = { owner = DNI controller = DNI add_core = DNI remove_core = SEL }

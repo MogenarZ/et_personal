@@ -29,7 +29,7 @@ capital = "Jedburgh"
 409.1.1 = { religion = chalcedonism }
 410.1.1 = { owner = GOD controller = GOD add_core = GOD remove_core = VOT culture = welsh }
 638.1.1 = { owner = NOL controller = NOL add_core = NOL remove_core = GOD }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 867.3.23 = { owner = SCO controller = SCO add_core = SCO remove_core = NOL }
 1066.12.25 = { culture = scottish }
 1296.1.1 = { controller = ENG }

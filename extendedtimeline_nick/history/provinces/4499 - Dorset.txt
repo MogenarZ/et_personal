@@ -31,7 +31,7 @@ discovered_by = western
 520.1.1 = { owner = WSX controller = WSX add_core = WSX culture = anglo_saxon }
 645.1.1 = { owner = MRC controller = MRC add_core = MRC }
 648.1.1 = { owner = WSX controller = WSX remove_core = MRC }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 900.1.1 = { base_production = 3 }
 927.1.1 = { owner = ENG controller = ENG add_core = ENG remove_core = WSX }
 1066.12.25 = { culture = english }

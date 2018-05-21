@@ -34,7 +34,7 @@ add_core = ROM
 650.1.1 = { culture = al_suryah_arabic }
 661.7.28 = { owner = UMA controller = UMA add_core = UMA remove_core = RSD }
 750.8.6 = { owner = ABA controller = ABA add_core = ABA remove_core = UMA }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 868.9.15 = { owner = EGY controller = EGY add_core = EGY }
 880.1.1 = { fort_15th = no }
 900.1.1 = { base_tax = 4 base_production = 4 }

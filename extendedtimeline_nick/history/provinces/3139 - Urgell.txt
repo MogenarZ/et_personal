@@ -32,7 +32,7 @@ is_city = yes
 800.1.1 = { base_manpower = 2 }
 820.1.1 = { owner = ARA controller = ARA add_core = ARA }
 838.1.1 = { owner = CAT controller = CAT add_core = CAT remove_core = ARA }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 1000.1.1 = { base_tax = 3 base_production = 3 }
 1137.8.11 = { owner = ARA controller = ARA add_core = ARA }
 1200.1.1 = { base_tax = 3 base_production = 3 }

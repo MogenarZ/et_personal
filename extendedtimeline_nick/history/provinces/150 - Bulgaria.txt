@@ -34,7 +34,7 @@ add_core = ODR
 681.1.1 = { owner = BUL controller = BUL add_core = BUL culture = bulgarian capital = "Pliska" }
 690.1.1 = { fort_15th = yes }
 864.1.1 = { religion = chalcedonism }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 893.1.1 = { capital = "Preslav" }
 1014.1.1 = { owner = BYZ controller = BYZ }
 1100.1.1 = { base_tax = 5 base_production = 5 }

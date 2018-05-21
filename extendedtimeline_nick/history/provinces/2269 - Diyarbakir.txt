@@ -41,7 +41,7 @@ add_core = OSR
 661.7.28 = { owner = UMA controller = UMA add_core = UMA remove_core = RSD }
 750.8.6 = { owner = ABA controller = ABA add_core = ABA remove_core = UMA }
 850.1.1 = { culture = kurdish }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 911.1.1 = { owner = ZNG controller = ZNG add_core = ZNG remove_core = ABA }
 945.1.1 = { owner = SYR controller = SYR add_core = SYR }
 981.1.1 = { owner = ZNG controller = ZNG add_core = ZNG remove_core = SYR }

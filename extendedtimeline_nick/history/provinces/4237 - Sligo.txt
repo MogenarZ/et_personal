@@ -21,7 +21,7 @@ discovered_by = ORD
 300.1.1 = { discovered_by = western }
 600.1.1 = { discovered_by = eastern }
 700.1.1 = { religion = chalcedonism }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 1000.1.1 = { base_tax = 3 base_production = 3 }
 1005.1.1 = { owner = IRE controller = IRE add_core = IRE }
 1014.4.23 = { owner = CNN controller = CNN remove_core = IRE }

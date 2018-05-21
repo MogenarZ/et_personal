@@ -31,7 +31,7 @@ add_core = ROM
 615.1.1 = { controller = SAS }
 626.1.1 = { controller = BYZ }
 750.1.1 = { culture = greek }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 1000.1.1 = { base_manpower = 3 }
 1071.8.26 = { owner = SEL controller = SEL add_core = SEL capital = "Ankara" culture = turkish }
 1077.1.1 = { owner = RUM controller = RUM add_core = RUM remove_core = SEL }

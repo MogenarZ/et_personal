@@ -37,7 +37,7 @@ capital = "Northumberland"
 630.1.1 = { religion = chalcedonism }
 634.1.1 = { owner = NOL controller = NOL add_core = NOL remove_core = BRN }
 750.1.1 = { base_manpower = 2 }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 927.1.1 = { owner = ENG controller = ENG add_core = ENG }
 939.1.1 = { owner = NOL controller = NOL }
 944.1.1 = { owner = ENG controller = ENG }

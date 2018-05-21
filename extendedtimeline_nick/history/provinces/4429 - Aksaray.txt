@@ -29,7 +29,7 @@ add_core = ROM
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 440.1.1 = { religion = chalcedonism }
 750.1.1 = { culture = greek }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 1071.8.26 = { owner = SEL controller = SEL add_core = SEL capital = "Aksaray" }
 1077.1.1 = { owner = RUM controller = RUM add_core = RUM remove_core = SEL }
 1120.1.1 = { culture = turkish religion = sunni remove_core = BYZ }

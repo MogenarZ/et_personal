@@ -24,7 +24,7 @@ discovered_by = muslim
 337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 500.1.1 = { culture = greek }
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 904.1.1 = { owner = BUL controller = BUL add_core = BUL }
 1005.1.1 = { owner = BYZ controller = BYZ add_core = BYZ remove_core = BUL }
 1082.1.1 = { controller = SIC }

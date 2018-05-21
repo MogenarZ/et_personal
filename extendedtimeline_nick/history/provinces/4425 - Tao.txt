@@ -34,7 +34,7 @@ add_core = ARM
 661.1.1 = { add_core = UMA remove_core = RSD }
 750.1.1 = { add_core = ABA remove_core = UMA }
 813.1.1 = { owner = GEO controller = GEO add_core = GEO remove_core = ABA remove_core = ARM }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 900.1.1 = { base_tax = 3 base_production = 3 }
 1071.8.26 = { owner = SLT controller = SLT add_core = SLT }
 1124.1.1 = { owner = GEO controller = GEO add_core = GEO remove_core = SLT }

@@ -30,7 +30,7 @@ add_core = ROM
 610.10.5 = { add_core = BYZ remove_core = ROE }
 646.1.1 = { owner = BNV controller = BNV add_core = BNV remove_core = BYZ }
 839.1.1 = { owner = SAE controller = SAE add_core = SAE remove_core = BNV }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 1076.12.13 = { owner = SIC controller = SIC add_core = SIC }
 1100.1.1 = { base_tax = 5 }
 1200.1.1 = { base_manpower = 5 }

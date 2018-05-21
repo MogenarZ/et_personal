@@ -27,7 +27,7 @@ discovered_by = eastern
 686.1.1 = { religion = chalcedonism }
 700.1.1 = { capital = "Virteburch" }
 840.6.21 = { owner = FRE controller = FRE add_core = FRE remove_core = FRK }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 900.1.1 = { capital = "Würzburg" }
 911.11.10 = { owner = FRC controller = FRC add_core = FRC remove_core = FRE }
 962.2.2 = { hre = yes }

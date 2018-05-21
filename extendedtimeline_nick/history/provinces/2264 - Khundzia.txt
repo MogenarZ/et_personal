@@ -27,7 +27,7 @@ base_manpower = 1
 550.1.1 = { religion = chalcedonism }
 600.1.1 = { base_tax = 2 base_production = 2 }
 800.1.1 = { base_manpower = 2 discovered_by = eastern }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 1100.1.1 = { base_manpower = 3 }
 1200.1.1 = { owner = AVR controller = AVR add_core = AVR remove_core = SRR religion = sunni }
 1236.1.1 = { owner = KHA controller = KHA add_core = KHA }

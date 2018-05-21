@@ -39,7 +39,7 @@ add_core = ROM
 711.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = GVI }
 750.8.6 = { owner = CRD controller = CRD add_core = CRD remove_core = UMA }
 800.1.1 = { base_tax = 4 base_production = 4 }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 868.1.1 = { owner = ASR controller = ASR add_core = ASR remove_core = CRD capital = "Porto" culture = portugese }
 900.1.1 = { base_manpower = 3 }
 910.12.10 = { owner = GAL controller = GAL remove_core = ASR }

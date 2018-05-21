@@ -24,7 +24,7 @@ add_core = ROM
 337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 430.1.1 = { religion = chalcedonism }
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 900.1.1 = { fort_15th = no }
 1205.1.1 = { owner = ATH controller = ATH add_core = ATH }
 1312.1.1 = { owner = SIC controller = SIC add_core = SIC add_core = ARA }

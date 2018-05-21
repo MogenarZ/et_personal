@@ -29,7 +29,7 @@ add_core = ODR
 337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 681.1.1 = { owner = BUL controller = BUL add_core = BUL capital = "Burgas" culture = bulgarian }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 1000.1.1 = { base_tax = 3 base_production = 3 }
 1014.1.1 = { owner = BYZ controller = BYZ }
 1100.1.1 = { base_manpower = 2 }

@@ -29,7 +29,7 @@ is_city = yes
 711.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = GVI capital = "Saraqusta" fort_15th = yes }
 750.8.6 = { owner = CRD controller = CRD add_core = CRD remove_core = UMA }
 800.1.1 = { base_manpower = 3 }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 880.1.1 = { religion = sunni }
 900.1.1 = { base_tax = 4 base_production = 4 culture = andalucian }
 1000.1.1 = { base_manpower = 4 }

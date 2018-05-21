@@ -28,7 +28,7 @@ add_core = DAC
 567.1.1 = { owner = AVR controller = AVR add_core = AVR remove_core = GEP culture = avar religion = tengri_pagan_reformed }
 800.1.1 = { base_tax = 3 base_production = 3 }
 804.1.1 = { owner = BUL controller = BUL add_core = BUL remove_core = AVR }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 1003.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = BUL culture = hungarian }
 1307.1.1 = { fort_15th = yes }
 

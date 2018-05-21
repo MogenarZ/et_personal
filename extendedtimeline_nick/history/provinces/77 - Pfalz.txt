@@ -29,7 +29,7 @@ discovered_by = eastern
 800.1.1 = { base_tax = 3 base_production = 3 }
 840.6.21 = { owner = FRE controller = FRE add_core = FRE remove_core = FRK }
 863.1.1 = { capital = "Heiligenberg" }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 911.11.10 = { owner = FRC controller = FRC add_core = FRC remove_core = FRE }
 939.10.23 = { owner = PAL controller = PAL add_core = PAL remove_core = FRC }
 962.2.2 = { hre = yes }

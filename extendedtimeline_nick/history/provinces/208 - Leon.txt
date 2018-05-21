@@ -29,7 +29,7 @@ is_city = yes
 711.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = GVI culture = leonese }
 742.1.1 = { owner = ASR controller = ASR add_core = ASR remove_core = UMA capital = "León" }
 800.1.1 = { base_manpower = 2 }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 910.12.10 = { owner = LON controller = LON add_core = LON }
 1050.1.1 = { base_tax = 4 base_production = 4 }
 1230.9.23 = { owner = CAS controller = CAS add_core = CAS remove_core = ASR }

@@ -30,7 +30,7 @@ is_city = yes
 711.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = GVI }
 739.1.1 = { owner = ASR controller = ASR add_core = ASR remove_core = UMA capital = "A Corunha" }
 850.1.1 = { base_manpower = 2 }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 910.12.10 = { owner = GAL controller = GAL remove_core = ASR }
 914.1.1 = { owner = LON controller = LON add_core = LON }
 1050.1.1 = { base_tax = 3 base_production = 3 }

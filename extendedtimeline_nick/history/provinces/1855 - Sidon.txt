@@ -35,7 +35,7 @@ add_core = ROM
 661.7.28 = { owner = UMA controller = UMA add_core = UMA remove_core = RSD }
 720.1.1 = { culture = al_suryah_arabic }
 750.8.6 = { owner = ABA controller = ABA add_core = ABA remove_core = UMA }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 868.9.15 = { owner = EGY controller = EGY add_core = EGY }
 905.1.10 = { owner = ABA controller = ABA add_core = ABA }
 935.8.26 = { owner = EGY controller = EGY add_core = EGY remove_core = ABA }

@@ -41,7 +41,7 @@ add_core = ROM
 330.5.11 = { capital = "Constantinople" }
 337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Created
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 1204.4.13 = { owner = LAT controller = LAT add_core = LAT }
 1261.1.1 = { owner = BYZ controller = BYZ remove_core = LAT }
 

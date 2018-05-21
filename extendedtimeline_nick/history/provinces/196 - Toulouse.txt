@@ -36,7 +36,7 @@ add_core = ROM
 863.1.1 = { owner = CAT controller = CAT add_core = CAT }
 865.1.1 = { owner = FRW controller = FRW remove_core = CAT }
 866.1.1 = { owner = AQT controller = AQT add_core = AQT }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 877.10.6 = { owner = FRW controller = FRW add_core = FRW remove_core = AQT }
 #886.8.16 = { owner = TOU controller = TOU remove_core = AUV }
 900.1.1 = { base_manpower = 3 }

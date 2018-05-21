@@ -26,7 +26,7 @@ capital = "Loch Awe"
 736.1.1 = { owner = PCT controller = PCT add_core = PCT }
 760.1.1 = { owner = DLR controller = DLR remove_core = PCT }
 848.1.1 = { owner = SCO controller = SCO add_core = SCO remove_core = DLR }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 900.1.1 = { base_manpower = 2 }
 1200.1.1 = { base_tax = 3 base_production = 3 }
 1296.1.1 = { controller = ENG }

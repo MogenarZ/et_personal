@@ -34,7 +34,7 @@ add_core = ROM
 800.1.1 = { base_manpower = 2 }
 840.6.21 = { owner = FRM controller = FRM add_core = FRM remove_core = FRK }
 855.9.30 = { owner = LOT controller = LOT add_core = LOT remove_core = FRM }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 870.8.8 = { owner = FRW controller = FRW add_core = FRW }
 880.1.1 = { owner = FRE controller = FRE add_core = FRE remove_core = FRW }
 900.1.1 = { fort_15th = yes base_tax = 3 base_production = 3 }

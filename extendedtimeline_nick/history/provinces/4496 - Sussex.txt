@@ -32,7 +32,7 @@ add_core = KEN
 675.1.1 = { religion = chalcedonism }
 827.1.1 = { owner = WSX controller = WSX add_core = WSX }
 850.1.1 = { base_manpower = 2 }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 927.1.1 = { owner = ENG controller = ENG add_core = ENG remove_core = WSX }
 1050.1.1 = { remove_core = SSX base_tax = 4 base_production = 4 }
 1066.12.25 = { culture = english }

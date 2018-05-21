@@ -33,7 +33,7 @@ add_core = ROM
 800.1.1 = { base_tax = 6 base_production = 6 }
 840.6.21 = { owner = FRM controller = FRM add_core = FRM remove_core = FRK }
 855.9.30 = { owner = ITA controller = ITA add_core = ITA remove_core = FRM remove_core = LOM }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 962.2.2 = { hre = yes owner = BRS controller = BRS add_core = BRS remove_core = ITA }
 1000.1.1 = { base_tax = 7 base_production = 7 }
 1200.1.1 = { base_tax = 8 base_production = 8 }

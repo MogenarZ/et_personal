@@ -41,7 +41,7 @@ add_core = DAC
 679.1.1 = { owner = BUL controller = BUL add_core = BUL remove_core = AVR culture = bulgarian }
 800.1.1 = { base_manpower = 2 }
 864.1.1 = { religion = chalcedonism }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 900.1.1 = { capital = "Tigheci" culture = romanian }
 969.1.1 = { owner = PEC controller = PEC add_core = PEC remove_core = HUN }
 1000.1.1 = { base_tax = 3 base_production = 3 }

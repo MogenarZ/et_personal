@@ -31,7 +31,7 @@ add_core = SRM
 700.1.1 = { base_tax = 2 base_production = 2 }
 750.1.1 = { owner = KHZ controller = KHZ add_core = KHZ remove_core = BUL }
 800.1.1 = { culture = khazar }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 900.1.1 = { base_manpower = 2 }
 969.1.1 = { owner = PEC controller = PEC add_core = PEC remove_core = KHZ culture = cuman }
 1000.1.1 = { base_tax = 3 base_production = 3 }

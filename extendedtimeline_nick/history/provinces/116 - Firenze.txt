@@ -43,7 +43,7 @@ add_core = ROM
 840.6.21 = { owner = FRM controller = FRM add_core = FRM remove_core = FRK }
 846.1.1 = { owner = TUS controller = TUS add_core = TUS remove_core = FRM }
 850.1.1 = { fort_15th = yes }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 900.1.1 = { base_tax = 8 base_production = 8 }
 962.2.2 = { hre = yes }
 1000.1.1 = { base_manpower = 6 }

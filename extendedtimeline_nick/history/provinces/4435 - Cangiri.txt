@@ -28,7 +28,7 @@ add_core = ROM
 615.1.1 = { controller = SAS }
 626.1.1 = { controller = BYZ }
 750.1.1 = { culture = greek }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 1071.8.26 = { owner = SEL controller = SEL add_core = SEL capital = "Cankiri" }
 1074.1.1 = { owner = DNI controller = DNI add_core = DNI remove_core = SEL }
 1120.1.1 = { culture = turkish religion = sunni remove_core = BYZ }

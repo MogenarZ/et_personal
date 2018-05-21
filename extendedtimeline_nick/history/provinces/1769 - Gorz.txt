@@ -36,7 +36,7 @@ discovered_by = western
 800.1.1 = { base_manpower = 2 }
 840.6.21 = { owner = FRM controller = FRM add_core = FRM remove_core = FRK }
 855.9.30 = { owner = ITA controller = ITA add_core = ITA remove_core = FRM }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 951.1.1 = { owner = BAV controller = BAV add_core = BAV remove_core = FRE add_core = CAR add_core = VRN }
 962.2.2 = { hre = yes }
 976.1.1 = { owner = CAR controller = CAR remove_core = BAV }

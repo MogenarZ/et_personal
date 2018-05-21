@@ -27,7 +27,7 @@ add_core = ROM
 440.1.1 = { religion = chalcedonism }
 750.1.1 = { culture = greek }
 800.1.1 = { base_tax = 3 base_production = 3 }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 900.1.1 = { base_manpower = 3 }
 1071.8.26 = { owner = SEL controller = SEL add_core = SEL }
 1077.1.1 = { owner = RUM controller = RUM add_core = RUM remove_core = SEL }

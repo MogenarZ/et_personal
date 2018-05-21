@@ -32,7 +32,7 @@ add_core = CAP
 650.1.1 = { owner = RSD controller = RSD add_core = RSD }
 661.7.28 = { owner = UMA controller = UMA add_core = UMA remove_core = RSD }
 750.8.6 = { owner = ABA controller = ABA add_core = ABA remove_core = UMA }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 868.9.15 = { owner = EGY controller = EGY add_core = EGY }
 905.1.10 = { owner = ABA controller = ABA add_core = ABA }
 935.8.26 = { owner = EGY controller = EGY add_core = EGY remove_core = ABA }

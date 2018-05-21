@@ -29,7 +29,7 @@ base_manpower = 2
 456.1.1 = { owner = LAZ controller = LAZ add_core = LAZ remove_core = BYZ }
 500.1.1 = { religion = chalcedonism }
 697.1.1 = { owner = ABK controller = ABK add_core = ABK remove_core = LAZ capital = "Anacopia" }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 1008.1.1 = { owner = GEO controller = GEO add_core = GEO capital = "Sukhumi" }
 1236.1.1 = { owner = KHA controller = KHA add_core = KHA }
 1260.1.1 = { owner = GEO controller = GEO remove_core = KHA }

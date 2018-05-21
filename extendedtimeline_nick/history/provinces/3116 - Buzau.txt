@@ -31,7 +31,7 @@ add_core = DAC
 560.1.1 = { owner = AVR controller = AVR add_core = AVR remove_core = ANE }
 681.1.1 = { owner = BUL controller = BUL add_core = BUL remove_core = AVR culture = romanian }
 700.1.1 = { base_tax = 3 base_production = 3 }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 900.1.1 = { base_manpower = 3 }
 1003.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = BUL }
 1015.1.1 = { owner = PEC controller = PEC add_core = PEC remove_core = HUN }

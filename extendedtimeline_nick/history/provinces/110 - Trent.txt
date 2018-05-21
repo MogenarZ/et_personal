@@ -31,7 +31,7 @@ is_city = yes
 800.1.1 = { base_tax = 3 base_production = 3 }
 840.6.21 = { owner = FRM controller = FRM add_core = FRM remove_core = FRK }
 855.9.30 = { owner = ITA controller = ITA add_core = ITA remove_core = FRM remove_core = LOM }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 951.1.1 = { owner = BAV controller = BAV add_core = BAV remove_core = ITA add_core = CAR }
 962.2.2 = { hre = yes }
 976.1.1 = { owner = CAR controller = CAR remove_core = BAV }

@@ -30,7 +30,7 @@ add_core = ROM
 600.1.1 = { base_tax = 2 base_production = 2 culture = breton }
 800.1.1 = { base_manpower = 2 }
 846.1.1 = { controller = BRI owner = BRI add_core = BRI remove_core = BRO }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 907.1.1 = { owner = DAN controller = DAN }
 937.1.1 = { owner = BRI controller = BRI }
 1000.1.1 = { base_tax = 3 base_production = 3 }

@@ -27,7 +27,7 @@ add_core = ROM
 430.1.1 = { religion = chalcedonism }
 615.1.1 = { controller = SAS }
 626.1.1 = { controller = BYZ }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 1204.4.13 = { owner = NCA controller = NCA add_core = NCA }
 1261.1.1 = { owner = BYZ controller = BYZ remove_core = NCA }
 1325.1.1 = { owner = TUR controller = TUR add_core = TUR capital = "Bolu" }

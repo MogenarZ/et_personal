@@ -27,7 +27,7 @@ is_city = yes
 711.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = GVI culture = castillian }
 750.8.6 = { owner = CRD controller = CRD add_core = CRD remove_core = UMA }
 800.1.1 = { fort_15th = yes base_manpower = 2 }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 900.1.1 = { base_tax = 3 }
 950.1.1 = { owner = CAS controller = CAS add_core = CAS remove_core = CRD capital = "Valladolid" }
 1000.1.1 = { base_tax = 4 base_production = 3 }

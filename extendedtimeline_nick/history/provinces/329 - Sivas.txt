@@ -27,7 +27,7 @@ add_core = ROM
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 615.1.1 = { controller = SAS }
 626.1.1 = { controller = BYZ }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 1071.8.26 = { owner = DNI controller = DNI add_core = DNI capital = "Sivas" culture = turkish }
 1090.1.1 = { religion = sunni remove_core = BYZ }
 1178.1.1 = { owner = RUM controller = RUM add_core = RUM }

@@ -34,7 +34,7 @@ add_core = ROM
 806.1.1 = { owner = FRK controller = FRK add_core = FRK }
 812.1.1 = { owner = BYZ controller = BYZ remove_core = FRK }
 850.1.1 = { owner = CRO controller = CRO remove_core = BYZ capital = "Zadar" }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 1000.1.1 = { base_manpower = 3 }
 1102.1.1 = { owner = HUN controller = HUN add_core = HUN }
 1165.1.1 = { owner = BYZ controller = BYZ add_core = BYZ }

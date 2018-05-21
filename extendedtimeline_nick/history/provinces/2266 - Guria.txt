@@ -32,7 +32,7 @@ add_core = PON
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 813.1.1 = { owner = GEO controller = GEO add_core = GEO remove_core = BYZ }
 850.1.1 = { base_tax = 3 base_production = 3 }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 1234.1.1 = { owner = KHA controller = KHA add_core = KHA capital = "Artvin" }
 1260.1.1 = { owner = GEO controller = GEO remove_core = KHA }
 1442.1.1 = { owner = IME controller = IME add_core = IME }

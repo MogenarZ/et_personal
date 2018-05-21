@@ -33,7 +33,7 @@ add_core = BRG
 720.1.1 = { owner = NOL controller = NOL add_core = NOL culture = anglo_saxon }
 750.1.1 = { base_manpower = 2 }
 850.1.1 = { base_tax = 3 base_production = 3 }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 927.1.1 = { owner = ENG controller = ENG add_core = ENG remove_core = RHE }
 1000.1.1 = { remove_core = NOL }
 1066.12.25 = { culture = english }

@@ -27,7 +27,7 @@ add_core = FRY
 800.1.1 = { citysize = 3500 religion = chalcedonism }
 840.6.21 = { owner = FRM controller = FRM add_core = FRM remove_core = FRK }
 855.9.30 = { owner = LOT controller = LOT add_core = LOT remove_core = FRM }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 870.8.8 = { owner = FRE controller = FRE add_core = FRE remove_core = LOT culture = hannoverian }
 900.1.1 = { base_tax = 2 base_production = 2 }
 911.11.10 = { owner = LOT controller = LOT add_core = LOT add_core = EFR remove_core = FRE remove_core = FRS }

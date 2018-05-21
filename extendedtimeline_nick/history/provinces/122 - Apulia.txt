@@ -29,7 +29,7 @@ add_core = ROM
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 # Briefly occupied by muslims in late 840 of early 841
 847.1.1 = { owner = BAE controller = BAE add_core = BAE }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 871.1.1 = { owner = BYZ controller = BYZ remove_core = BAE }
 965.1.1 = { fort_15th = yes } #Fortified by Necephorus II Phocas
 1040.1.1 = { owner = SIC controller = SIC add_core = SIC remove_core = BYZ capital = "Taranto" culture = neapolitan fort_15th = no }

@@ -36,7 +36,7 @@ add_core = ROM
 795.1.1 = { owner = CAT controller = CAT add_core = CAT remove_core = FRK culture = catalan }
 800.1.1 = { fort_15th = yes base_manpower = 2 }
 849.1.1 = { add_core = TOU }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 1000.1.1 = { base_tax = 3 base_production = 3 }
 1137.8.11 = { owner = ARA controller = ARA add_core = ARA }
 1200.1.1 = { base_manpower = 4 }

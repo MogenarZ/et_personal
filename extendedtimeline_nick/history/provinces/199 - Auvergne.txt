@@ -38,7 +38,7 @@ add_core = ROM
 848.1.1 = { capital = "Clermont" }
 #849.1.1 = { owner = AUV controller = AUV add_core = AUV }
 866.1.1 = { owner = AQT controller = AQT add_core = AQT }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 877.10.6 = { owner = FRW controller = FRW add_core = FRW remove_core = AQT }
 987.7.3 = { owner = FRA controller = FRA add_core = FRA remove_core = FRW }
 1000.1.1 = { base_manpower = 2 }

@@ -31,7 +31,7 @@ add_core = CAP
 500.1.1 = { culture = greek }
 615.1.1 = { controller = SAS }
 626.1.1 = { controller = BYZ }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 1071.8.26 = { owner = DIV controller = DIV add_core = DIV capital = "Divrigi" }
 1120.1.1 = { religion = sunni culture = turkish }
 1277.1.1 = { owner = ILK controller = ILK add_core = ILK }

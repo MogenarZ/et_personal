@@ -32,7 +32,7 @@ is_city = yes
 711.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = GVI capital = "Salamanca" culture = leonese }
 750.8.6 = { owner = CRD controller = CRD add_core = CRD remove_core = UMA }
 800.1.1 = { base_manpower = 4 }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 900.1.1 = { base_tax = 4 base_production = 4 }
 989.1.1 = { owner = LON controller = LON add_core = LON remove_core = CRD }
 1000.1.1 = { base_manpower = 5 }

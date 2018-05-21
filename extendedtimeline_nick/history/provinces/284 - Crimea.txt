@@ -35,7 +35,7 @@ add_core = ROM
 700.1.1 = { base_manpower = 3 }
 750.1.1 = { owner = KHZ controller = KHZ add_core = KHZ remove_core = GCR capital = "Salaciq" }
 800.1.1 = { fort_15th = yes culture = khazar }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 900.1.1 = { base_tax = 4 base_production = 4 }
 969.1.1 = { owner = PEC controller = PEC add_core = PEC remove_core = KHZ capital = "Qirq-Yer" culture = cuman }
 1000.1.1 = { base_manpower = 4 }

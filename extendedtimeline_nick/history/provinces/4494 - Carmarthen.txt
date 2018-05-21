@@ -28,7 +28,7 @@ capital = "Maridunum"
 337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 383.1.1 = { owner = DYF controller = DYF add_core = DYF remove_core = SLR remove_core = ROM capital = "Carmarthen" }
 660.1.1 = { religion = chalcedonism }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 920.1.1 = { owner = DEH controller = DEH add_core = DEH remove_core = DYF }
 1093.1.1 = { owner = ENG controller = ENG add_core = ENG }
 1135.1.1 = { owner = DEH controller = DEH }

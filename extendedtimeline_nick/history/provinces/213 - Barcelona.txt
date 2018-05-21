@@ -30,7 +30,7 @@ is_city = yes
 711.1.1 = { owner = UMA controller = UMA add_core = UMA remove_core = GVI culture = catalan }
 750.8.6 = { owner = CRD controller = CRD add_core = CRD remove_core = UMA }
 801.1.1 = { owner = CAT controller = CAT add_core = CAT remove_core = CRD capital = "Barcelona" }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 900.1.1 = { base_tax = 4 base_production = 4 }
 1100.1.1 = { base_tax = 5 base_production = 5 }
 1137.8.11 = { owner = ARA controller = ARA add_core = ARA }

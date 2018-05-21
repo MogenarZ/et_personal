@@ -19,7 +19,7 @@ discovered_by = western
 
 600.1.1 = { religion = chalcedonism }
 650.1.1 = { base_tax = 2 base_production = 2 }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 996.1.1 = { owner = DMS controller = DMS add_core = DMS }
 1002.1.1 = { owner = IRE controller = IRE add_core = IRE remove_core = DMS }
 1014.4.23 = { owner = OSG controller = OSG remove_core = IRE }

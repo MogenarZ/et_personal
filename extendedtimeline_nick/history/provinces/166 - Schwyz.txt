@@ -27,7 +27,7 @@ add_core = ROM
 620.1.1 = { religion = chalcedonism }
 700.1.1 = { base_tax = 2 base_production = 2 }
 840.6.21 = { owner = FRE controller = FRE add_core = FRE remove_core = FRK }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 900.1.1 = { base_tax = 3 base_production = 3 }
 911.11.10 = { owner = SWA controller = SWA add_core = SWA remove_core = FRE }
 962.2.2 = { hre = yes }

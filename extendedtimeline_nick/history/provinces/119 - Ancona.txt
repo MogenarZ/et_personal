@@ -30,7 +30,7 @@ add_core = ROM
 774.1.1 = { owner = FRK controller = FRK add_core = FRK }
 784.1.1 = { owner = PAP controller = PAP add_core = PAP add_core = URB remove_core = LOM remove_core = FRK }
 800.1.1 = { trade_goods = paper }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 900.1.1 = { base_manpower = 4 }
 1100.1.1 = { base_tax = 5 base_production = 5 }
 

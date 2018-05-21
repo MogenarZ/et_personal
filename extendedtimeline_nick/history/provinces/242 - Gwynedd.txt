@@ -28,7 +28,7 @@ capital = "Canovium"
 337.5.23 = { controller = ROW owner = ROW add_core = ROW remove_core = ROM } # Final division of the empire
 350.1.1 = { owner = GWY controller = GWY add_core = GWY remove_core = ORV remove_core = ROM capital = "Caernarvon" }
 660.1.1 = { religion = chalcedonism }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 950.1.1 = { base_tax = 2 base_production = 2 }
 1282.1.1 = { owner = ENG controller = ENG add_core = ENG add_core = WLS remove_core = GWY }
 

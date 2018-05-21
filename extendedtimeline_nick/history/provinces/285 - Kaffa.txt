@@ -41,7 +41,7 @@ add_core = ROM
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 750.1.1 = { owner = KHZ controller = KHZ add_core = KHZ remove_core = GCR capital = "Doros" }
 850.1.1 = { base_tax = 4 base_production = 4 }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 969.1.1 = { owner = BYZ controller = BYZ add_core = BYZ remove_core = KHZ }
 1204.4.1 = { owner = TRE controller = TRE add_core = TRE }
 1237.1.1 = { owner = KHA controller = KHA add_core = KHA add_core = CRI capital = "Kaffa" }

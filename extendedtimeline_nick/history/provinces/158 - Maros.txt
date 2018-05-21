@@ -31,7 +31,7 @@ add_core = DAC
 469.1.1 = { owner = GEP controller = GEP add_core = GEP remove_core = HNS culture = gepid capital = "Brasov" }
 567.1.1 = { owner = AVR controller = AVR add_core = AVR remove_core = GEP culture = avar religion = tengri_pagan_reformed }
 804.1.1 = { owner = BUL controller = BUL add_core = BUL remove_core = AVR culture = romanian }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 900.1.1 = { base_tax = 3 base_production = 3 }
 1003.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = BUL culture = hungarian }
 1200.1.1 = { religion = catholic }

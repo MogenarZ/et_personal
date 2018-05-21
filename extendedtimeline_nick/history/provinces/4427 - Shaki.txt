@@ -28,7 +28,7 @@ add_core = CLB
 750.1.1 = { add_core = ABA remove_core = UMA }
 786.1.1 = { owner = KKE controller = KKE add_core = KKE remove_core = ABA remove_core = IBE }
 820.1.1 = { religion = chalcedonism }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 1029.1.1 = { owner = GEO controller = GEO add_core = GEO }
 1070.1.1 = { owner = KKE controller = KKE add_core = KKE remove_core = GEO }
 1080.1.1 = { culture = azerbaijani religion = shiite }

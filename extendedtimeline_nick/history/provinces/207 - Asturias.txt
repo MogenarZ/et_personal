@@ -36,7 +36,7 @@ is_city = yes
 718.1.1 = { owner = ASR controller = ASR add_core = ASR remove_core = UMA capital = "Cangas de Onis" culture = leonese }
 800.1.1 = { base_manpower = 2 }
 802.1.1 = { capital = "Oviedo" }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 924.1.1 = { owner = LON controller = LON add_core = LON }
 1000.1.1 = { base_tax = 3 base_production = 3 }
 1100.1.1 = { base_tax = 4 base_production = 4 }

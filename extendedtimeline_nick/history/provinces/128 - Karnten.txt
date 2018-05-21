@@ -42,7 +42,7 @@ discovered_by = western
 800.1.1 = { base_manpower = 3 }
 817.1.1 = { owner = BAV controller = BAV add_core = BAV remove_core = FRK }
 860.1.1 = { fort_15th = yes } #Hochosterwitz Castle
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 880.3.22 = { owner = FRE controller = FRE add_core = FRE }
 900.1.1 = { base_tax = 4 base_production = 4 }
 911.11.10 = { owner = BAV controller = BAV add_core = BAV remove_core = FRE }

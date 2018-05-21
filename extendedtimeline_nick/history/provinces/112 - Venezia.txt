@@ -42,7 +42,7 @@ add_core = ROM
 700.1.1 = { base_manpower = 3 }
 800.1.1 = { base_tax = 5 base_production = 5 }
 810.1.1 = { capital = "Venezia" }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 900.1.1 = { base_tax = 7 base_production = 7 }
 1000.1.1 = { base_manpower = 5 }
 1100.1.1 = { base_tax = 8 base_production = 8 }

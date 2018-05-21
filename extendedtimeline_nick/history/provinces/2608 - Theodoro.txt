@@ -36,7 +36,7 @@ add_core = ROM
 750.1.1 = { owner = KHZ controller = KHZ add_core = KHZ remove_core = GCR }
 800.1.1 = { base_manpower = 2 }
 833.1.1 = { owner = BYZ controller = BYZ add_core = BYZ remove_core = KHZ }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 1000.1.1 = { base_tax = 3 base_production = 3 }
 1200.1.1 = { base_manpower = 3 }
 1204.4.13 = { owner = TRE controller = TRE add_core = TRE }

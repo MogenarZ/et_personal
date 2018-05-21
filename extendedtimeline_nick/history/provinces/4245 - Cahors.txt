@@ -31,7 +31,7 @@ discovered_by = eastern
 769.2.1 = { owner = FRK controller = FRK add_core = FRK }
 840.6.21 = { owner = FRW controller = FRW add_core = FRW remove_core = FRK }
 866.1.1 = { owner = AQT controller = AQT add_core = AQT remove_core = FRW }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 877.10.6 = { owner = FRW controller = FRW add_core = FRW remove_core = AQT }
 900.1.1 = { base_tax = 3 base_production = 3 }
 987.7.3 = { owner = FRA controller = FRA add_core = FRA add_core = AQT remove_core = FRW }

@@ -35,7 +35,7 @@ add_core = ERG
 829.1.1 = { owner = WSX controller = WSX add_core = WSX }
 830.1.1 = { owner = MRC controller = MRC remove_core = WSX }
 850.1.1 = { base_manpower = 2 }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 883.1.1 = { add_core = WSX }
 918.12.4 = { owner = WSX controller = WSX }
 927.1.1 = { owner = ENG controller = ENG add_core = ENG remove_core = ERG capital = "Bristol" }

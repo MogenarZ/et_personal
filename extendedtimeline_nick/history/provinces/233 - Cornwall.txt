@@ -30,7 +30,7 @@ add_core = DUM
 500.1.1 = { base_tax = 2 base_production = 2 religion = chalcedonism }
 700.1.1 = { base_manpower = 2 }
 710.1.1 = { owner = CRN controller = CRN add_core = CRN remove_core = DUM }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 890.1.1 = { owner = WSX controller = WSX add_core = WSX }
 900.1.1 = { base_tax = 3 base_production = 3 }
 927.1.1 = { owner = ENG controller = ENG add_core = ENG remove_core = WSX }

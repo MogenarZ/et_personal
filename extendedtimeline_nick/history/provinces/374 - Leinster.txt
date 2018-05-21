@@ -19,7 +19,7 @@ discovered_by = western
 
 600.1.1 = { religion = chalcedonism }
 650.1.1 = { base_tax = 2 base_production = 2 }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 950.1.1 = { base_manpower = 2 }
 996.1.1 = { owner = DMS controller = DMS }
 998.1.1 = { owner = LEI controller = LEI }

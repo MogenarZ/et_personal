@@ -25,7 +25,7 @@ capital = "Castletown"
 430.1.1 = { religion = chalcedonism }
 450.1.1 = { culture = highland_scottish }
 852.1.1 = { owner = LOI controller = LOI add_core = LOI remove_core = STR }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 1266.7.2 = { owner = SCO add_core = SCO controller = SCO add_core = KOI remove_core = LOI }
 1290.1.1 = { controller = ENG add_core = ENG }
 1313.1.1 = { controller = SCO }

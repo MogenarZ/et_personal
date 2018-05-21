@@ -29,7 +29,7 @@ add_core = DUM
 410.1.1 = { owner = DUM controller = DUM add_core = DUM remove_core = ROW capital = "Tintagel" }
 500.1.1 = { religion = chalcedonism }
 710.1.1 = { owner = CRN controller = CRN add_core = CRN remove_core = DUM capital = "Penryn" }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 890.1.1 = { owner = WSX controller = WSX add_core = WSX }
 927.1.1 = { owner = ENG controller = ENG add_core = ENG remove_core = WSX }
 1250.1.1 = { culture = english }

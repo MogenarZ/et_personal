@@ -29,7 +29,7 @@ add_core = ROM
 600.1.1 = { culture = greek }
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 847.1.1 = { owner = BAE controller = BAE add_core = BAE remove_core = BYZ }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 871.1.1 = { owner = SAE controller = SAE add_core = SAE remove_core = BAE }
 1076.12.13 = { owner = SIC controller = SIC add_core = SIC culture = neapolitan }
 1282.1.1 = { owner = NAP controller = NAP add_core = NAP remove_core = SIC }

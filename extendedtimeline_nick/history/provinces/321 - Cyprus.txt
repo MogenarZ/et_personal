@@ -36,7 +36,7 @@ add_core = ROM
 683.1.1 = { owner = BYZ controller = BYZ remove_core = UMA }
 688.1.1 = { base_tax = 4 } # All taxes collected were to be divided between the Arabs and the Emperor
 800.1.1 = { base_tax = 5 base_production = 5 }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 1000.1.1 = { base_tax = 6 base_production = 6 }
 1185.1.1 = { owner = CYP controller = CYP add_core = CYP capital = "Nicosia" }
 1191.5.1 = { owner = ENG controller = ENG add_core = ENG }

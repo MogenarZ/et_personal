@@ -27,7 +27,7 @@ discovered_by = western
 570.1.1 = { religion = tengri_pagan_reformed }
 620.1.1 = { culture = serbian }
 804.1.1 = { owner = BUL controller = BUL add_core = BUL remove_core = AVR }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 900.1.1 = { base_tax = 2 base_production = 2 }
 1003.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = BUL capital = "Zrenjanin" }
 1200.1.1 = { culture = hungarian }

@@ -34,7 +34,7 @@ add_core = ERG
 645.1.1 = { owner = MRC controller = MRC add_core = MRC }
 648.1.1 = { owner = WSX controller = WSX remove_core = MRC religion = chalcedonism }
 750.1.1 = { base_manpower = 2 }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 927.1.1 = { owner = ENG controller = ENG add_core = ENG capital = "Salesberie" }
 1027.1.1 = { remove_core = WSX }
 1066.12.25 = { culture = english }

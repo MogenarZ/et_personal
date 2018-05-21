@@ -26,7 +26,7 @@ base_manpower = 2
 659.1.1 = { owner = MVA controller = MVA add_core = MVA remove_core = SAZ }
 700.1.1 = { base_tax = 3 base_production = 3 }
 831.1.1 = { religion = chalcedonism }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 902.1.1 = { owner = HUN controller = HUN add_core = HUN add_core = BOH }
 955.1.1 = { owner = BOH controller = BOH remove_core = HUN }
 962.2.2 = { hre = yes }

@@ -33,7 +33,7 @@ add_core = ODR
 812.1.1 = { owner = BUL controller = BUL }
 834.1.1 = { add_core = BUL culture = bulgarian }
 856.1.1 = { owner = BYZ controller = BYZ }
-867.1.1 = { religion = orthodox }
+1054.7.20 = { religion = orthodox }
 894.1.1 = { owner = BUL controller = BUL add_core = BUL }
 900.1.1 = { base_manpower = 2 }
 969.1.1 = { owner = BYZ controller = BYZ add_core = BYZ }

@@ -37,7 +37,7 @@ discovered_by = eastern
 700.1.1 = { culture = hessian }
 840.6.21 = { owner = FRM controller = FRM add_core = FRM remove_core = FRK }
 855.9.30 = { owner = LOT controller = LOT add_core = LOT remove_core = FRM }
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 870.8.8 = { owner = FRE controller = FRE add_core = FRE remove_core = LOT }
 911.11.10 = { owner = LOT controller = LOT add_core = LOT add_core = TRI remove_core = FRE }
 959.1.1 = { owner = TRI controller = TRI remove_core = LOT }
