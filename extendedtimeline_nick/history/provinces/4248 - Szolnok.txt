@@ -1,4 +1,4 @@
-#153 - Pest
+﻿#153 - Pest
  
 owner = IAZ
 controller = IAZ
@@ -27,7 +27,8 @@ discovered_by = western
 800.1.1 = { base_tax = 2 base_production = 2 }
 804.1.1 = { owner = BUL controller = BUL add_core = BUL remove_core = AVR }
 884.1.1 = { owner = MVA controller = MVA add_core = MVA remove_core = BUL }
-897.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = MVA culture = hungarian }
+897.1.1 = { owner = MGY controller = MGY add_core = MGY remove_core = MVA culture = hungarian }
+900.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = MGY }
 1000.1.1 = { base_manpower = 2 }
 1010.1.1 = { religion = catholic }
 1200.1.1 = { base_tax = 3 base_production = 3 }

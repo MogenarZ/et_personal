@@ -27,7 +27,8 @@ base_manpower = 1
 567.1.1 = { owner = AVR controller = AVR add_core = AVR remove_core = GEP culture = avar religion = tengri_pagan_reformed }
 700.1.1 = { base_tax = 2 base_production = 2 }
 804.1.1 = { owner = BUL controller = BUL add_core = BUL remove_core = AVR }
-850.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = BUL culture = hungarian }
+850.1.1 = { owner = MGY controller = MGY add_core = MGY remove_core = BUL culture = hungarian }
+900.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = MGY }
 1050.1.1 = { religion = catholic }
 
 1506.1.1 = { revolt = { type = anti_tax_rebels size = 0.5 } controller = REB } # Szekely rebellion

@@ -27,9 +27,9 @@ add_core = ANE
 370.1.1 = { owner = HNS controller = HNS add_core = HNS remove_core = GOS religion = tengri_pagan_reformed }
 469.1.1 = { owner = ANE controller = ANE add_core = ANE remove_core = HNS religion = slavic }
 560.1.1 = { owner = AVR controller = AVR add_core = AVR remove_core = ANE religion = tengri_pagan_reformed }
-760.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = AVR }
+760.1.1 = { owner = MGY controller = MGY add_core = MGY remove_core = AVR }
 800.1.1 = { base_tax = 2 base_production = 2 }
-900.1.1 = { owner = KRU controller = KRU add_core = KRU add_core = UKR remove_core = HUN }
+900.1.1 = { owner = KRU controller = KRU add_core = KRU add_core = UKR remove_core = MGY }
 930.1.1 = { owner = PEC controller = PEC add_core = PEC remove_core = KRU }
 960.1.1 = { religion = orthodox }
 1000.1.1 = { base_manpower = 2 }

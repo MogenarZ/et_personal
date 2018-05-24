@@ -36,8 +36,8 @@ add_core = ROM
 370.1.1 = { owner = HNS controller = HNS add_core = HNS remove_core = GOS religion = tengri_pagan_reformed }
 469.1.1 = { owner = BUL controller = BUL add_core = BUL remove_core = HNS culture = bulgarian capital = "Azow" }
 700.1.1 = { base_manpower = 2 }
-720.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = BUL }
-750.1.1 = { owner = KHZ controller = KHZ add_core = KHZ remove_core = HUN culture = khazar }
+720.1.1 = { owner = MGY controller = MGY add_core = MGY remove_core = BUL }
+750.1.1 = { owner = KHZ controller = KHZ add_core = KHZ remove_core = MGY culture = khazar }
 900.1.1 = { base_tax = 3 base_production = 3 }
 969.1.1 = { owner = PEC controller = PEC add_core = PEC remove_core = KHZ culture = cuman }
 1060.1.1 = { owner = CUM controller = CUM add_core = CUM add_core = ZAZ remove_core = PEC capital = "Azaq" }

@@ -27,8 +27,8 @@ capital = "Sich"
 370.1.1 = { owner = HNS controller = HNS add_core = HNS remove_core = GOS culture = hunnic }
 469.1.1 = { owner = AVR controller = AVR add_core = AVR remove_core = HNS culture = avar }
 632.1.1 = { owner = BUL controller = BUL add_core = BUL remove_core = AVR culture = bulgarian }
-750.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = BUL culture = hungarian }
-870.1.1 = { owner = PEC controller = PEC add_core = PEC remove_core = HUN culture = cuman }
+750.1.1 = { owner = MGY controller = MGY add_core = MGY remove_core = BUL culture = hungarian }
+870.1.1 = { owner = PEC controller = PEC add_core = PEC remove_core = MGY culture = cuman }
 900.1.1 = { base_manpower = 2 }
 1060.1.1 = { owner = CUM controller = CUM add_core = CUM remove_core = PEC }
 1220.1.1 = { culture = ruthenian }

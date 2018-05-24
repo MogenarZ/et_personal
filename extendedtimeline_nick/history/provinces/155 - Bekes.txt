@@ -27,7 +27,8 @@ base_manpower = 2
 804.1.1 = { owner = BUL controller = BUL add_core = BUL remove_core = AVR }
 880.1.1 = { religion = catholic }
 884.1.1 = { owner = MVA controller = MVA add_core = MVA remove_core = BUL }
-897.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = MVA culture = hungarian }
+897.1.1 = { owner = MGY controller = MGY add_core = MGY remove_core = MVA culture = hungarian }
+900.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = MGY }
 
 1506.1.1 = { revolt = { type = anti_tax_rebels size = 0 } controller = REB } # Szekely rebellion
 1507.1.1 = { revolt = {} controller = HUN } # Estimated

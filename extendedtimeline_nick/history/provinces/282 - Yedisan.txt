@@ -34,7 +34,8 @@ capital = "Olbia"
 370.1.1 = { owner = HNS controller = HNS add_core = HNS remove_core = GOS culture = hunnic capital = "Hajibey" }
 469.1.1 = { owner = AVR controller = AVR add_core = AVR remove_core = HNS culture = avar }
 632.1.1 = { owner = BUL controller = BUL add_core = BUL remove_core = AVR culture = bulgarian }
-770.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = BUL culture = hungarian }
+770.1.1 = { owner = MGY controller = MGY add_core = MGY remove_core = BUL culture = hungarian }
+900.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = MGY }
 902.1.1 = { owner = KHZ controller = KHZ add_core = KHZ remove_core = HUN culture = ruthenian }
 969.1.1 = { owner = PEC controller = PEC add_core = PEC remove_core = HUN }
 950.1.1 = { base_tax = 2 base_production = 2 }

@@ -27,8 +27,8 @@ base_manpower = 1
 623.1.1 = { owner = SAZ controller = SAZ add_core = SAZ remove_core = HER }
 659.1.1 = { owner = AVR controller = AVR add_core = AVR remove_core = SAZ }
 700.1.1 = { base_tax = 2 base_production = 2 }
-804.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = AVR }
-833.1.1 = { owner = MVA controller = MVA add_core = MVA }
+804.1.1 = { owner = MGY controller = MGY add_core = MGY remove_core = AVR }
+833.1.1 = { owner = MVA controller = MVA add_core = MVA remove_core = MGY }
 900.1.1 = { base_tax = 3 base_production = 3 }
 902.1.1 = { owner = BOH controller = BOH add_core = BOH }
 940.1.1 = { religion = catholic }

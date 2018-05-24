@@ -24,8 +24,8 @@ base_manpower = 1
 365.1.1 = { owner = HER controller = HER add_core = HER remove_core = GEP }
 500.1.1 = { culture = polish }
 568.1.1 = { owner = AVR controller = AVR add_core = AVR remove_core = HER religion = tengri_pagan_reformed }
-804.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = AVR }
-880.1.1 = { owner = POL controller = POL add_core = POL remove_core = HUN }
+804.1.1 = { owner = MGY controller = MGY add_core = MGY remove_core = AVR }
+880.1.1 = { owner = POL controller = POL add_core = POL remove_core = MGY }
 900.1.1 = { base_tax = 2 base_production = 2 }
 940.1.1 = { religion = catholic }
 981.1.1 = { owner = KRU controller = KRU add_core = KRU }

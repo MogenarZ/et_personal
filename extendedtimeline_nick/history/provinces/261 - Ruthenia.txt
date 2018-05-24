@@ -22,7 +22,8 @@ base_manpower = 1
 
 567.1.1 = { owner = AVR controller = AVR add_core = AVR remove_core = GEP culture = avar religion = tengri_pagan_reformed }
 800.1.1 = { base_tax = 2 base_production = 2 }
-804.1.1 = { owner = HUN controller = HUN add_core = HUN add_core = UKR remove_core = AVR }
+804.1.1 = { owner = MGY controller = MGY add_core = MGY add_core = UKR remove_core = AVR }
+900.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = MGY }
 960.1.1 = { owner = POL controller = POL add_core = POL remove_core = HUN culture = polish religion = slavic }
 981.1.1 = { owner = KRU controller = KRU add_core = KRU remove_core = POL culture = ruthenian }
 988.1.1 = { religion = orthodox }
