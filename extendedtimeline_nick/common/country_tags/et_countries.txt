@@ -262,6 +262,8 @@ VYA	= "countries/Vyatihs.txt"
 ANC	= "countries/Antioch.txt"
 EDE	= "countries/Edessa.txt"
 TPL	= "countries/CountyOfTripoli.txt"
+TEM	= "countries/KnightsTemplar.txt"
+CIL	= "countries/Cilicia.txt"
 
 #Arabia	
 ADX	= "countries/Ad.txt"
