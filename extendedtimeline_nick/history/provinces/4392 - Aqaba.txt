@@ -45,7 +45,8 @@ add_core = NAB
 905.1.10 = { owner = ABA controller = ABA add_core = ABA }
 935.8.26 = { owner = EGY controller = EGY add_core = EGY remove_core = ABA }
 970.3.1  = { owner = FAT controller = FAT add_core = FAT remove_core = EGY }
-1171.1.1 = { owner = EGY controller = EGY add_core = EGY remove_core = FAT }
+1135.1.1 = { owner = TEM controller = TEM add_core = TEM add_core = KOJ }
+1171.1.1 = { owner = EGY controller = EGY add_core = EGY remove_core = TEM }
 1250.5.2 = { owner = MAM controller = MAM add_core = MAM remove_core = EGY }
 
 1516.8.24 = {	owner = TUR

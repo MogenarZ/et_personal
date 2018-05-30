@@ -29,11 +29,11 @@ add_core = CAP
 350.1.1 = { religion = chalcedonism }
 337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
-1054.7.20 = { religion = orthodox }
+867.1.1 = { religion = orthodox }
 950.1.1 = { culture = greek }
 1120.1.1 = { owner = RUM controller = RUM add_core = RUM culture = turkish fort_15th = yes }
-1198.1.1 = { owner = ARM controller = ARM add_core = ARM remove_core = RUM }
-1256.1.1 = { owner = RUM controller = RUM add_core = RUM remove_core = ARM capital = "Ermenek" }
+1198.1.1 = { owner = CIL controller = CIL add_core = CIL remove_core = RUM }
+1256.1.1 = { owner = RUM controller = RUM add_core = RUM remove_core = CIL capital = "Ermenek" }
 1270.1.1 = { religion = sunni remove_core = BYZ }
 1275.1.1 = { owner = KAR controller = KAR add_core = KAR remove_core = RUM }
 1
