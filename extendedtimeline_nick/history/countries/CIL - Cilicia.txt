@@ -1,0 +1,224 @@
+government = despotic_monarchy
+mercantilism = 0.1
+primary_culture = armenian
+religion = coptic
+technology_group = middle_eastern
+capital = 419	# Yerevan
+
+1042.1.1 = {
+	monarch = {
+		name = "Gagik II"
+		dynasty = "Bagratuni"
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+
+1174.1.1 = {
+	monarch = {
+		name = "Hovhannes II"
+		dynasty = "Artsakh"
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+
+1214.1.1 = {
+	monarch = {
+		name = "Hasan-Jalal"
+		dynasty = "Artsakh"
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1260.1.1 = {
+	monarch = {
+		name = "Shanshe"
+		dynasty = "Zakarid"
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+
+1320.1.1 = {
+	monarch = {
+		name = "Ivane" #Unknown
+		dynasty = "Zakarid"
+		adm = 2
+		dip = 1
+		mil = 2
+	}
+}
+
+#Erivan Khanate
+1745.1.1 = {
+	monarch = {
+		name = "Mehdi"
+		dynasty = "Qasemlu"
+		adm = 3
+		dip = 2
+		mil = 1
+	}
+	religion = sunni
+	religious_school = hanafi_school
+}
+
+1748.1.1 = {
+	monarch = {
+		name = "Hasan"
+		dynasty = "Aliid"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1750.1.1 = {
+	monarch = {
+		name = "Huseyn"
+		dynasty = "Aliid"
+		adm = 4
+		dip = 1
+		mil = 1
+	}
+}
+
+1755.1.1 = {
+	monarch = {
+		name = "Hasan"
+		dynasty = "Qajar"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1762.1.1 = {
+	monarch = {
+		name = "Huseyn"
+		dynasty = "Aliid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1784.1.1 = {
+	monarch = {
+		name = "Qulam"
+		dynasty = "Aliid"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+
+1804.1.1 = {
+	monarch = {
+		name = "Mehdi"
+		dynasty = "Qoli"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1806.1.1 = {
+	monarch = {
+		name = "Muhammed"
+		dynasty = "Maragai"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+1807.1.1 = {
+	monarch = {
+		name = "Hossein"
+		dynasty = "Qajar"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+
+1850.1.1 = { government = parliamentary_republic religion = coptic }
+1910.1.1 = { religion = secularism }
+
+1918.5.28 = {
+	monarch = {
+		name = "Hovhannes Katchaznouni"
+		adm = 4
+		dip = 4
+		mil = 2
+		religion = coptic
+	}
+}
+
+1919.5.28 = {
+	monarch = {
+		name = "Alexander Khatisyan"
+		adm = 3
+		dip = 3
+		mil = 4
+		religion = coptic
+	}
+}
+
+1920.5.5 = {
+	monarch = {
+		name = "Hamo Ohanjanyan"
+		adm = 2
+		dip = 4
+		mil = 4
+		religion = coptic
+	}
+}
+
+1920.11.25 = {
+	monarch = {
+		name = "Simon Vratsian"
+		adm = 4
+		dip = 4
+		mil = 1
+		religion = coptic
+	}
+}
+
+1930.1.1 = { government = constitutional_republic }
+
+1991.9.21 = {
+	monarch = {
+		name = "Levon Ter-Petrossian"
+		adm = 4
+		dip = 3
+		mil = 4
+		religion = coptic
+	}
+}
+
+1998.2.4 = {
+	monarch = {
+		name = "Robert Kocharyan"
+		adm = 3
+		dip = 5
+		mil = 3
+		religion = coptic
+	}
+}
+
+2008.4.9 = {
+	monarch = {
+		name = "Serzh Sargsyan"
+		adm = 5
+		dip = 3
+		mil = 2
+		religion = coptic
+	}
+}
