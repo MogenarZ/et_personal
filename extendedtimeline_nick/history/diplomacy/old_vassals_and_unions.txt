@@ -1,3 +1,16 @@
+#Crusader vassals
+vassal = {
+	first = KOJ
+	second = KNI
+	start_date = 1135.1.1
+	end_date = 1187.10.2
+}
+vassal = {
+	first = KOJ
+	second = TEM
+	start_date = 1135.1.1
+	end_date = 1197.10.2
+}
 
 #Roman vassals
 union = {
