@@ -1,0 +1,150 @@
+government = monastic_order_government
+government_rank = 1
+#aristocracy_plutocracy = -5
+#centralization_decentralization = 1
+#innovative_narrowminded = 2
+#mercantilism_freetrade = -2
+mercantilism = 0.1
+#offensive_defensive = 2
+#land_naval = 1
+#quality_quantity = -5
+#serfdom_freesubjects = -3
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 587
+
+1119.1.1 = {
+	monarch = {
+		name = "Hugues de Payens"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1136.24.5 = {
+	monarch = {
+		name = "Robert de Craon"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1147.14.1 = {
+	monarch = {
+		name = "Everard des Barres"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1151.1.1 = {
+	monarch = {
+		name = "Bernard de Tremelay"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1153.8.17 = {
+	monarch = {
+		name = "André de Montbard"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1156.1.18 = {
+	monarch = {
+		name = "Bertrand de Blanchefort"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1169.1.1 = {
+	monarch = {
+		name = "Philip of Milly"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1171.1.1 = {
+	monarch = {
+		name = "Odo de St Amand"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1181.1.1 = {
+	monarch = {
+		name = "Arnold of Torroja"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1185.1.1 = {
+	monarch = {
+		name = "Gerard de Ridefort"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1191.1.1 = {
+	monarch = {
+		name = "Robert IV of Sablé"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1193.1.1 = {
+	monarch = {
+		name = "Gilbert Horal"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1200.1.1 = {
+	monarch = {
+		name = "Phillipe de Plessis"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1210.1.1 = {
+	monarch = {
+		name = "Guillaume de Chartres"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+
+1218.1.1 = {
+	monarch = {
+		name = "Peire de Montagut"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
