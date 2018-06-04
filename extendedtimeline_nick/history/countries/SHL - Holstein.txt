@@ -13,7 +13,9 @@ religion = norse_pagan_reformed
 technology_group = western
 capital = 13	# Slesvig
 
-900.1.1 = { religion = catholic }
+900.1.1 = { religion = chalcedonism }
+
+1054.7.20 = { religion = catholic }
 
 1110.1.1 = {
 	monarch = {

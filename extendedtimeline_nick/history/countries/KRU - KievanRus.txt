@@ -86,7 +86,7 @@ capital = 280	# Kiev
 	}
 }
 
-988.1.1 = { religion = orthodox }
+988.1.1 = { religion = chalcedonism }
 
 1015.1.1 = {
 	monarch = {
@@ -107,3 +107,5 @@ capital = 280	# Kiev
 		dip = 5
 	}
 }
+
+1054.7.20 = { religion = orthodox }

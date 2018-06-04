@@ -12,7 +12,7 @@ mercantilism = 0.1
 technology_group = western
 primary_culture = normand
 add_accepted_culture = cosmopolitan_french
-religion = catholic
+religion = chalcedonism
 capital = 168	# Caen
 
 911.1.1 = {
@@ -168,6 +168,8 @@ capital = 168	# Caen
 		mil = 6
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1087.9.9 = {
 	monarch = {

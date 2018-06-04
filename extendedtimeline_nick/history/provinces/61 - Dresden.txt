@@ -28,10 +28,11 @@ base_manpower = 1
 932.1.1 = { owner = SAX controller = SAX add_core = SAX remove_core = SOR }
 940.1.1 = { fort_15th = yes }
 955.1.1 = { owner = BRA controller = BRA add_core = BRA remove_core = SAX }
-960.1.1 = { culture = saxon religion = catholic }
+960.1.1 = { culture = saxon religion = chalcedonism }
 962.2.2 = { hre = yes }
 965.5.20 = { owner = MEI controller = MEI add_core = MEI remove_core = BRA }
 1000.1.1 = { base_tax = 3 base_production = 3 }
+1054.7.20 = { religion = catholic }
 1100.1.1 = { base_tax = 4 base_production = 4 }
 1200.1.1 = { base_tax = 5 base_production = 5 }
 1300.1.1 = { base_tax = 6 base_production = 6 }

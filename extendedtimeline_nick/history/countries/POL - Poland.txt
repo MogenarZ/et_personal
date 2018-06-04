@@ -224,7 +224,7 @@ capital = 254	# Poznan
 	}
 }
 
-966.1.1 = { religion = catholic }
+966.1.1 = { religion = chalcedonism }
 
 967.1.1 = {
 	heir = {
@@ -311,6 +311,8 @@ capital = 254	# Poznan
 		mil = 1
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1058.11.28 = {
 	monarch = {

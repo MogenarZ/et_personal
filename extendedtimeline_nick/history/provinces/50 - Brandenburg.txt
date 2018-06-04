@@ -22,11 +22,12 @@ capital = "Brandenburg an der Havel"
 900.1.1 = { discovered_by = muslim discovered_by = ottoman }
 929.1.1 = { owner = SAX controller = SAX add_core = SAX remove_core = VEL }
 940.1.1 = { culture = saxon }
-948.1.1 = { owner = BRA controller = BRA add_core = BRA remove_core = SAX religion = catholic }
+948.1.1 = { owner = BRA controller = BRA add_core = BRA remove_core = SAX religion = chalcedonism }
 950.1.1 = { fort_15th = yes }
 962.2.2 = { hre = yes }
 #983 - c. 1150 controlled by Slavic peoples
 1000.1.1 = { base_tax = 3 base_production = 3 }
+1054.7.20 = { religion = catholic }
 1100.1.1 = { base_manpower = 3 }
 1200.1.1 = { base_tax = 4 base_production = 4 }
 1237.1.1 = { capital = "Berlin" }

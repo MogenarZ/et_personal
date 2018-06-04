@@ -14,7 +14,8 @@ capital = "Vyazma"
 800.1.1 = { discovered_by = western }
 882.1.1 = { owner = KRU controller = KRU add_core = KRU remove_core = KRI }
 900.1.1 = { base_tax = 2 base_production = 2 }
-1000.1.1 = { religion = orthodox }
+1000.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = orthodox }
 1054.2.20 = { owner = SMO controller = SMO add_core = SMO remove_core = KRU }
 1200.1.1 = { discovered_by = nomad_group }
 

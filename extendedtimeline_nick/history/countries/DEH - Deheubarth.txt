@@ -10,7 +10,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -2
 technology_group = western
 primary_culture = welsh
-religion = catholic
+religion = chalcedonism
 capital = 241	# Glamorgan
 
 920.1.1 = {
@@ -113,6 +113,8 @@ capital = 241	# Glamorgan
 		mil = 2
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1055.1.1 = {
 	monarch = {

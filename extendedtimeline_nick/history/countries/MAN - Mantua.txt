@@ -10,9 +10,11 @@ mercantilism = 0.1
 #quality_quantity = -1
 #serfdom_freesubjects = -2
 primary_culture = romagnan
-religion = catholic
+religion = chalcedonism
 technology_group = western
 capital = 109	# Mantova
+
+1054.7.20 = { religion = catholic }
 
 1273.1.1 = {
 	monarch = {

@@ -10,7 +10,7 @@ mercantilism = 0.1
 #quality_quantity = 0
 #serfdom_freesubjects = 2
 primary_culture = burgundian
-religion = catholic
+religion = chalcedonism
 technology_group = western
 capital = 189	# Nancy
 
@@ -119,6 +119,8 @@ capital = 189	# Nancy
 		mil = 4
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1070.3.6 = {
 	monarch = {

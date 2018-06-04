@@ -3,7 +3,7 @@ government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = saxon
-religion = catholic
+religion = chalcedonism
 capital = 1763	# Lübben
 
 962.2.2 = { government = margraviate elector = yes }
@@ -78,6 +78,8 @@ capital = 1763	# Lübben
 		mil = 4
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1070.1.1 = {
 	heir = {

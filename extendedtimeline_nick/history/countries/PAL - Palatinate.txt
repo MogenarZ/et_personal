@@ -10,7 +10,7 @@ mercantilism = 0.1
 #quality_quantity = 0
 #serfdom_freesubjects = -4
 primary_culture = hessian
-religion = catholic
+religion = chalcedonism
 technology_group = western
 capital = 77	# Pfalz
 
@@ -121,6 +121,8 @@ capital = 77	# Pfalz
 		mil = 3
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1060.7.17 = {
 	monarch = {

@@ -15,7 +15,7 @@ technology_group = eastern
 capital = 1754	# Murom
 
 1010.1.1 = {
-	religion = orthodox primary_culture = russian government = principality
+	religion = chalcedonism primary_culture = russian government = principality
 	monarch = {
 		name = "Sviatoslav"
 		dynasty = "Sviatovich"
@@ -24,6 +24,8 @@ capital = 1754	# Murom
 		mil = 3
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1097.1.1 = {
 	monarch = {

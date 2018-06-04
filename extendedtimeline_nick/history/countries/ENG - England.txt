@@ -2,7 +2,7 @@ government = feudal_monarchy
 mercantilism = 0.1
 technology_group = western
 primary_culture = anglo_saxon
-religion = catholic
+religion = chalcedonism
 capital = 236	# London
 
 national_focus = DIP
@@ -239,6 +239,8 @@ national_focus = DIP
 		mil = 4
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1066.1.5 = {
 	monarch = {

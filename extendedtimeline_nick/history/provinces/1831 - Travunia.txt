@@ -27,7 +27,8 @@ add_core = ROM
 610.1.1 = { add_core = SER culture = serbian religion = slavic capital = "Trebinje" }
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 630.1.1 = { owner = SER controller = SER remove_core = BYZ }
-869.1.1 = { religion = orthodox }
+869.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = orthodox }
 900.1.1 = { base_tax = 2 base_production = 2 }
 969.1.1 = { owner = BYZ controller = BYZ add_core = BYZ add_core = BOS remove_core = SER }
 1050.1.1 = { owner = DOC controller = DOC add_core = DOC }

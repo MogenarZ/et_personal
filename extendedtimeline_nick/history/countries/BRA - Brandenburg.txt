@@ -3,7 +3,7 @@ government_rank = 1
 mercantilism = 0.1
 technology_group = western
 primary_culture = saxon
-religion = catholic
+religion = chalcedonism
 capital = 50	# Berlin
 
 948.1.1 = {
@@ -95,6 +95,8 @@ capital = 50	# Berlin
 		mil = 2
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1056.9.10 = {
 	monarch = {

@@ -25,7 +25,8 @@ discovered_by = western
 860.1.1 = { religion = norse_pagan_reformed }
 902.1.1 = { owner = MTH controller = MTH add_core = MTH }
 917.1.1 = { owner = LOI controller = LOI }
-945.1.1 = { religion = catholic }
+945.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = catholic }
 950.1.1 = { base_tax = 3 base_production = 3 }
 1052.1.1 = { owner = LEI controller = LEI add_core = LEI }
 1091.1.1 = { owner = LOI controller = LOI add_core = LOI }

@@ -10,7 +10,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -5
 technology_group = eastern
 primary_culture = serbian
-religion = orthodox
+religion = chalcedonism
 capital = 138	# Ston
 
 1046.1.1 = {
@@ -22,6 +22,8 @@ capital = 138	# Ston
 		mil = 5
 	}
 }
+
+1054.7.20 = { religion = orthodox }
 
 1081.1.1 = {
 	monarch = {

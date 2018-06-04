@@ -24,8 +24,9 @@ base_manpower = 1
 955.1.1 = { owner = BRA controller = BRA add_core = BRA remove_core = SAX }
 962.2.2 = { hre = yes }
 965.5.20 = { owner = THU controller = THU add_core = THU remove_core = BRA }
-968.1.1 = { religion = catholic culture = saxon }
+968.1.1 = { religion = chalcedonism culture = saxon }
 1000.1.1 = { base_tax = 3 base_production = 3 }
+1054.7.20 = { religion = catholic }
 1200.1.1 = { base_tax = 4 base_production = 4 }
 
 1531.1.1  = { religion = protestant }

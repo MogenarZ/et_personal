@@ -124,7 +124,8 @@ capital = 1827	#Ras
 	}
 }
 
-869.1.1 = { religion = orthodox }
+869.1.1 = { religion = chalcedonism }
+
 930.1.1 = { capital = 1827 } #Ras
 
 930.1.1 = {
@@ -148,6 +149,8 @@ capital = 1827	#Ras
 		mil = 0
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1091.1.1 = { capital = 1827 } #Ras
 

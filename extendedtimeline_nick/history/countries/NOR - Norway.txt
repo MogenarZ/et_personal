@@ -72,7 +72,7 @@ capital = 17	#Akershus
 	}
 }
 
-965.1.1 = { religion = catholic }
+965.1.1 = { religion = chalcedonism }
 
 995.1.1 = {
 	monarch = {
@@ -127,6 +127,8 @@ capital = 17	#Akershus
 		mil = 3
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1066.9.25 = {
 	monarch = {

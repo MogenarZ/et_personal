@@ -51,7 +51,7 @@ capital = 370	#Reykjavik
 	}
 }
 
-999.1.1 = { religion = catholic }
+999.1.1 = { religion = chalcedonism }
 
 1002.1.1 = {
 	monarch = {
@@ -97,6 +97,8 @@ capital = 370	#Reykjavik
 		dip = 2
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1063.1.1 = {
 	monarch = {

@@ -9,9 +9,11 @@ mercantilism = 0.1
 #quality_quantity = 0
 #serfdom_freesubjects = -2
 technology_group = western
-religion = catholic
+religion = chalcedonism
 primary_culture = lombard
 capital = 107	# Brescia
+
+1054.7.20 = { religion = catholic }
 
 1120.1.1 = {
 	monarch = {

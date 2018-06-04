@@ -19,7 +19,8 @@ capital = "Zhytomyr"
 550.1.1 = { owner = DRV controller = DRV add_core = DRV remove_core = ANE }
 800.1.1 = { base_production = 2 }
 860.1.1 = { owner = KRU controller = KRU add_core = KRU add_core = UKR remove_core = DRV }
-960.1.1 = { religion = orthodox }
+960.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = orthodox }
 1054.2.20 = { owner = KIE controller = KIE add_core = KIE remove_core = KRU }
 1100.1.1 = { discovered_by = muslim discovered_by = ottoman }
 1199.1.1 = { remove_core = KIE }

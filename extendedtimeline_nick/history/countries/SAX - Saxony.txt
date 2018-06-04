@@ -204,7 +204,7 @@ capital = 62 # Leipzig
 	}
 }
 
-804.1.1 = { religion = catholic }
+804.1.1 = { religion = chalcedonism }
 900.1.1 = { government_rank = 1 }
 
 911.11.10 = {
@@ -321,6 +321,8 @@ capital = 62 # Leipzig
 		mil = 2
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1059.6.29 = {
 	monarch = {

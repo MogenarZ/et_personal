@@ -16,7 +16,8 @@ native_ferocity = 2
 550.1.1 = { discovered_by = SVE discovered_by = DAN }
 750.1.1 = { discovered_by = western discovered_by = eastern }
 880.1.1 = { owner = GOT controller = GOT add_core = GOT is_city = yes trade_goods = wool }
-1000.1.1 = { base_tax = 3 base_production = 3 religion = catholic }
+1000.1.1 = { base_tax = 3 base_production = 3 religion = chalcedonism }
+1054.7.20 = { religion = catholic }
 1200.1.1 = { base_tax = 4 base_production = 4 discovered_by = muslim discovered_by = ottoman }
 1285.1.1 = { owner = SWE controller = SWE add_core = SWE }
 1300.1.1 = { base_manpower = 2 }

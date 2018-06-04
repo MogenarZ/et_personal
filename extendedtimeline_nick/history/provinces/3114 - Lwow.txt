@@ -32,7 +32,8 @@ base_manpower = 1
 900.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = MGY }
 960.1.1 = { owner = POL controller = POL add_core = POL remove_core = HUN culture = polish religion = slavic }
 981.1.1 = { owner = KRU controller = KRU add_core = KRU remove_core = POL culture = ruthenian }
-988.1.1 = { religion = orthodox }
+988.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = orthodox }
 1000.1.1 = { base_tax = 4 base_production = 4 }
 1054.2.20 = { owner = VOL controller = VOL add_core = VOL add_core = KIE remove_core = KRU }
 1100.1.1 = { base_tax = 5 base_production = 5 }

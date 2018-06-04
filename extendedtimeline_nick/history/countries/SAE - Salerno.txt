@@ -246,3 +246,5 @@ capital = 3131	# Salerno
 		mil = 1
 	}
 }
+
+1054.7.20 = { religion = catholic }

@@ -514,7 +514,7 @@ capital = 246	# Newcastle
 	}
 }
 
-867.1.1 = { religion = catholic government = salic_monarchy }
+867.1.1 = { government = salic_monarchy }
 
 867.3.23 = {
 	monarch = {
@@ -781,5 +781,6 @@ capital = 246	# Newcastle
 	}
 }
 
-954.1.1 = { primary_culture = english religion = catholic }
+954.1.1 = { primary_culture = english religion = chalcedonism }
 962.1.1 = { government = feudal_monarchy }
+1054.7.20 = { religion = catholic }

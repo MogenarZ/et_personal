@@ -27,7 +27,8 @@ add_core = ROM
 610.1.1 = { add_core = SER culture = serbian religion = slavic }
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium
 630.1.1 = { owner = SER controller = SER remove_core = BYZ capital = "Soli" }
-869.1.1 = { religion = orthodox }
+869.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = orthodox }
 960.1.1 = { owner = CRO controller = CRO add_core = CRO remove_core = SER }
 997.1.1 = { owner = BUL controller = BUL add_core = BUL }
 1000.1.1 = { base_tax = 3 base_production = 3 }

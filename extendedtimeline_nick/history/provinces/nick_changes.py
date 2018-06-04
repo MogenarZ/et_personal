@@ -144,6 +144,22 @@ for fil in [fil for fil in os.listdir(os.getcwd()) if ".txt" in fil]:
                 changed = True
                 prov_data = prov_data.replace("867.1.1 = { religion = orthodox }", "1054.7.20 = { religion = orthodox }")
 
+            for religion in ("catholic", "orthodox"):
+                conversion_lines = re.findall("[\d]+\.[\d]+\.[\d]+ \= \{ religion \= "+religion+" \}", prov_data)
+                for line in conversion_lines:
+                    if int(line.split(".")[0]) < 1054:
+                        changed = True
+                        print(fil)
+                        print(line)
+                        print(int(line.split(".")[0]))
+                        new_line = line.replace(religion, "chalcedonism")
+                        other_lines = [lin for lin in re.findall("[\d]+\.[\d]+[\d]+ \= \{ religion \= [\w]+ \}", prov_data) if lin != line]
+                        if any(int(lin.split(".")[0]) >= 869 and int(lin.split(".")[0]) <= 1054 for lin in other_lines):
+                            prov_data = prov_data.replace(line, new_line)
+                        else:
+                            prov_data = prov_data.replace(line, new_line+"\n1054.7.20 = { religion = "+religion+" }")
+                        
+
             
                                               
                 

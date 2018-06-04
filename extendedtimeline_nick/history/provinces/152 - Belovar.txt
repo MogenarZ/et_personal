@@ -29,7 +29,8 @@ add_core = ROM
 630.1.1 = { add_core = CRO culture = croatian religion = slavic capital = "Varazdin" }
 700.1.1 = { base_tax = 2 base_production = 2 }
 790.1.1 = { owner = PNN controller = PNN add_core = PNN remove_core = AVR }
-870.1.1 = { religion = catholic }
+870.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = catholic }
 897.1.1 = { owner = CRO controller = CRO add_core = CRO remove_core = PNN }
 900.1.1 = { base_tax = 3 base_production = 3 }
 1027.1.1 = { owner = HUN controller = HUN add_core = HUN }

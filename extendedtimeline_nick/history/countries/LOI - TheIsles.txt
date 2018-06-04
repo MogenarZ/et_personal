@@ -227,7 +227,7 @@ capital = 253
 	}
 }
 
-945.1.1 = { religion = catholic }
+945.1.1 = { religion = chalcedonism }
 
 950.1.1 = {
 	heir = {
@@ -387,6 +387,8 @@ capital = 253
 		mil = 2
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1070.1.1 = {
 	monarch = {

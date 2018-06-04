@@ -1,9 +1,12 @@
 government = feudal_monarchy
 government_rank = 1
 primary_culture = piedmontese
-religion = catholic
+religion = chalcedonism
 technology_group = western
 capital = 3123	# Montferrat
+
+1054.7.20 = { religion = catholic }
+
 
 #Palaiologos Dynasty
 

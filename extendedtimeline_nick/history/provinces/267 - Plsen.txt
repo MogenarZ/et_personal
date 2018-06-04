@@ -29,9 +29,10 @@ base_manpower = 1
 800.1.1 = { base_tax = 3 base_production = 3 }
 833.1.1 = { owner = MVA controller = MVA add_core = MVA remove_core = HER religion = slavic }
 894.1.1 = { owner = BOH controller = BOH add_core = BOH remove_core = MVA }
-900.1.1 = { religion = catholic fort_15th = yes }
+900.1.1 = { religion = chalcedonism fort_15th = yes }
 962.2.2 = { hre = yes }
 1000.1.1 = { base_tax = 4 base_production = 4 }
+1054.7.20 = { religion = catholic }
 1200.1.1 = { base_tax = 5 base_production = 5 }
 
 1419.12.1 = { unrest = 5 } # Hussite Wars, Battle of Nekmir

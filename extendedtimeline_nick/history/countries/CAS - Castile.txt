@@ -10,7 +10,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = 1
 primary_culture = castillian
 add_accepted_culture = andalucian
-religion = catholic
+religion = chalcedonism
 technology_group = western
 historical_friend = POR
 capital = 219	# Toledo
@@ -126,6 +126,8 @@ national_focus = MIL
 		mil = 3
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1065.12.24 = {
 	monarch = {

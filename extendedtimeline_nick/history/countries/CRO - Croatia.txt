@@ -202,7 +202,7 @@ capital = 131	# Zagreb
 	}
 }
 
-870.1.1 = { religion = catholic }
+870.1.1 = { religion = chalcedonism }
 
 876.1.1 = {
 	monarch = {
@@ -503,6 +503,8 @@ capital = 131	# Zagreb
 		mil = 1
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1058.1.1 = {
 	monarch = {

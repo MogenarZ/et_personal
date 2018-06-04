@@ -16,7 +16,8 @@ native_ferocity = 2
 550.1.1 = { discovered_by = western }
 750.1.1 = { discovered_by = eastern }
 970.1.1 = { owner = SWE controller = SWE add_core = SWE remove_core = GEW }
-1000.1.1 = { religion = catholic }
+1000.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = catholic }
 1200.1.1 = { discovered_by = muslim discovered_by = ottoman }
 
 # 1520.3.6  = { owner = DAN controller = DAN add_core = DAN } # The Council accept Christian II as King

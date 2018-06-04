@@ -2,7 +2,7 @@ government = barbarian_tribe
 mercantilism = 0.1
 primary_culture = cosmopolitan_french
 culture_group_union = french
-religion = catholic
+religion = chalcedonism
 technology_group = barbarian
 historical_rival = BUR
 capital = 183	# Paris
@@ -83,6 +83,8 @@ national_focus = DIP
 		mil = 1
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1060.8.4 = {
 	monarch = {

@@ -10,7 +10,7 @@ mercantilism = 0.1
 #quality_quantity = 0
 #serfdom_freesubjects = -2 
 technology_group = western
-religion = catholic
+religion = chalcedonism
 primary_culture = wallonian
 capital = 1866	# Namur
 
@@ -64,6 +64,8 @@ capital = 1866	# Namur
 		mil = 3
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1102.6.1 = {
 	monarch = {

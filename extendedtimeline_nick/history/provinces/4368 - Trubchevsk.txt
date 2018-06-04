@@ -16,7 +16,8 @@ capital = "Trubchevsk"
 880.1.1 = { owner = KRU controller = KRU add_core = KRU remove_core = SVR }
 900.1.1 = { base_tax = 2 base_production = 2 }
 1000.1.1 = { add_core = CHR }
-1020.1.1 = { religion = orthodox }
+1020.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = orthodox }
 1054.2.20 = { owner = CHR controller = CHR add_core = CHR remove_core = KRU }
 1100.1.1 = { discovered_by = muslim discovered_by = ottoman }
 1310.1.1 = { owner = SMO controller = SMO add_core = SMO }

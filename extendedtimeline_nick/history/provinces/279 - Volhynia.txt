@@ -22,7 +22,8 @@ capital = "Volodymyr"
 500.1.1 = { discovered_by = western discovered_by = eastern }
 550.1.1 = { owner = LDN controller = LDN add_core = LDN remove_core = VNE culture = ruthenian }
 800.1.1 = { base_tax = 2 base_production = 2 }
-960.1.1 = { religion = orthodox }
+960.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = orthodox }
 981.1.1 = { owner = KRU controller = KRU add_core = KRU remove_core = LDN }
 1000.1.1 = { base_manpower = 2 }
 1054.2.20 = { owner = VOL controller = VOL add_core = VOL add_core = KIE remove_core = KRU }

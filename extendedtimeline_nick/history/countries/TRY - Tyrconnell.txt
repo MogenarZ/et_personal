@@ -596,7 +596,7 @@ capital = 4241	# Donegal
 	}
 }
 
-867.1.1 = { religion = catholic }
+1054.7.20 = { religion = catholic }
 
 879.11.20 = {
 	monarch = {

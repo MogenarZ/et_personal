@@ -30,7 +30,8 @@ add_core = SRM
 750.1.1 = { owner = MGY controller = MGY add_core = MGY remove_core = BUL }
 870.1.1 = { owner = PEC controller = PEC add_core = PEC remove_core = MGY }
 900.1.1 = { culture = ruthenian }
-1000.1.1 = { religion = orthodox }
+1000.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = orthodox }
 1060.1.1 = { owner = CUM controller = CUM add_core = CUM remove_core = PEC }
 1241.1.1 = { owner = KHA controller = KHA add_core = KHA add_core = UKR remove_core = CUM }
 1260.1.1 = { owner = GLH controller = GLH remove_core = KHA }

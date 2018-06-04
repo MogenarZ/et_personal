@@ -9,7 +9,8 @@ mercantilism = 0.1
 #quality_quantity = 2
 #serfdom_freesubjects = -4
 technology_group = western
-religion = catholic
+religion = chalcedonism
 primary_culture = swabian
 capital = 1880	# Sundgau
 
+1054.7.20 = { religion = catholic }

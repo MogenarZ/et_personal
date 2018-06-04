@@ -13,8 +13,9 @@ capital = "Yuriev"
 600.1.1 = { owner = MRY controller = MRY add_core = MRY is_city = yes trade_goods = salt }
 900.1.1 = { discovered_by = eastern }
 1000.1.1 = { base_manpower = 2 owner = KRU controller = KRU add_core = KRU remove_core = MRY }
-1040.1.1 = { religion = orthodox culture = russian }
+1040.1.1 = { religion = chalcedonism culture = russian }
 1054.2.20 = { owner = VLA controller = VLA add_core = VLA remove_core = KRU }
+1054.7.20 = { religion = orthodox }
 1100.1.1 = { base_tax = 3 base_production = 3 discovered_by = western }
 1200.1.1 = { discovered_by = nomad_group discovered_by = GLH }
 1389.1.1 = { owner = MOS controller = MOS add_core = MOS }

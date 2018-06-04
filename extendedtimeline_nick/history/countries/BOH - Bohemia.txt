@@ -1,7 +1,7 @@
 government = feudal_monarchy
 mercantilism = 0.1
 primary_culture = czech
-religion = catholic
+religion = chalcedonism
 capital = 266	# Praha
 technology_group = western
 
@@ -222,6 +222,8 @@ technology_group = western
 		mil = 3
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1055.1.10 = {
 	monarch = {

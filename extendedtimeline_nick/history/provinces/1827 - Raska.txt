@@ -34,7 +34,8 @@ add_core = ROM
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
 630.1.1 = { owner = SER controller = SER remove_core = BYZ }
 800.1.1 = { base_tax = 2 base_production = 2 }
-873.1.1 = { religion = orthodox }
+873.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = orthodox }
 924.1.1 = { owner = BUL controller = BUL add_core = BUL }
 930.1.1 = { owner = SER controller = SER remove_core = BUL }
 969.1.1 = { owner = BYZ controller = BYZ add_core = BYZ }

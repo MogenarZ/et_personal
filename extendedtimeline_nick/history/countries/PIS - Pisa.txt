@@ -9,7 +9,7 @@ mercantilism = 0.1
 #quality_quantity = -1
 #serfdom_freesubjects = -2
 primary_culture = tuscan
-religion = catholic
+religion = chalcedonism
 technology_group = western
 capital = 115	# Pisa
 
@@ -30,6 +30,8 @@ capital = 115	# Pisa
 		mil = 3
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1077.1.1 = {
 	monarch = {

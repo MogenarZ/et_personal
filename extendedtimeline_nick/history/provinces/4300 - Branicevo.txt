@@ -35,7 +35,8 @@ add_core = ROM
 630.1.1 = { owner = SER controller = SER remove_core = BYZ }
 800.1.1 = { base_tax = 2 base_production = 2 }
 827.1.1 = { owner = BUL controller = BUL add_core = BUL }
-869.1.1 = { religion = orthodox }
+869.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = orthodox }
 1014.1.1 = { owner = BYZ controller = BYZ add_core = BYZ remove_core = BUL }
 1091.1.1 = { owner = SER controller = SER remove_core = BYZ }
 1100.1.1 = { base_tax = 3 base_production = 3 }

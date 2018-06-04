@@ -28,7 +28,8 @@ base_manpower = 2
 833.1.1 = { owner = MVA controller = MVA add_core = MVA remove_core = SLO }
 850.1.1 = { fort_15th = yes }
 902.1.1 = { owner = HUN controller = HUN remove_core = MVA capital = "Hont" }
-950.1.1 = { religion = catholic }
+950.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = catholic }
 1000.1.1 = { base_tax = 3 base_production = 3 }
 
 1432.1.1 = { unrest = 10 } # The city is attacked by Hussites

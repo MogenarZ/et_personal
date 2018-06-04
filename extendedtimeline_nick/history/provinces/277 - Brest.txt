@@ -14,8 +14,9 @@ capital = "Brest-Litovsk"
 700.1.1 = { base_tax = 2 base_production = 2 discovered_by = western }
 900.1.1 = { base_tax = 3 base_production = 3 }
 981.1.1 = { owner = KRU controller = KRU add_core = KRU remove_core = LDN }
-1000.1.1 = { base_manpower = 2 religion = orthodox }
+1000.1.1 = { base_manpower = 2 religion = chalcedonism }
 1054.2.20 = { owner = VOL controller = VOL add_core = VOL remove_core = KRU }
+1054.7.20 = { religion = orthodox }
 1100.1.1 = { discovered_by = muslim discovered_by = ottoman }
 1200.1.1 = { discovered_by = nomad_group }
 1323.1.1 = { owner = LIT controller = LIT add_core = LIT remove_core = VOL }

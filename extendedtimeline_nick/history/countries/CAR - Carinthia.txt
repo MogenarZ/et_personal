@@ -16,7 +16,7 @@ capital = 1768	# Sankt Veit an der Glan
 	}
 }
 
-745.1.1 = { primary_culture = austrian religion = catholic }
+745.1.1 = { primary_culture = austrian }
 
 976.1.1 = {
 	monarch = {
@@ -87,6 +87,8 @@ capital = 1768	# Sankt Veit an der Glan
 		mil = 4
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1055.11.13 = {
 	monarch = {

@@ -14,7 +14,8 @@ capital = "Murom"
 800.1.1 = { base_tax = 2 base_production = 2 }
 900.1.1 = { base_manpower = 2 discovered_by = eastern }
 1000.1.1 = { base_tax = 3 base_production = 3 }
-1010.1.1 = { religion = orthodox culture = russian }
+1010.1.1 = { religion = chalcedonism culture = russian }
+1054.7.20 = { religion = orthodox }
 1100.1.1 = { base_manpower = 3 discovered_by = western }
 1200.1.1 = { base_tax = 4 base_production = 4 discovered_by = nomad_group discovered_by = GLH }
 1239.1.1 = { owner = KHA controller = KHA }

@@ -10,7 +10,7 @@ mercantilism = 0.1
 #serfdom_freesubjects = -4
 technology_group = western
 primary_culture = franconian
-religion = catholic
+religion = chalcedonism
 capital = 67	# Franken
 
 906.1.1 = {
@@ -145,6 +145,8 @@ capital = 67	# Franken
 		mil = 0
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1056.10.5 = {
 	monarch = {

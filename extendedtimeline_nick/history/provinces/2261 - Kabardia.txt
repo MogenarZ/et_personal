@@ -25,7 +25,8 @@ base_manpower = 1
 650.1.1 = { owner = KHZ controller = KHZ add_core = KHZ remove_core = ALA }
 900.1.1 = { religion = jewish }
 1048.1.1 = { owner = CUM controller = CUM add_core = CUM remove_core = KHZ }
-1054.1.1 = { religion = orthodox }
+1054.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = orthodox }
 1100.1.1 = { base_manpower = 2 }
 1236.1.1 = { owner = KHA controller = KHA add_core = KHA add_core = CIR remove_core = CUM }
 1260.1.1 = { owner = GLH controller = GLH add_core = GLH remove_core = KHA }

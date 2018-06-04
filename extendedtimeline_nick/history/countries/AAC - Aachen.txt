@@ -2,7 +2,7 @@ government = imperial_city
 government_rank = 1
 mercantilism = 0.1
 technology_group = western
-religion = catholic
+religion = chalcedonism
 primary_culture = hessian
 capital = 1878	# Aachen
 
@@ -16,6 +16,8 @@ capital = 1878	# Aachen
 		mil = 4
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1798.1.1 = { government = constitutional_republic }
 

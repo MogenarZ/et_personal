@@ -10,7 +10,7 @@ mercantilism = 0.1
 #quality_quantity = 0
 #serfdom_freesubjects = -4
 technology_group = western
-religion = catholic
+religion = chalcedonism
 primary_culture = swabian
 capital = 70	# Stuttgart
 
@@ -156,6 +156,8 @@ capital = 70	# Stuttgart
 		mil = 5
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1057.6.1 = {
 	monarch = {

@@ -1,7 +1,7 @@
 government = feudal_monarchy
 mercantilism = 0.1
 primary_culture = leonese
-religion = catholic
+religion = chalcedonism
 technology_group = western
 capital = 208 #Leon
 
@@ -128,6 +128,8 @@ capital = 208 #Leon
 		mil = 5
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1065.12.24 = {
 	monarch = {

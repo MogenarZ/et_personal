@@ -584,7 +584,7 @@ capital = 12	#Sjaelland
 	}
 }
 
-965.1.1 = { religion = catholic }
+965.1.1 = { religion = chalcedonism }
 
 985.11.1 = {
 	monarch = {
@@ -691,6 +691,8 @@ capital = 12	#Sjaelland
 		mil = 3
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1074.4.28 = {
 	monarch = {

@@ -30,7 +30,8 @@ discovered_by = western
 897.1.1 = { owner = MGY controller = MGY add_core = MGY remove_core = MVA culture = hungarian }
 900.1.1 = { owner = HUN controller = HUN add_core = HUN remove_core = MGY }
 1000.1.1 = { base_manpower = 2 }
-1010.1.1 = { religion = catholic }
+1010.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = catholic }
 1200.1.1 = { base_tax = 3 base_production = 3 }
 
 1506.1.1 = { revolt = { type = anti_tax_rebels size = 1.5 } controller = REB } # Szekely rebellion

@@ -19,7 +19,8 @@ base_manpower = 1
 600.1.1 = { base_manpower = 2 }
 700.1.1 = { discovered_by = western }
 800.1.1 = { base_tax = 2 base_production = 2 }
-997.1.1 = { religion = catholic }
+997.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = catholic }
 1000.1.1 = { base_manpower = 3 }
 1104.1.1 = { owner = POL controller = POL add_core = POL }
 1124.1.1 = { owner = POM controller = POM }

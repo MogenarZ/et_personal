@@ -16,7 +16,8 @@ native_ferocity = 2
 700.1.1 = { owner = HAL controller = HAL add_core = HAL is_city = yes trade_goods = fish }
 872.1.1 = { owner = NOR controller = NOR add_core = NOR remove_core = HAL }
 950.1.1 = { discovered_by = western discovered_by = eastern }
-1000.1.1 = { religion = catholic }
+1000.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = catholic }
 
 1531.11.15 = { unrest = 10 } # The Return of Christian II
 1532.7.15  = { unrest = 0 } # The Capture of Christian II

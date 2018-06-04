@@ -10,7 +10,7 @@ mercantilism = 0.1
 #quality_quantity = 0
 #serfdom_freesubjects = -4
 primary_culture = saxon
-religion = catholic
+religion = chalcedonism
 technology_group = western
 capital = 52	# Magdeburg
 
@@ -31,6 +31,8 @@ capital = 52	# Magdeburg
 		mil = 2
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1064.1.1 = {
 	monarch = {

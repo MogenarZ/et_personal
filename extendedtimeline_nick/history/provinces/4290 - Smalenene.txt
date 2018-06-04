@@ -16,7 +16,8 @@ native_ferocity = 2
 549.1.1 = { discovered_by = SVE discovered_by = DAN discovered_by = HAL discovered_by = AGD discovered_by = VES }
 550.1.1 = { owner = VES controller = VES add_core = VES is_city = yes discovered_by = western discovered_by = eastern trade_goods = naval_supplies }
 872.1.1 = { owner = NOR controller = NOR add_core = NOR remove_core = VES }
-1030.1.1 = { religion = catholic }
+1030.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = catholic }
 1200.1.1 = { discovered_by = muslim discovered_by = ottoman }
 
 1531.11.1 = { unrest = 7 } # The Return of Christian II

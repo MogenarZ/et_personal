@@ -167,7 +167,7 @@ capital = 463	# Alania
 	}
 }
 
-932.1.1 = { religion = orthodox }
+932.1.1 = { religion = chalcedonism }
 
 950.1.1 = {
 	monarch = {
@@ -188,6 +188,8 @@ capital = 463	# Alania
 		mil = 4
 	}
 }
+
+1054.7.20 = { religion = orthodox }
 
 1060.1.1 = {
 	monarch = {

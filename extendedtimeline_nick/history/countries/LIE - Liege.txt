@@ -9,7 +9,7 @@ mercantilism = 0.1
 #quality_quantity = 0
 #serfdom_freesubjects = -2
 technology_group = western
-religion = catholic
+religion = chalcedonism
 primary_culture = wallonian
 capital = 93	# Liège
 
@@ -84,6 +84,8 @@ capital = 93	# Liège
 		mil = 5
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1075.1.1 = {
 	monarch = {

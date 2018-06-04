@@ -30,7 +30,8 @@ base_manpower = 2
 560.1.1 = { owner = AVR controller = AVR add_core = AVR remove_core = ANE culture = avar }
 780.1.1 = { owner = MGY controller = MGY add_core = MGY remove_core = AVR culture = hungarian }
 810.1.1 = { owner = BUL controller = BUL add_core = BUL remove_core = MGY culture = bulgarian }
-880.1.1 = { religion = orthodox }
+880.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = orthodox }
 900.1.1 = { base_tax = 3 base_production = 3 }
 950.1.1 = { owner = PEC controller = PEC add_core = PEC remove_core = BUL culture = romanian }
 1000.1.1 = { base_tax = 4 base_production = 4 }

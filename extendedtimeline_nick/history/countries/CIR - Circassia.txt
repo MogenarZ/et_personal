@@ -2,9 +2,11 @@ government = tribal_kingdom
 government_rank = 1
 mercantilism = 0.1
 primary_culture = circassian
-religion = orthodox
+religion = chalcedonism
 technology_group = eastern
 capital = 2260 # Circassia
+
+1054.7.20 = { religion = orthodox }
 
 # Being a confederation, there were a lot of Princes that ruled small areas with no significant leader, other than maybe Petrezok.  They banded together for defense when needed.
 

@@ -8,7 +8,7 @@ mercantilism = 0.1
 #quality_quantity = -1
 #serfdom_freesubjects = -2
 technology_group = western
-religion = catholic
+religion = chalcedonism
 primary_culture = sicilian
 capital = 125	# Palermo
 
@@ -87,6 +87,8 @@ capital = 125	# Palermo
 		mil = 4
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1057.8.1 = {
 	monarch = {

@@ -2,7 +2,7 @@ government = feudal_monarchy
 government_rank = 1
 mercantilism = 0.1
 primary_culture = saxon
-religion = catholic
+religion = chalcedonism
 technology_group = western
 capital = 59	# Meissen
 
@@ -195,6 +195,8 @@ capital = 59	# Meissen
 		mil = 3
 	}
 }
+
+1054.7.20 = { religion = catholic }
 
 1062.1.1 = {
 	monarch = {

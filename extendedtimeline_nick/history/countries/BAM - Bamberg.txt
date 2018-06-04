@@ -11,9 +11,10 @@ mercantilism = 0.1
 #serfdom_freesubjects = -4
 technology_group = western
 primary_culture = bavarian
-religion = catholic
+religion = chalcedonism
 capital = 66	# Bamberg
 
+1054.7.20 = { religion = catholic }
 
 1242.6.1 = {
 	monarch = {

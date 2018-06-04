@@ -38,7 +38,7 @@ base_manpower = 2
 700.1.1 = { base_manpower = 4 }
 800.1.1 = { base_tax = 4 base_production = 4 }
 1054.7.20 = { religion = catholic }
-880.1.1 = { fort_15th = yes religion = catholic }
+880.1.1 = { fort_15th = yes religion = chalcedonism }
 894.1.1 = { owner = BOH controller = BOH add_core = BOH remove_core = MVA }
 900.1.1 = { base_tax = 5 base_production = 5 }
 962.2.2 = { hre = yes }

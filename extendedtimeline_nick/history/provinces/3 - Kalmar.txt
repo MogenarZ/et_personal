@@ -17,7 +17,8 @@ native_ferocity = 2
 600.1.1 = { discovered_by = eastern }
 800.1.1 = { base_tax = 2 base_production = 2 }
 970.1.1 = { owner = SWE controller = SWE add_core = SWE remove_core = GEE }
-1000.1.1 = { religion = catholic }
+1000.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = catholic }
 1100.1.1 = { fort_15th = yes } # Kalmar Slott
 1200.1.1 = { discovered_by = muslim discovered_by = ottoman }
 

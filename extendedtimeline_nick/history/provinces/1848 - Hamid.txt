@@ -23,6 +23,7 @@ add_core = ROM
 380.1.1 = { religion = chalcedonism }
 337.5.23 = { controller = ROE owner = ROE add_core = ROE remove_core = ROM } # Final division of the empire
 610.10.5 = { controller = BYZ owner = BYZ add_core = BYZ remove_core = ROE } # Byzantium Formed
+1054.7.20 = { religion = orthodox }
 1100.1.1 = { base_tax = 3 base_production = 3 }
 1182.1.1 = { owner = RUM controller = RUM add_core = RUM capital = "Burdur" }
 1250.1.1 = { culture = turkish religion = sunni remove_core = BYZ }

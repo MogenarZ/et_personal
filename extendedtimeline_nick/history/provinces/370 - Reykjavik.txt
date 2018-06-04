@@ -14,7 +14,8 @@ capital = "Reykjavik"
 900.1.1 = { trade_goods = fish }
 930.1.1 = { owner = ICE controller = ICE add_core = ICE remove_core = NOR is_city = yes }
 950.1.1 = { discovered_by = western }
-999.1.1 = { religion = catholic }
+999.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = catholic }
 1262.1.1 = { owner = NOR controller = NOR add_core = NOR citysize = 800 }
 
 1490.1.1 = {   } # Established during the 12th century

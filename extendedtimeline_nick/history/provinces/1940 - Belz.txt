@@ -23,7 +23,8 @@ base_manpower = 1
 550.1.1 = { owner = LDN controller = LDN add_core = LDN remove_core = VNE culture = ruthenian }
 800.1.1 = { base_tax = 2 base_production = 2 }
 981.1.1 = { owner = KRU controller = KRU add_core = KRU add_core = UKR remove_core = LDN }
-988.1.1 = { religion = orthodox }
+988.1.1 = { religion = chalcedonism }
+1054.7.20 = { religion = orthodox }
 1000.1.1 = { base_manpower = 2 }
 1018.1.1 = { owner = POL controller = POL add_core = POL }
 1030.1.1 = { owner = KRU controller = KRU remove_core = POL }
